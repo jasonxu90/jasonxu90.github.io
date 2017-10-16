@@ -1,4 +1,3 @@
-yout: default
 ---
 
 Research
