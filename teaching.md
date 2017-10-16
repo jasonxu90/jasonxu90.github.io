@@ -5,4 +5,4 @@ Teaching
 
 * Courses
 
-[back](./)
+[Back to homepage](./)
