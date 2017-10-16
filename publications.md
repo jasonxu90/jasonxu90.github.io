@@ -1,6 +1,6 @@
 ---
 
-Research
+Publications
 -------
 
 * Interests

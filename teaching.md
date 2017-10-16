@@ -1,7 +1,6 @@
-yout: default
 ---
 
-Research
+Teaching
 -------
 
 * Courses
