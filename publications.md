@@ -1,8 +1,9 @@
 ---
 
-# [](#header-1)Teaching
+# [](#header-1)Publications
 -------
 
-* Courses
+* List
 
 [Back to homepage](./)
+
