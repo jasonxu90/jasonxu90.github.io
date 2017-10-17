@@ -1,6 +1,6 @@
 ---
 # [](#header-1)Publications
-For working papers in preparation and software, see my [research page](https://jasonxu90.github.io/research.html).
+For a description of working papers in preparation and software, see my [research page](https://jasonxu90.github.io/research.html).
 
 
 Preprints
