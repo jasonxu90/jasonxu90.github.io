@@ -14,17 +14,17 @@ Software
 -------
 Please email me for any code not yet released in a completed package.
 
-*[splitFeas:](https://github.com/jasonxu90/splitFeas) R package, MM algorithms for multi-set split feasibility problems} 
+* [splitFeas:](https://github.com/jasonxu90/splitFeas) R package, MM algorithms for multi-set split feasibility problems} 
 
-*[branchCorr:](https://github.com/jasonxu90/branchCorr) R package, M-estimation for partially observed stochastic compartmental models} 
+* [branchCorr:](https://github.com/jasonxu90/branchCorr) R package, M-estimation for partially observed stochastic compartmental models} 
 
-*[bdsem:](https://github.com/jasonxu90/bdsem) R package, MLE and EM inference in discretely observed multi-type branching processes} 
+* [bdsem:](https://github.com/jasonxu90/bdsem) R package, MLE and EM inference in discretely observed multi-type branching processes} 
 
-*[pysvihmm:](https://github.com/dillonalaird/pysvihmm) Python implementation of stochastic variational inference for hidden Markov models 
+* [pysvihmm:](https://github.com/dillonalaird/pysvihmm) Python implementation of stochastic variational inference for hidden Markov models 
 
-*[multiBD:](https://cran.rstudio.com/web/packages/MultiBD/index.html) R package, likelihood inference in partially observed multivariate birth-death process 
+* [multiBD:](https://cran.rstudio.com/web/packages/MultiBD/index.html) R package, likelihood inference in partially observed multivariate birth-death process 
 
-*[hematopoiesisSimulator:](https://els.comotion.uw.edu/express_license_technologies/hematopoiesissimulator) Java GUI for simulating stochastic models of hematopoiesis
+* [hematopoiesisSimulator:](https://els.comotion.uw.edu/express_license_technologies/hematopoiesissimulator) Java GUI for simulating stochastic models of hematopoiesis
 
 [Back to homepage](./)
 
