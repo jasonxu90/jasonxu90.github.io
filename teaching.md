@@ -3,7 +3,7 @@
 # [](#header-1)Teaching and Mentoring
 -------
 
-* Academic Mentor, RIPS undergraduate research program, UCLA IPAM, Summer 2017.
+* Academic Mentor, RIPS undergraduate research program, UCLA Institute of Pure and Applied Mathematics, Summer 2017. (IPAM interview [here](http://www.ipam.ucla.edu/interviews/5288/))
 
 * Project leader, OpenMendel Computing in Julia Workshop, UCLA, Winter 2016.
 

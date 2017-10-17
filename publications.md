@@ -1,6 +1,6 @@
 ---
 # [](#header-1)Publications
-
+For a description of current working papers, see my [research page](https://jasonxu90.github.io/research.html).
 
 
 Preprints

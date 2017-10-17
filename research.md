@@ -10,6 +10,18 @@ On the applications side, much of my work has focused on stochastic modeling and
 
 A list of publications is available [here](https://jasonxu90.github.io/publications.html).
 
+
+Selected Works in Progress
+-------
+__Fast positive definite estimators of sparse covariance matrices__ (_joint work with Ken Lange_)
+
+__Scalable ADMM for Multivariate Lipschitz Convex Regression__ (_joint work with Hua Zhou, Wotao Yin, Rahul Mazumder, Lori Hu, Eric Chi_)
+
+__Partially Observed Stochastic SIR Models__ (_joint work with Jon Wakefield, Vladimir Minin_)
+
+__Spatial Birth-death-shift Processes__ (_joint work with Alfonso Landeros, Tim Stutz, Janet Sinsheimer, Ken Lange, Mary Sehl_)
+
+
 Software
 -------
 Please email me for any code not yet released in a completed package.
