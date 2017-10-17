@@ -11,7 +11,7 @@ On the applications side, much of my work has focused on stochastic modeling and
 A list of publications is available [here](https://jasonxu90.github.io/publications.html).
 
 
-Selected Works in Progress
+Selected Work in Progress
 -------
 __Fast positive definite estimators of sparse covariance matrices__ (_joint work with Ken Lange_)
 
