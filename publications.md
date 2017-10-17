@@ -1,6 +1,5 @@
 ---
 # [](#header-1)Publications
----
 
 
 
@@ -26,7 +25,7 @@ Myosin-independent cytokinesis in _Giardia_ Utilizes Flagella to Coordinate Forc
 
 * Koelle, S., Wu, C., __Xu, J.__,  Lu, R., Li, B., Donahue, R. E. and Dunbar, C. E. (2017). Quantitative Stability of Hematopoietic Stem and Progenitor Cell Clonal Output in Rhesus Macaques Receiving Transplants. _Blood._
 
-* __Xu, J.__, Koelle, S., Wu, C., Guttorp, P., Dunbar, C.~E., Abkowitz, J.~L. and Minin, V.~N. (2016). Stochastic Modeling of Hematopoietic Stem and Progenitor Cell Barcoding Data from Rhesus Macaques Challenges the Classic Model of Hematopoiesis. _Blood._
+* __Xu, J.__, Koelle, S., Wu, C., Guttorp, P., Dunbar, C. E., Abkowitz, J. L. and Minin, V.~N. (2016). Stochastic Modeling of Hematopoietic Stem and Progenitor Cell Barcoding Data from Rhesus Macaques Challenges the Classic Model of Hematopoiesis. _Blood._
 
 * __Xu, J.__ and  Minin, V. N. (2015). Efficient Transition Probability Computation for Continuous-time Branching Processes via Compressed Sensing. _Uncertainty in Artificial Intelligence (UAI)._
 
