@@ -1,5 +1,4 @@
----
-layout: default
+
 ---
 
 # [](#header-1)Research
@@ -18,11 +17,11 @@ A brief overview of some of the things I'm currently thinking about:
 
 __Fast + positive definite estimation of sparse covariance matrices__ (_joint work with Ken Lange_)
 
-<img src="https://jasonxu90.github.io/files/cov.png " width="40%">
+<img src="https://jasonxu90.github.io/files/cov.png " width="43%">
 
 __Scalable ADMM for Multivariate Lipschitz Convex Regression__ (_joint work with Hua Zhou, Wotao Yin, Rahul Mazumder, Lori Hu, Eric Chi_)
 
-<img src="https://jasonxu90.github.io/files/convex.png " width="50%">
+<img src="https://jasonxu90.github.io/files/convex.png " width="55%">
 
 __Bayesian Inference for Partially Observed SIR Models__ (_joint work with Jon Wakefield, Vladimir Minin_)
 
