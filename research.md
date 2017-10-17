@@ -13,7 +13,7 @@ A list of publications is available [here](https://jasonxu90.github.io/publicati
 
 Selected Current Projects
 -------
-A brief overview of some of the things I'm currently thinking about:
+Some of the things I'm currently thinking about:
 
 __Fast + positive definite estimation of sparse covariance matrices__ (_joint work with Ken Lange_)
 
@@ -27,7 +27,7 @@ __Bayesian Inference for Partially Observed SIR Models__ (_joint work with Jon W
 
 <img src="https://jasonxu90.github.io/files/sir.png " width="55%">
 
-__Tau-leaping + Coupling for Spatial Birth-death-shift Processes__ (_joint work with Alfonso Landeros, Tim Stutz, Janet Sinsheimer, Ken Lange, Mary Sehl_)
+__Simulation + Coupling for Spatial Birth-death-shift Processes__ (_joint work with Alfonso Landeros, Tim Stutz, Janet Sinsheimer, Ken Lange, Mary Sehl_)
 
 
 Software
