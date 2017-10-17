@@ -16,7 +16,7 @@ Preprints
 
 Published
 -------
-*  __Xu, J.__, Chi, E. and Lange, K. (2017). Generalized Linear Model Regression under Distance-to-set Penalties. _To appear, Neural Information Processing Systems (NIPS)._  **(Spotlight)**
+*  __Xu, J.__, Chi, E. and Lange, K. (2017). Generalized Linear Model Regression under Distance-to-set Penalties. _To appear, Neural Information Processing Systems (NIPS)._  **(Spotlight Paper)**
 
 * Ho, L., __Xu, J.__, Crawford, F. W., Minin, V. N. and Suchard, M. A. (2017).  Birth/birth-death Processes and their Computable Transition Probabilities with Biological Applications. _Journal of Mathematical Biology._  
 
