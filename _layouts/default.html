@@ -22,10 +22,6 @@
         <img src="https://jasonxu90.github.io/files/me.jpg">
 
 
-        {% if site.github.is_user_page %}
-          <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
-        {% endif %}
-
         <ul>
           <li><a href="https://jasonxu90.github.io/research.html"><strong>Research</strong></a></li>
           <li><a href="https://jasonxu90.github.io/publications.html"><strong>Publications</strong></a></li>
@@ -33,6 +29,10 @@
         </ul>
 
         <p> NSF Postdoctoral Research Fellow  <br> University of California, Los Angeles <br> Department of Biomathematics <br> <br> Email:  jqxu at ucla dot edu <br></p>
+
+        {% if site.github.is_user_page %}
+          <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
+        {% endif %}
 
       </header>
       
