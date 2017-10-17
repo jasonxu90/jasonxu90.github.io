@@ -1,4 +1,6 @@
 ---
+layout: default
+---
 
 # [](#header-1)Research
 -------
@@ -15,12 +17,15 @@ Selected Current Projects
 A brief overview of some of the things I'm currently thinking about:
 
 __Fast + positive definite estimation of sparse covariance matrices__ (_joint work with Ken Lange_)
+
 ![](https://jasonxu90.github.io/files/cov)
 
 __Scalable ADMM for Multivariate Lipschitz Convex Regression__ (_joint work with Hua Zhou, Wotao Yin, Rahul Mazumder, Lori Hu, Eric Chi_)
+
 ![](https://jasonxu90.github.io/files/convex)
 
 __Bayesian Inference for Partially Observed SIR Models__ (_joint work with Jon Wakefield, Vladimir Minin_)
+
 ![](https://jasonxu90.github.io/files/sir)
 
 __Tau-leaping + Coupling for Spatial Birth-death-shift Processes__ (_joint work with Alfonso Landeros, Tim Stutz, Janet Sinsheimer, Ken Lange, Mary Sehl_)
