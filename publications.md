@@ -40,5 +40,5 @@ Thesis
 * __Xu, J.__ (2016). Likelihood-Based Inference for Partially Observed Multi-Type Markov Branching Processes. _PhD Dissertation, Department of Statistics, University of Washington_.
 
 
-[Back to homepage](./)
+[__Back to homepage__](./)
 

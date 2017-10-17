@@ -38,5 +38,5 @@ Please email me for any code not yet released in a completed package.
 
 * [hematopoiesisSimulator:](https://els.comotion.uw.edu/express_license_technologies/hematopoiesissimulator) Java GUI for simulating stochastic models of hematopoiesis
 
-[Back to homepage](./)
+[__Back to homepage__](./)
 
