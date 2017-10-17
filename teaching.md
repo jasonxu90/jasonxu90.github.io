@@ -1,9 +1,11 @@
 ---
 
-# [](#header-1)Teaching
+# [](#header-1)Teaching and Mentoring
 -------
 
-* Academic Mentor, RIPS undergraduate research program, UCLA IPAM, Summer Quarter 2017.
+* Academic Mentor, RIPS undergraduate research program, UCLA IPAM, Summer 2017.
+
+* Project leader, OpenMendel Computing in Julia Workshop, UCLA, Winter 2016.
 
 * Instructor, BIOMATH 210: Optimization Methods, UCLA, Fall Quarter 2016.
 
