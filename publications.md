@@ -10,9 +10,10 @@ Preprints
 
 * __Xu, J.__, Chi, E., Yang, M. and Lange, K. (2017+). A Majorization-minimization Algorithm for Split Feasibility Problems.
 
+* Gustafson, A., Hirn, M., Mohammed, K., Narayanan, H. and __Xu, J.__ (2017+). A Probably-Approximately-Correct Algorithm for Learning a _C_<sup>1,1</sup>(R<sup>d</sup>) Function from Noisy Samples.
+
 * Cademartori, C., Chen, X., Letcher, A., Trišović, J. and __Xu, J.__ (2017+). Automatic Conflict Detection in Police Body-Worn Audio.
 
-* Gustafson, A., Hirn, M., Mohammed, K., Narayanan, H. and __Xu, J.__ (2017+). A Probably-Approximately-Correct Algorithm for Learning a _C_<sup>1,1</sup>(R<sup>d</sup>) Function from Noisy Samples.
 
 Published
 -------
