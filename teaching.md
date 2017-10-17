@@ -13,4 +13,4 @@
 
 * Tutor, University of Washington Statistics Tutor and Study Center, 2013---2015.
 
-[__Back to homepage__](./)
+[Back to homepage](./)
