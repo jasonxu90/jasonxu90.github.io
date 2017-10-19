@@ -39,7 +39,7 @@ Myosin-independent cytokinesis in _Giardia_ Utilizes Flagella to Coordinate Forc
 
 Thesis
 -------
-* __Xu, J.__ (2016). Likelihood-Based Inference for Partially Observed Multi-Type Markov Branching Processes. _PhD Dissertation, Department of Statistics, University of Washington_. [(Link)](https://digital.lib.washington.edu/researchworks/handle/1773/37251)
+* __Xu, J.__ (2016). Likelihood-Based Inference for Partially Observed Multi-Type Markov Branching Processes. _PhD Dissertation, Department of Statistics, University of Washington_. 
 
 
 [Back to homepage](./)
