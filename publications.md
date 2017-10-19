@@ -48,9 +48,9 @@ Software
 -------
 * [splitFeas:](https://github.com/jasonxu90/splitFeas) R package, MM algorithms for multi-set split feasibility problems} 
 
-* [branchCorr:](https://github.com/jasonxu90/branchCorr) R package, M-estimation for partially observed stochastic compartmental models} 
+* [branchCorr:](https://github.com/jasonxu90/branchCorr) R package, M-estimation for partially observed stochastic compartmental models
 
-* [bdsem:](https://github.com/jasonxu90/bdsem) R package, MLE and EM inference in discretely observed multi-type branching processes} 
+* [bdsem:](https://github.com/jasonxu90/bdsem) R package, MLE and EM inference in discretely observed multi-type branching processes
 
 * [pysvihmm:](https://github.com/dillonalaird/pysvihmm) Python implementation of stochastic variational inference for hidden Markov models 
 
