@@ -6,4 +6,4 @@ I am currently an [NSF Mathematical Sciences Postdoctoral Research Fellow](https
 
 &nbsp;
 
-I grew up in Tucson, Arizona. When I'm not at the Grand Canyon, I enjoy literature, bouldering, ambient music, cycling, and cooking new recipes. My experience with the latter reveals that science is not the only endeavor suffering from a reproducibility crisis. 
+I grew up in Tucson, Arizona. When I'm not at the Grand Canyon, I enjoy literature, bouldering, ambient music, cycling, and cooking new recipes. My experience with the latter reveals that science is not the only endeavor undergoing a reproducibility crisis. 
