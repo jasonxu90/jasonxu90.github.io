@@ -45,6 +45,7 @@ Thesis
 
 Software
 -------
+* * *
 * [splitFeas:](https://github.com/jasonxu90/splitFeas) R package, MM algorithms for multi-set split feasibility problems} 
 
 * [branchCorr:](https://github.com/jasonxu90/branchCorr) R package, M-estimation for partially observed stochastic compartmental models} 
