@@ -32,7 +32,7 @@ Shape-constrained regression and density estimation are classical statistical pr
 Building on [recent](https://arxiv.org/abs/1509.08165) work, we present an alternating directions (ADMM) algorithm to solve this problem that can handle datasets with hundreds of thousands of observations, with dimensionality in the thousands. 
 Our formulation regularizes the l<sub>2</sub>-norm of the subgradients to reduce generalization error by combating erratic fluctuations near the boundary. Such behavior is a well-known phenomenon in nonparametric regression that effects large biases when left unaccounted for. The resulting objective function decomposes into three blocks, and we prove primal + dual convergence of our three-operator splitting algorithm by way of a variational inequality characterization. This marks a departure from the many studies extending ADMM schematically to objectives with more than two blocks, which works well in some cases but is not guaranteed to be convergent. We apply our method to econometric and environmental data. 
 
-* I'll be talking about this at [SDSS 2018](http://ww2.amstat.org/meetings/sdss/2018/) in the invited session _"Recent Advances in Statistical Machine Learning"_
+* I'll be talking about this at [SDSS 2018](http://ww2.amstat.org/meetings/sdss/2018/) in the invited session _Recent Advances in Statistical Machine Learning_
 
 * * *
 __Bayesian inference for fitting SIR models to large, partially observed outbreaks__ (_with Jon Wakefield, Vladimir Minin_)
@@ -43,7 +43,7 @@ Continuous-time stochastic processes subject to nonlinear mechanistic dynamics a
 
 Our method relies on a branching process that closely approximates the SIR model. This process enjoys many nice properties, including explicit expressions for transition probabilities, and one could efficiently perform approximate SIR inference based on the likelihood or posterior of the branching process. Among these nice properties is a closed-form distribution of infection times over any finite time interval, given the populations at its endpoints. We show that this result leads to efficient complete data augmentation by treating the branching approximation as a proposal density. This enables Metropolis-Hastings samplers that target the _exact_ SIR posterior even when only one of the three populations is observed, i.e. we only observe new disease cases. Currently, the resulting Markov chain Monte Carlo algorithm scales to outbreaks with hundreds of thousands of infection and removal events on a standard laptop. We apply the approach to incidence data from the Ebola outbreak in West Africa, where the susceptible population count is in the millions.
 
-* I'll be presenting this at the [Design and Analysis of Infectious Disease](https://www.mfo.de/occasion/1808/www_view) invited workshop at the Oberwolfach Research Institute for Mathematics
+* I'll be presenting this at the [_Design and Analysis of Infectious Disease Studies_](https://www.mfo.de/occasion/1808/www_view) invited workshop at the Oberwolfach Research Institute for Mathematics
 
 
 * * *

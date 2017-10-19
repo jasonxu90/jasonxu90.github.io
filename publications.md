@@ -14,7 +14,7 @@ Preprints
 
 * Gustafson, A., Hirn, M., Mohammed, K., Narayanan, H. and __Xu, J.__ (2017+). A Probably-Approximately-Correct Algorithm for Learning a _C_<sup>1,1</sup>(R<sup>d</sup>) Function from Noisy Samples.
 
-* Cademartori, C., Chen, X., Letcher, A., Trišović, J. and __Xu, J.__ (2017+). Automatic Conflict Detection in Police Body-Worn Audio.
+* Letcher, A.\*, Trišović, J.\*, Cademartori, C., Chen, X. and __Xu, J.__ (2017+). Automatic Conflict Detection in Police Body-Worn Audio.
 
 
 Published
