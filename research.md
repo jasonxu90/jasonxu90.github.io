@@ -7,7 +7,7 @@ These considerations lead to new directions toward developing algorithms for lar
 
 On the applications side, much of my work has focused on stochastic modeling and inference for hematopoiesis, the process of blood cell production. I enjoy collaborating closely with scientists and learning about new domains; recent areas of interest include infectious disease modeling, statistical problems in medical imaging, and analyzing environmental data.
 
-A list of publications along with software is available [here](https://jasonxu90.github.io/publications.html).
+A list of publications along with software is [available here](https://jasonxu90.github.io/publications.html).
 
 
 Selected Current Projects
@@ -27,7 +27,7 @@ __Large-scale multivariate convex regression__ (_with Hua Zhou, Wotao Yin, Rahul
 
 <img src="https://jasonxu90.github.io/files/convex.png " width="70%">
 
-Shape-constrained regression and density estimation are classical statistical problems, but algorithms in the multivariate setting lag behind recent theoretical advances. Convexity is the simplest shape restriction that enjoys a natural generalization to higher dimensions, but regression subject to convexity restrictions presents computational difficulties, as the set of constraints to be enforced increases rapidly with the number of observations. 
+Shape-constrained regression and density estimation are classical statistical tasks, but algorithms in the multivariate setting lag behind recent theoretical advances. Convexity is the simplest shape restriction that enjoys a natural generalization to higher dimensions, but regression subject to convexity restrictions presents computational difficulties, as the set of constraints to be enforced increases rapidly with the number of observations. 
 
 Building on [recent](https://arxiv.org/abs/1509.08165) work, we present an alternating directions (ADMM) algorithm to solve this problem that can handle datasets with hundreds of thousands of observations, with dimensionality in the thousands. 
 Our formulation regularizes the l<sub>2</sub>-norm of the subgradients to reduce generalization error by combating erratic fluctuations near the boundary. Such behavior is a well-known phenomenon in nonparametric regression that effects large biases when left unaccounted for. The resulting objective function decomposes into three blocks, and we prove primal + dual convergence of our three-operator splitting algorithm by way of a variational inequality characterization. This marks a departure from the many studies extending ADMM schematically to objectives with more than two blocks, which works well in some cases but is not guaranteed to be convergent. We apply our method to econometric and environmental data. 
