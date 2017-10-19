@@ -14,7 +14,7 @@ Selected Current Projects
 -------
 Some of the things I'm thinking about:
 
-__Fast + positive definite estimation of sparse covariance matrices__ (_with Ken Lange_)
+__Fast + positive definite sparse covariance estimation__ (_with Ken Lange_)
 
 <img src="https://jasonxu90.github.io/files/cov.png " width="58%">
 
