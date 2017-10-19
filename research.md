@@ -2,8 +2,8 @@
 ---
 # [](#header-1)Research
 
-My research lies at the interface of methodology for statistical learning/inference and optimization. I am particularly interested in inference under partially observed data arising from continuous-time Markov processes, an exciting problem that combines spectral methods and stochastic process theory. The computational aspects of this challenge demand the development of efficient and robust optimization or sampling techniques. 
-These considerations lead to new directions toward scalable algorithms for large-scale and high-dimensional estimation under a wide range of constraints including sparsity, rank, smoothness, and shape restrictions. A recurring theme in this recent line of work entails converting difficult (nonsmooth, nonconvex) problems into feasible subproblems via operator splitting or iterative schemes.
+My research lies at the interface of methodology for statistical learning/inference and optimization. I am particularly interested in inference under partially observed data arising from continuous-time Markov processes, an exciting problem that combines spectral methods and stochastic process theory. The computational aspects of this challenge demand efficient and robust optimization or sampling techniques. 
+These considerations lead to new directions toward developing algorithms for large-scale and high-dimensional estimation under a wide range of constraints including sparsity, rank, smoothness, and shape restrictions. A recurring theme in this recent line of work entails converting difficult (nonsmooth, nonconvex) problems into feasible subproblems via operator splitting or iterative schemes.
 
 On the applications side, much of my work has focused on stochastic modeling and inference for hematopoiesis, the process of blood cell production. I enjoy collaborating closely with scientists and learning about new domains; recent areas of interest include infectious disease modeling, statistical problems in medical imaging, and analyzing environmental data.
 
@@ -27,10 +27,12 @@ __Large-scale multivariate convex regression__ (_with Hua Zhou, Wotao Yin, Rahul
 
 <img src="https://jasonxu90.github.io/files/convex.png " width="70%">
 
-Shape-constrained regression and density estimation are classical statistical problems, but algorithms in the multivariate setting lag behind recent theoretical contributions. Convexity is the simplest shape restriction that enjoys a natural generalization to higher dimensions, but regression subject to convexity restrictions presents computational challenges, as the set of constraints to be enforced increases rapidly with the number of observations. 
+Shape-constrained regression and density estimation are classical statistical problems, but algorithms in the multivariate setting lag behind recent theoretical advances. Convexity is the simplest shape restriction that enjoys a natural generalization to higher dimensions, but regression subject to convexity restrictions presents computational difficulties, as the set of constraints to be enforced increases rapidly with the number of observations. 
 
 Building on [recent](https://arxiv.org/abs/1509.08165) work, we present an alternating directions (ADMM) algorithm to solve this problem that can handle datasets with hundreds of thousands of observations, with dimensionality in the thousands. 
 Our formulation regularizes the l<sub>2</sub>-norm of the subgradients to reduce generalization error by combating erratic fluctuations near the boundary. Such behavior is a well-known phenomenon in nonparametric regression that effects large biases when left unaccounted for. The resulting objective function decomposes into three blocks, and we prove primal + dual convergence of our three-operator splitting algorithm by way of a variational inequality characterization. This marks a departure from the many studies extending ADMM schematically to objectives with more than two blocks, which works well in some cases but is not guaranteed to be convergent. We apply our method to econometric and environmental data. 
+
+* I'll be talking about this at [SDSS](http://ww2.amstat.org/meetings/sdss/2018/) in the invited session _"Recent Advances in Statistical Machine Learning"_
 
 * * *
 __Bayesian inference for fitting SIR models to large, partially observed outbreaks__ (_with Jon Wakefield, Vladimir Minin_)
@@ -40,6 +42,9 @@ __Bayesian inference for fitting SIR models to large, partially observed outbrea
 Continuous-time stochastic processes subject to nonlinear mechanistic dynamics are notoriously difficult to study mathematically. This is true of the stochastic Susceptible-Infected-Removed (SIR) process, a relatively simple model of infection that has become seminal in epidemiology. The majority of statistical studies resort to methods based on forward simulation from the model. While flexible, approaches such as sequential Monte Carlo are limited to systems comprised of thousands of individuals. As a consequence, statistical studies of larger outbreaks turn to model simplifications such as piecewise constant or diffusion approximations.
 
 Our method relies on a branching process that closely approximates the SIR model. This process enjoys many nice properties, including explicit expressions for transition probabilities, and one could efficiently perform approximate SIR inference based on the likelihood or posterior of the branching process. Among these nice properties is a closed-form distribution of infection times over any finite time interval, given the populations at its endpoints. We show that this property leads to efficient complete data augmentation by treating the branching approximation as a proposal density. This enables Metropolis-Hastings samplers that target the _exact_ SIR posterior even when only one of the three populations is observed, i.e. we only observe new disease cases. Currently, the resulting Markov chain Monte Carlo algorithm scales to outbreaks with hundreds of thousands of infection and removal events on a standard laptop. We apply the approach to incidence data from the Ebola outbreak in West Africa, where the susceptible population count is in the millions.
+
+* I'll be presenting this at the [Design and Analysis of Infectious Disease](https://www.mfo.de/occasion/1808/www_view) invited workshop at the Oberwolfach Research Institute for Mathematics
+
 
 * * *
 __Coupling + simulation for spatial birth-death-shift processes__ (_with Alfonso Landeros, Tim Stutz, Janet Sinsheimer, Ken Lange, Mary Sehl_)
