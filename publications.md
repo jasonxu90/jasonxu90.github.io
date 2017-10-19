@@ -1,7 +1,7 @@
 ---
 # [](#header-1)Publications
 Many of these are available on [arXiv](https://arxiv.org/find/all/1/all:+EXACT+jason_xu/0/1/0/all/0/1).
-For software and a description of working papers in preparation, see my [research page](https://jasonxu90.github.io/research.html). 
+For a description of working papers in preparation, see my [research page](https://jasonxu90.github.io/research.html). 
 
 
 Preprints
@@ -40,6 +40,24 @@ Myosin-independent cytokinesis in _Giardia_ Utilizes Flagella to Coordinate Forc
 Thesis
 -------
 * __Xu, J.__ (2016). Likelihood-Based Inference for Partially Observed Multi-Type Markov Branching Processes. _PhD Dissertation, Department of Statistics, University of Washington_. 
+
+
+
+Software
+-------
+* [splitFeas:](https://github.com/jasonxu90/splitFeas) R package, MM algorithms for multi-set split feasibility problems} 
+
+* [branchCorr:](https://github.com/jasonxu90/branchCorr) R package, M-estimation for partially observed stochastic compartmental models} 
+
+* [bdsem:](https://github.com/jasonxu90/bdsem) R package, MLE and EM inference in discretely observed multi-type branching processes} 
+
+* [pysvihmm:](https://github.com/dillonalaird/pysvihmm) Python implementation of stochastic variational inference for hidden Markov models 
+
+* [multiBD:](https://cran.rstudio.com/web/packages/MultiBD/index.html) R package, likelihood inference in partially observed multivariate birth-death process 
+
+* [hematopoiesisSimulator:](https://els.comotion.uw.edu/express_license_technologies/hematopoiesissimulator) Java GUI for simulating stochastic models of hematopoiesis
+
+Please email me for any code not yet released in a completed package.
 
 
 [Back to homepage](./)
