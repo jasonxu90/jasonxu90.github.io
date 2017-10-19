@@ -9,7 +9,7 @@ These considerations lead to new directions toward scalable algorithms for large
 
 On the applications side, much of my work has focused on stochastic modeling and inference for hematopoiesis, the process of blood cell production. I enjoy collaborating closely with scientists and learning about new domains; recent areas of interest include infectious disease modeling, statistical problems in medical imaging, and analyzing environmental data.
 
-A list of publications is available [here](https://jasonxu90.github.io/publications.html).
+A list of publications along with software is available [here](https://jasonxu90.github.io/publications.html).
 
 
 Selected Current Projects
@@ -24,7 +24,7 @@ Seeking a sparse estimate of a covariance matrix reducees the number of effectiv
 
 We develop a proximal distance algorithm based on majorization-minimization (MM), a principle that generalizes the expectation-maximization (EM) framework better known to statisticians. Both transfer optimization onto a sequence of nicer _surrogate functions_. We produce a tighter surrogate than existing MM approaches, important toward achieving faster convergence in practice.  As an alternative to L<sub>1</sub> shrinkage, we penalize the distance from each estimate to its projection onto a symmetric sparsity set. This reaps nice properties: while most MM algorithms rely on gradient or Newton steps, our sequential minimizations admit direct solutions that are efficiently computed by exploiting a surprising connection to dynamical systems and control theory. Positive definiteness usually proves to be a cumbersome constraint, but is guaranteed at each iterate via simple backtracking using our approach. These merits go a long way in practice, as demonstrated in an analysis of international migration data with tens of thousands of parameters to be estimated. 
 
-
+* * *
 <img src="https://jasonxu90.github.io/files/convex.png " width="70%">
 
 __Large-scale multivariate convex regression__ (_joint work with Hua Zhou, Wotao Yin, Rahul Mazumder, Lori Hu, Eric Chi_)
@@ -34,7 +34,7 @@ Shape-constrained regression and density estimation are classical statistical pr
 Building on [recent](https://arxiv.org/abs/1509.08165) work, we present an alternating directions (ADMM) algorithm to solve this problem that can handle datasets with hundreds of thousands of observations, with dimensionality in the thousands. 
 Our formulation includes L<sub>2</sub> regularization of the subgradients to reduce generalization error by combating erratic fluctuations near the boundary. Such behavior is a well-known phenomenon in nonparametric regression that effects large biases when unaccounted for. The resulting objective function decomposes into three blocks, and we provide a direct proof that our three-operator splitting algorithm enjoys primal + dual convergence via a variational inequality characterization. This is a departure from the many studies applying ADMM to objectives with more than two blocks, which works well in some cases but is not guaranteed to be convergent. We apply our method to econometric and environmental data. 
 
-
+* * *
 <img src="https://jasonxu90.github.io/files/sir.png " width="64%">
 
 __Bayesian inference for fitting SIR models to massive, partially observed outbreaks__ (_joint work with Jon Wakefield, Vladimir Minin_)
@@ -43,7 +43,7 @@ Continuous-time stochastic processes subject to nonlinear mechanistic dynamics a
 
 Our approach relies on a branching process that closely approximates the SIR model. This process enjoys many nice properties, including closed form expressions for transition probabilities, and one could efficiently perform approximate inference under the SIR model based on the likelihood or posterior of the branching process. Among these nice properties is a simple distribution of infection times over any finite interval, given the populations at the endpoints. We show that this property enables efficient complete data augmentation by treating the branching approximation as a proposal density. This yields Metropolis-Hastings methods that target the _exact_ SIR posterior even when only one of the three populations is observed, i.e. we only observe new disease cases. Currently, the resulting Markov chain Monte Carlo algorithm is feasible for outbreaks with hundreds of thousands of infection and removal events on a standard laptop. We apply the approach to incidence data from the Ebola outbreak in West Africa, where the susceptible population count is in the millions.
 
-
+* * *
 <img src="https://jasonxu90.github.io/files/lattice.png " width="60%">
 
 __Coupling + simulation for spatial birth-death-shift processes__ (_joint work with Alfonso Landeros, Tim Stutz, Janet Sinsheimer, Ken Lange, Mary Sehl_)
