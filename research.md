@@ -9,7 +9,7 @@ On the applications side, much of my work has focused on stochastic modeling and
 
 A list of publications along with software is available [here](https://jasonxu90.github.io/publications.html).
 
-* * *
+
 Selected Current Projects
 -------
 Some of the things I'm thinking about:
