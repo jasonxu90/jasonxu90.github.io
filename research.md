@@ -1,6 +1,5 @@
 
 ---
-
 # [](#header-1)Research
 
 My research lies at the interface of methodology for statistical learning/inference and optimization. I am particularly interested in inference under partially observed data arising from continuous-time Markov processes, an exciting problem that combines spectral methods and stochastic process theory. The computational aspects of this challenge demand the development of efficient and robust optimization or sampling techniques. 
