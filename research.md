@@ -4,7 +4,8 @@
 # [](#header-1)Research
 -------
 
-My research lies at the interface of methodology for statistical learning/inference and optimization. I am particularly interested in estimation under partially observed data arising from continuous-time Markov processes, an exciting problem that combines spectral methods, stochastic process theory, and efficient optimization or sampling techniques. This work has lead to new directions in developing algorithms for large-scale and high-dimensional regression under a wide range of constraints including sparsity, rank, smoothness, and shape restrictions. 
+My research lies at the interface of methodology for statistical learning/inference and optimization. I am particularly interested in inference under partially observed data arising from continuous-time Markov processes, an exciting problem that combines spectral methods and stochastic process theory. The computational aspects of this challenge demands the development of efficient and robust optimization or sampling techniques. 
+This work has lead to new directions toward scalable algorithms for large-scale and high-dimensional estimation under a wide range of constraints including sparsity, rank, smoothness, and shape restrictions. A recurring theme in the methods I work on entails converting difficult (nonsmooth, nonconvex) problems into feasible subproblems via operator splitting or iterative schemes.
 
 On the applications side, much of my work has focused on stochastic modeling and inference for hematopoiesis, the process of blood cell production. I enjoy collaborating closely with scientists and learning about new domains; recent areas of interest include infectious disease modeling, statistical problems in medical imaging, and analyzing environmental data.
 
@@ -13,21 +14,22 @@ A list of publications is available [here](https://jasonxu90.github.io/publicati
 
 Selected Current Projects
 -------
-Some of the things I'm currently thinking about:
+Some of the things I'm thinking about:
 
-__Fast + positive definite estimation of sparse covariance matrices__ (_joint work with Ken Lange_)
+<img src="https://jasonxu90.github.io/files/cov.png " width="60%">
+__Fast + positive definite likelihood-based estimation of sparse covariance matrices__ (_joint work with Ken Lange_)
 
-<img src="https://jasonxu90.github.io/files/cov.png " width="50%">
 
-__Scalable ADMM for Multivariate Lipschitz Convex Regression__ (_joint work with Hua Zhou, Wotao Yin, Rahul Mazumder, Lori Hu, Eric Chi_)
+<img src="https://jasonxu90.github.io/files/convex.png " width="75%">
+__Scalable ADMM for multivariate Lipschitz convex regression with regularization__ (_joint work with Hua Zhou, Wotao Yin, Rahul Mazumder, Lori Hu, Eric Chi_)
 
-<img src="https://jasonxu90.github.io/files/convex.png " width="65%">
 
-__Bayesian Inference for Partially Observed SIR Models__ (_joint work with Jon Wakefield, Vladimir Minin_)
+<img src="https://jasonxu90.github.io/files/sir.png " width="65%">
+__Bayesian inference for fitting large, partially observed data to SIR models__ (_joint work with Jon Wakefield, Vladimir Minin_)
 
-<img src="https://jasonxu90.github.io/files/sir.png " width="55%">
 
-__Simulation + Coupling for Spatial Birth-death-shift Processes__ (_joint work with Alfonso Landeros, Tim Stutz, Janet Sinsheimer, Ken Lange, Mary Sehl_)
+<img src="https://jasonxu90.github.io/files/lattice.png " width="55%">
+__Coupling + simulation for spatial birth-death-shift processes__ (_joint work with Alfonso Landeros, Tim Stutz, Janet Sinsheimer, Ken Lange, Mary Sehl_)
 
 
 Software

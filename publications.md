@@ -1,6 +1,7 @@
 ---
 # [](#header-1)Publications
-For a description of working papers in preparation and software, see my [research page](https://jasonxu90.github.io/research.html).
+Many of these are available on [arXiv](https://arxiv.org/find/all/1/all:+EXACT+jason_xu/0/1/0/all/0/1).
+For software and a description of working papers in preparation, see my [research page](https://jasonxu90.github.io/research.html). 
 
 
 Preprints
@@ -38,7 +39,7 @@ Myosin-independent cytokinesis in _Giardia_ Utilizes Flagella to Coordinate Forc
 
 Thesis
 -------
-* __Xu, J.__ (2016). Likelihood-Based Inference for Partially Observed Multi-Type Markov Branching Processes. _PhD Dissertation, Department of Statistics, University of Washington_.
+* __Xu, J.__ (2016). Likelihood-Based Inference for Partially Observed Multi-Type Markov Branching Processes. _PhD Dissertation, Department of Statistics, University of Washington_. [(Link)](https://digital.lib.washington.edu/researchworks/handle/1773/37251)
 
 
 [Back to homepage](./)
