@@ -16,19 +16,23 @@ Selected Current Projects
 -------
 Some of the things I'm thinking about:
 
-<img src="https://jasonxu90.github.io/files/cov.png " width="60%">
+<img src="https://jasonxu90.github.io/files/cov.png " width="55%">
+
 __Fast + positive definite likelihood-based estimation of sparse covariance matrices__ (_joint work with Ken Lange_)
 
 
-<img src="https://jasonxu90.github.io/files/convex.png " width="75%">
+<img src="https://jasonxu90.github.io/files/convex.png " width="70%">
+
 __Scalable ADMM for multivariate Lipschitz convex regression with regularization__ (_joint work with Hua Zhou, Wotao Yin, Rahul Mazumder, Lori Hu, Eric Chi_)
 
 
-<img src="https://jasonxu90.github.io/files/sir.png " width="65%">
+<img src="https://jasonxu90.github.io/files/sir.png " width="62%">
+
 __Bayesian inference for fitting large, partially observed data to SIR models__ (_joint work with Jon Wakefield, Vladimir Minin_)
 
 
-<img src="https://jasonxu90.github.io/files/lattice.png " width="55%">
+<img src="https://jasonxu90.github.io/files/lattice.png " width="60%">
+
 __Coupling + simulation for spatial birth-death-shift processes__ (_joint work with Alfonso Landeros, Tim Stutz, Janet Sinsheimer, Ken Lange, Mary Sehl_)
 
 
