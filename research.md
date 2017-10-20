@@ -49,7 +49,7 @@ Our method relies on a branching process that closely approximates the SIR model
 * * *
 __Coupling + simulation for spatial birth-death-shift processes__ (_with Alfonso Landeros, Tim Stutz, Janet Sinsheimer, Ken Lange, Mary Sehl_)
 
-<img src="https://jasonxu90.github.io/files/lattice.png " width="60%">
+<img src="https://jasonxu90.github.io/files/lattice.png " width="70%">
 
 
 Motivated by the need for realistic stochastic models of tumor progression, we study the transient behavior of birth-death-shift processes on a lattice. Interacting particle systems with spatial dependence are extremely complex, and celebrated mathematical results concerning asymptotic behavior and phase transitions in such systems have limited use toward inference. We present efficient data structures that, together with tau-leaping algorithms, allow for simulation of these lattice processes for realistic population sizes. We relate these methods to the more analytically tractable well-mixed case (without area interaction) via coupling bounds. These contributions together allow for numerical estimation of critical quantities such as first passage times and extinction probabilities.
