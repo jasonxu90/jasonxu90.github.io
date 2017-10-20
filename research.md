@@ -14,15 +14,6 @@ Selected Current Projects
 -------
 Some of the things I'm thinking about:
 
-__Fast + positive definite sparse covariance estimation__ (_with Ken Lange_)
-
-<img src="https://jasonxu90.github.io/files/cov.png " width="58%">
-
-Seeking a sparse estimate of a covariance matrix reduces the number of effective parameters in a problem whose dimension grows quadratically in the number of covariates. Zero entries have an important interpretation as marginal independencies, in contrast with zeros in the inverse covariance (_precision_) matrix which encode conditional independence. The latter problem is well-studied; l<sub>1</sub> shrinkage methods such as graphical lasso offer a nice solution. Sparse covariance estimation is more difficult: the likelihood is no longer convex.  Existing penalized likelihood approaches can be slow in practice and quickly become limited by the size of the data. 
-
-We develop a proximal distance algorithm based on majorization-minimization (MM), a principle that generalizes the expectation-maximization (EM) framework better known to statisticians. Both transfer optimization onto a sequence of simpler _surrogate functions_. We produce a tighter surrogate than existing MM approaches, important toward achieving faster convergence empirically.  As an alternative to l<sub>1</sub> shrinkage, we penalize the distance from each estimate to its projection onto a symmetric sparsity set. Doing so yields nice properties: while most MM algorithms rely on gradient or Newton steps, these sequential minimizations admit direct solutions that can be efficiently computed by exploiting a surprising connection to dynamical systems and control theory. Positive definiteness is often a cumbersome constraint, but is guaranteed at each iterate via simple backtracking using our approach. These merits go a long way in practice, as demonstrated in an analysis of international migration data with tens of thousands of parameters to be estimated. 
-
-* * *
 __Large-scale multivariate convex regression__ (_with Hua Zhou, Wotao Yin, Rahul Mazumder, Lori Hu, Eric Chi_)
 
 <img src="https://jasonxu90.github.io/files/convex.png " width="70%">
@@ -33,6 +24,16 @@ Building on [recent](https://arxiv.org/abs/1509.08165) work, we present an alter
 Our formulation regularizes the l<sub>2</sub>-norm of the subgradients to reduce generalization error by combating erratic fluctuations near the boundary. Such behavior is a well-known phenomenon in nonparametric regression that effects large biases when left unaccounted for. The resulting objective function decomposes into three blocks, and we prove primal + dual convergence of our three-operator splitting algorithm by way of a variational inequality characterization. This marks a departure from the many studies extending ADMM schematically to objectives with more than two blocks, which sometimes works well but is not guaranteed to be convergent. We apply our method to econometric and environmental data. 
 
 * I'll be talking about this at [SDSS 2018](http://ww2.amstat.org/meetings/sdss/2018/) in the invited session _Recent Advances in Statistical Machine Learning_
+
+
+* * *
+__Fast + positive definite sparse covariance estimation__ (_with Ken Lange_)
+
+<img src="https://jasonxu90.github.io/files/cov.png " width="58%">
+
+Seeking a sparse estimate of a covariance matrix reduces the number of effective parameters in a problem whose dimension grows quadratically in the number of covariates. Zero entries have an important interpretation as marginal independencies, in contrast with zeros in the inverse covariance (_precision_) matrix which encode conditional independence. The latter problem is well-studied; l<sub>1</sub> shrinkage methods such as graphical lasso offer a nice solution. Sparse covariance estimation is more difficult: the likelihood is no longer convex.  Existing penalized likelihood approaches can be slow in practice and quickly become limited by the size of the data. 
+
+We develop a proximal distance algorithm based on majorization-minimization (MM), a principle that generalizes the expectation-maximization (EM) framework better known to statisticians. Both transfer optimization onto a sequence of simpler _surrogate functions_. We produce a tighter surrogate than existing MM approaches, important toward achieving faster convergence empirically.  As an alternative to l<sub>1</sub> shrinkage, we penalize the distance from each estimate to its projection onto a symmetric sparsity set. Doing so yields nice properties: while most MM algorithms rely on gradient or Newton steps, these sequential minimizations admit direct solutions that can be efficiently computed by exploiting a surprising connection to dynamical systems and control theory. Positive definiteness is often a cumbersome constraint, but is guaranteed at each iterate via simple backtracking using our approach. These merits go a long way in practice, as demonstrated in an analysis of cell signaling data and international migration data with tens of thousands of parameters to be estimated. 
 
 * * *
 __Bayesian inference for fitting SIR models to large, partially observed outbreaks__ (_with Jon Wakefield, Vladimir Minin_)
