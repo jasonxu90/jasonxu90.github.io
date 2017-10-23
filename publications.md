@@ -50,13 +50,13 @@ Software
 
 * [branchCorr:](https://github.com/jasonxu90/branchCorr) R package, M-estimation for partially observed stochastic compartmental models
 
-* [bdsem:](https://github.com/jasonxu90/bdsem) R package, MLE and EM inference in discretely observed multi-type branching processes
+* [bdsem:](https://github.com/jasonxu90/bdsem) R package, MLE and EM inference for discretely observed multi-type branching processes
 
 * [pysvihmm:](https://github.com/dillonalaird/pysvihmm) Python implementation of stochastic variational inference for hidden Markov models 
 
-* [multiBD:](https://cran.rstudio.com/web/packages/MultiBD/index.html) R package, likelihood inference in partially observed multivariate birth-death process 
+* [multiBD:](https://cran.rstudio.com/web/packages/MultiBD/index.html) R package, likelihood inference for partially observed multivariate birth-death processes 
 
-* [hematopoiesisSimulator:](https://els.comotion.uw.edu/express_license_technologies/hematopoiesissimulator) Java GUI for simulating stochastic models of hematopoiesis
+* [hematopoiesisSimulator:](https://els.comotion.uw.edu/express_license_technologies/hematopoiesissimulator) Java GUI for simulating and visualizing stochastic models of hematopoiesis
 
 Please email me for any code not yet released in a completed package.
 
