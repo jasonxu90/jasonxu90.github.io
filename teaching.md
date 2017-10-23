@@ -2,8 +2,8 @@
 # [](#header-1)Teaching and Mentoring
 
 * Academic Mentor, RIPS undergraduate research program, UCLA Institute of Pure and Applied Mathematics, Summer 2017
-	-Interview with IPAM [here](http://www.ipam.ucla.edu/interviews/5288/)
-	-Submitted short version of project [here](https://jasonxu90.github.io/files/ipam.pdf)
+	* Interview with IPAM [here](http://www.ipam.ucla.edu/interviews/5288/)
+	* Submitted short version of project [here](https://jasonxu90.github.io/files/ipam.pdf)
 
 * Project leader, OpenMendel Computing in Julia Workshop, UCLA, Winter 2016.
 
