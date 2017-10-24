@@ -20,7 +20,7 @@ __Large-scale multivariate convex regression__ (_with Hua Zhou, Wotao Yin, Rahul
 
 Shape-constrained regression and density estimation are classical tasks in statistics. Though convexity is the simplest shape restriction that enjoys a natural generalization to higher dimensions, algorithms for the multivariate setting lag behind recent theoretical advances. Regression subject to convexity restrictions presents computational challenges, as the set of constraints to be enforced grows rapidly with the number of observations. 
 
-Building on [recent](https://arxiv.org/abs/1509.08165) work, we present an alternating directions (ADMM) algorithm to solve this problem that can handle datasets with hundreds of thousands of observations, with dimensionality in the thousands. 
+Building on [recent](https://arxiv.org/abs/1509.08165) work, we present an alternating directions (ADMM) algorithm to solve this problem that can handle datasets with tens of thousands of observations or dimensionality in the thousands. 
 Our formulation regularizes the l<sub>2</sub>-norm of the subgradients to reduce generalization error by combating erratic fluctuations near the boundary. Such behavior is a well-known phenomenon in nonparametric regression that effects large biases when left unaccounted for. The resulting objective function decomposes into three blocks, and we prove primal + dual convergence of our three-operator splitting algorithm by way of a variational inequality characterization. This marks a departure from the many studies extending ADMM schematically to objectives with more than two blocks, which sometimes works well but is not guaranteed to be convergent. We apply our method to econometric and environmental data. 
 
 * I'll be talking about this at [SDSS 2018](http://ww2.amstat.org/meetings/sdss/2018/) in the invited session _Recent Advances in Statistical Machine Learning_
@@ -56,5 +56,5 @@ __Coupling + simulation for spatial birth-death-shift processes__ (_with Alfonso
 
 Motivated by the need for realistic stochastic models of tumor progression, we study birth-death-shift processes on a lattice. Interacting particle systems with spatial dependence are extremely complex, and celebrated mathematical results concerning asymptotic behavior and phase transitions in such systems have limited use toward inference. We present efficient data structures that, together with tau-leaping algorithms, allow for simulation of these lattice processes for realistic population sizes. We relate these methods to the more analytically tractable well-mixed case (without area interaction) via coupling bounds. Together, these contributions target numerical estimation of fundamental quantities such as first passage times and extinction probabilities.
 
-[Back to homepage](./)
+[ [Back to homepage] ](./)
 
