@@ -3,7 +3,9 @@
 
 * Academic Mentor, RIPS undergraduate research program, UCLA Institute of Pure and Applied Mathematics, Summer 2017
 	* Submitted short version of project [here](https://jasonxu90.github.io/files/ipam.pdf)
+	* My students won the [MAA Outstanding Poster Award](https://www.maa.org/sites/default/files/Programs/WelcomeLetterJMM2018.docx.pdf) in applied mathematics at JMM 2018!
 	* Interview with IPAM [here](http://www.ipam.ucla.edu/interviews/5288/)
+
 
 * Project leader, OpenMendel Computing in Julia Workshop, UCLA, Winter 2016.
 
