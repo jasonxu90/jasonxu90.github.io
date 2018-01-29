@@ -14,11 +14,12 @@ Preprints
 
 * Gustafson, A., Hirn, M., Mohammed, K., Narayanan, H. __and Xu, J.__ (2017+). A Probably-Approximately-Correct Algorithm for Learning a _C_<sup>1,1</sup>(R<sup>d</sup>) Function from Noisy Samples.
 
-* Letcher, A.\*, Trišović, J.\*, Cademartori, C., Chen, X. __and Xu, J.__ (2017+). Automatic Conflict Detection in Police Body-Worn Audio.
-
 
 Published
 -------
+
+* Letcher, A.\*, Trišović, J.\*, Cademartori, C., Chen, X. __and Xu, J.__ (2018). Automatic Conflict Detection in Police Body-Worn Audio. _To appear, Proc. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)._
+
 *  __Xu, J.__, Chi, E. and Lange, K. (2017). Generalized Linear Model Regression under Distance-to-set Penalties. _Neural Information Processing Systems (NIPS)._  **(Spotlight Paper)**
 
 * Ho, L., __Xu, J.__, Crawford, F. W., Minin, V. N. and Suchard, M. A. (2017).  Birth/birth-death Processes and their Computable Transition Probabilities with Biological Applications. _Journal of Mathematical Biology._  
