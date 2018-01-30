@@ -2,9 +2,8 @@
 # [](#header-1)Teaching and Mentoring
 
 * Academic Mentor, RIPS undergraduate research program, UCLA Institute of Pure and Applied Mathematics, Summer 2017
+	* **News**: my students presented this work at the 2018 Joint Mathematics Meetings and won the [MAA Outstanding Poster Award](https://www.maa.org/sites/default/files/Programs/WelcomeLetterJMM2018.docx.pdf) in applied mathematics. Congratulations Alec, Jelena, Collin, and Xi!
 	* An interview with IPAM [here](http://www.ipam.ucla.edu/interviews/5288/)
-	* **News**: my students presented this work at the 2018 Joint Mathematics Meetings and won the [MAA Outstanding Poster Award](https://www.maa.org/sites/default/files/Programs/WelcomeLetterJMM2018.docx.pdf) in applied mathematics!
-
 
 * Project leader, OpenMendel Computing in Julia Workshop, UCLA, Winter 2016.
 
