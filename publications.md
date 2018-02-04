@@ -8,11 +8,11 @@ For a description of some working papers in preparation, see my [research page](
 Preprints
 -------
 
-* __Xu, J.__, Koelle, S., Wu, C., Guttorp, P., Dunbar, C. E., Abkowitz, J. L. and Minin, V. N.  (2017+). Statistical Inference in Partially Observed Branching Processes, with Application to Cell Lineage Tracking of _in vivo_ Hematopoiesis.
+* __Xu, J.__, Koelle, S., Wu, C., Guttorp, P., Dunbar, C. E., Abkowitz, J. L. and Minin, V. N.  (2018+). Statistical Inference in Partially Observed Branching Processes, with Application to Cell Lineage Tracking of _in vivo_ Hematopoiesis.
 
-* __Xu, J.__, Chi, E., Yang, M. and Lange, K. (2017+). A Majorization-minimization Algorithm for Split Feasibility Problems.
+* __Xu, J.__, Chi, E., Yang, M. and Lange, K. (2018+). A Majorization-minimization Algorithm for Split Feasibility Problems.
 
-* Gustafson, A., Hirn, M., Mohammed, K., Narayanan, H. __and Xu, J.__ (2017+). A Probably-Approximately-Correct Algorithm for Learning a _C_<sup>1,1</sup>(R<sup>d</sup>) Function from Noisy Samples.
+* Gustafson, A., Hirn, M., Mohammed, K., Narayanan, H. __and Xu, J.__ (2018+). A Structural Risk Minimization Algorithm for _C_<sup>1,1</sup>(R<sup>d</sup>) Function Regression.
 
 
 Published
