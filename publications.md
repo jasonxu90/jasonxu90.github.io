@@ -14,6 +14,8 @@ Preprints
 
 * Gustafson, A., Hirn, M., Mohammed, K., Narayanan, H. __and Xu, J.__ (2018+). A Structural Risk Minimization Algorithm for _C_<sup>1,1</sup>(R<sup>d</sup>) Function Regression.
 
+* __Xu, J.__, Wang, Y., Guttorp, P. and Abkowitz, J. L.  (2018+). Visualizing Hematopoiesis as a Stochastic Process.
+
 
 Published
 -------
