@@ -6,3 +6,5 @@ I am currently an [NSF Mathematical Sciences Postdoctoral Research Fellow](https
 &nbsp;
 
 I grew up in Tucson, Arizona. In my free time, I enjoy literature, bouldering, ambient music, cycling, and cooking new recipes. My experience with the latter reveals that science is not the only endeavor experiencing a reproducibility crisis. 
+
+**News:** I'm in [Oberwolfach](https://www.mfo.de/occasion/1808/www_view) this week and will be available only via email
