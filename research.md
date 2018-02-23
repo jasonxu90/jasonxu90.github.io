@@ -23,7 +23,7 @@ Shape-constrained regression and density estimation are classical tasks in stati
 Building on [recent](https://arxiv.org/abs/1509.08165) work, we present an alternating directions (ADMM) algorithm to solve this problem that can handle datasets with tens of thousands of observations or dimensionality in the thousands. 
 Our formulation regularizes the l<sub>2</sub>-norm of the subgradients to reduce generalization error by combating erratic fluctuations near the boundary. Such behavior is a well-known phenomenon in nonparametric regression that effects large biases when left unaccounted for. The resulting objective function decomposes into three blocks, and we prove primal + dual convergence of our three-operator splitting algorithm by way of a variational inequality characterization. This marks a departure from the many studies extending ADMM schematically to objectives with more than two blocks, which sometimes works well but is not guaranteed to be convergent. We apply our method to econometric and environmental data. 
 
-* I'll be presenting this at [SDSS 2018](http://ww2.amstat.org/meetings/sdss/2018/) in the invited session _Recent Advances in Statistical Machine Learning_
+* **News**: I'll be presenting this at [SDSS 2018](http://ww2.amstat.org/meetings/sdss/2018/) in the invited session _Recent Advances in Statistical Machine Learning_
 
 
 * * *
@@ -46,7 +46,7 @@ Seeking a sparse estimate of a covariance matrix reduces the number of effective
 We develop a proximal distance algorithm based on majorization-minimization (MM), a principle that generalizes the expectation-maximization (EM) framework better known to statisticians. Both transfer optimization onto a sequence of simpler _surrogate functions_. We produce a tighter surrogate than existing MM approaches, important toward achieving faster convergence in practice.  As an alternative to l<sub>1</sub> shrinkage, we penalize the squared distance from each estimate to its projection onto a symmetric sparsity set. Doing so yields nice properties: while most MM algorithms rely on gradient or Newton steps, these sequential minimizations admit direct solutions that can be efficiently computed by exploiting a surprising connection to dynamical systems and control theory. Positive definiteness is often a cumbersome constraint, but is guaranteed at each iterate via simple backtracking using our approach. These merits go a long way empirically, as demonstrated in an analysis of cell signaling data and international migration data with tens of thousands of parameters to be estimated. 
 
 
-* I'll be talking about this at [EcoSta 2018](http://cmstatistics.org/EcoSta2018/) in the invited session _Computation Challenges in Statistical Methods_
+* **News**: I'll be talking about this at [EcoSta 2018](http://cmstatistics.org/EcoSta2018/) in the invited session _Computation Challenges in Statistical Methods_
 
 * * *
 __Coupling + simulation for spatial birth-death-shift processes__ (_with Alfonso Landeros, Tim Stutz, Janet Sinsheimer, Ken Lange, Mary Sehl_)
