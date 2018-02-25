@@ -27,6 +27,19 @@ Our formulation regularizes the l<sub>2</sub>-norm of the subgradients to reduce
 
 
 * * *
+__Fast + positive definite sparse covariance estimation__ (_with Ken Lange_)
+
+<img src="https://jasonxu90.github.io/files/cov.png " width="58%">
+
+Seeking a sparse estimate of a covariance matrix reduces the number of effective parameters in a problem whose dimension grows quadratically in the number of covariates. Zero entries have an important interpretation as marginal independencies, in contrast with zeros in the inverse covariance (_precision_) matrix which encode conditional independence. The latter problem is well-studied; l<sub>1</sub> shrinkage methods such as graphical lasso offer a nice solution. Sparse covariance estimation is more difficult: the likelihood is no longer convex.  Existing penalized likelihood approaches can be slow in practice and quickly become limited by the size of the data. 
+
+We develop a proximal distance algorithm based on majorization-minimization (MM), a principle that generalizes the expectation-maximization (EM) framework better known to statisticians. Both transfer optimization onto a sequence of simpler _surrogate functions_. We produce a tighter surrogate than existing MM approaches, important toward achieving faster convergence in practice.  As an alternative to l<sub>1</sub> shrinkage, we penalize the squared distance from each estimate to its projection onto a symmetric sparsity set. Doing so yields nice properties: while most MM algorithms rely on gradient or Newton steps, these sequential minimizations admit direct solutions that can be efficiently computed by exploiting a surprising connection to dynamical systems and control theory. Positive definiteness is often a cumbersome constraint, but is guaranteed at each iterate via simple backtracking using our approach, and global convergence guarantees are established via Zangwill theory. These merits go a long way empirically, as demonstrated in an analysis of cell signaling data and international migration data with tens of thousands of parameters to be estimated. 
+
+
+* **News**: I'll be talking about this at [EcoSta 2018](http://cmstatistics.org/EcoSta2018/) in the invited session _Computation Challenges in Statistical Methods_
+
+
+* * *
 __Bayesian inference for fitting SIR models to large, partially observed outbreaks__ (_with Jon Wakefield, Vladimir Minin_)
 
 <img src="https://jasonxu90.github.io/files/sir.png " width="64%">
@@ -35,18 +48,6 @@ Continuous-time stochastic processes subject to nonlinear mechanistic dynamics a
 
 Our method makes use of a branching process that closely approximates the SIR model. The process enjoys many nice properties, including explicit expressions for transition probabilities, and one could efficiently perform approximate SIR inference based on the likelihood or posterior of the branching process. Among these nice properties is a closed-form distribution of infection times over any finite time interval, given the population size at its endpoints. We show that this result leads to efficient complete data augmentation by treating the branching approximation as a proposal density. This in turn enables Metropolis-Hastings samplers that target the _exact_ SIR posterior even when only one of the three populations is observed, i.e. we only observe new disease cases. Currently, the resulting Markov chain Monte Carlo algorithm scales to outbreaks with hundreds of thousands of infection and removal events on a standard laptop. We apply the approach to incidence data from the Ebola outbreak in West Africa, where the susceptible population count is in the millions.
 
-
-* * *
-__Fast + positive definite sparse covariance estimation__ (_with Ken Lange_)
-
-<img src="https://jasonxu90.github.io/files/cov.png " width="58%">
-
-Seeking a sparse estimate of a covariance matrix reduces the number of effective parameters in a problem whose dimension grows quadratically in the number of covariates. Zero entries have an important interpretation as marginal independencies, in contrast with zeros in the inverse covariance (_precision_) matrix which encode conditional independence. The latter problem is well-studied; l<sub>1</sub> shrinkage methods such as graphical lasso offer a nice solution. Sparse covariance estimation is more difficult: the likelihood is no longer convex.  Existing penalized likelihood approaches can be slow in practice and quickly become limited by the size of the data. 
-
-We develop a proximal distance algorithm based on majorization-minimization (MM), a principle that generalizes the expectation-maximization (EM) framework better known to statisticians. Both transfer optimization onto a sequence of simpler _surrogate functions_. We produce a tighter surrogate than existing MM approaches, important toward achieving faster convergence in practice.  As an alternative to l<sub>1</sub> shrinkage, we penalize the squared distance from each estimate to its projection onto a symmetric sparsity set. Doing so yields nice properties: while most MM algorithms rely on gradient or Newton steps, these sequential minimizations admit direct solutions that can be efficiently computed by exploiting a surprising connection to dynamical systems and control theory. Positive definiteness is often a cumbersome constraint, but is guaranteed at each iterate via simple backtracking using our approach. These merits go a long way empirically, as demonstrated in an analysis of cell signaling data and international migration data with tens of thousands of parameters to be estimated. 
-
-
-* **News**: I'll be talking about this at [EcoSta 2018](http://cmstatistics.org/EcoSta2018/) in the invited session _Computation Challenges in Statistical Methods_
 
 * * *
 __Coupling + simulation for spatial birth-death-shift processes__ (_with Alfonso Landeros, Tim Stutz, Janet Sinsheimer, Ken Lange, Mary Sehl_)
