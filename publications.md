@@ -12,7 +12,7 @@ Preprints
 
 * __Xu, J.__, Chi, E., Yang, M. and Lange, K. (2018+). A Majorization-minimization Algorithm for Split Feasibility Problems.
 
-* Gustafson, A., Hirn, M., Mohammed, K., Narayanan, H. __and Xu, J.__ (2018+). A Structural Risk Minimization Algorithm for _C_<sup>1,1</sup>(R<sup>d</sup>) Function Regression.
+* Gustafson, A., Hirn, M., Mohammed, K., Narayanan, H. __and Xu, J.__ (2018+). Structural Risk Minimization for _C_<sup>1,1</sup>(R<sup>d</sup>) Regression.
 
 * __Xu, J.__, Wang, Y., Guttorp, P. and Abkowitz, J. L.  (2018+). Visualizing Hematopoiesis as a Stochastic Process.
 
