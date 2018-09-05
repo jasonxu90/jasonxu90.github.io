@@ -1,5 +1,5 @@
 ---
-# [](#header-1)Refereed Publications
+# [](#header-1)Publications
 
 Most of these are available on [arXiv](https://arxiv.org/find/all/1/all:+EXACT+jason_xu/0/1/0/all/0/1).
 For a description of some working papers in preparation, see my [research page](https://jasonxu90.github.io/research.html). 
