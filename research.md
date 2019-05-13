@@ -2,10 +2,11 @@
 ---
 # [](#header-1)Research Interests
 
-My research lies at the interface of methodology for statistical learning/inference and optimization. I am particularly interested in inference under partially observed data arising from continuous-time Markov processes, an exciting problem that combines spectral methods and stochastic process theory. The computational aspects of this challenge demand efficient and robust optimization or sampling techniques. 
-These considerations lead to new directions toward developing algorithms for large-scale and high-dimensional estimation under a wide range of constraints including sparsity, rank, smoothness, and shape restrictions. A recurring theme in this recent line of work entails converting difficult (nonsmooth, nonconvex) problems into feasible subproblems via operator splitting or iterative schemes.
 
-On the applications side, much of my work has focused on stochastic modeling and inference for hematopoiesis, the process of blood cell production. I enjoy collaborating closely with scientists and learning about new domains; recent areas of interest include infectious disease modeling, statistical problems in medical imaging, and analyzing environmental data.
+
+I have broad interests in stochastic modeling, machine learning, and inference in dependent and missing data settings. Currently, I am using majorization-minimization (a generalization of EM) to derive fast algorithms for tasks including clustering, regression under novel non-convex penalties, and constrained estimation. I am also developing latent variable approaches for posterior and likelihood-based inference in dynamic stochastic models, especially discrete valued continuous-time Markov processes such as branching processes and their extensions in spatial domains and over networks. My work primarily focuses on methodological development and theory, often driven by applications to systems biology and epidemiology. 
+
+On the applications side, much of my work has focused on stochastic modeling and inference for hematopoiesis, the process of blood cell production. Recently, I’ve gotten interested in epidemiological data and in emergent data types from single-cell lineage tracking and sequencing. 
 
 A list of publications along with software is [available here](https://jasonxu90.github.io/publications.html).
 
