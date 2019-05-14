@@ -19,7 +19,7 @@ Published
 
 * Lange, K., Won, J., and __Xu, J__ (2019). Projection onto Minkowski Sums with Application to Constrained Learning. _International Conference on Machine Learning (ICML)._
 
-* __Xu, J.__, Wang, Y., Guttorp, P. and Abkowitz, J. L.  (2018). Visualizing Hematopoiesis as a Stochastic Process. _Blood Advances (to appear)._
+* __Xu, J.__, Wang, Y., Guttorp, P. and Abkowitz, J. L.  (2018). Visualizing Hematopoiesis as a Stochastic Process. _Blood Advances._
 
 * __Xu, J.__, Chi, E., Yang, M. and Lange, K. (2018). A Majorization-minimization Algorithm for Split Feasibility Problems. _Computational Optimization and Applications._
 
