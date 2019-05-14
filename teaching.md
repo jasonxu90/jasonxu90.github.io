@@ -6,7 +6,7 @@
 * Lecturer, [2018 Rice University q-bio Summer School](http://q-bio.org/wp/qbss/2018lecturers/) 
 
 * Academic Mentor, RIPS undergraduate research program, UCLA Institute of Pure and Applied Mathematics, Summer 2017
-	* My students presented this work at the 2018 Joint Mathematics Meetings and won the [MAA Outstanding Poster Award](http://www.ipam.ucla.edu/news/rips-students-receive-outstanding-poster-awards-at-jmm/) in applied mathematics. Congratulations Alec, Jelena, Collin, and Xi!
+	* My students presented this work at the 2018 Joint Mathematics Meetings and won the [MAA Outstanding Poster Award](http://www.ipam.ucla.edu/news/rips-students-receive-outstanding-poster-awards-at-jmm/) in applied mathematics. Congrats Alec, Jelena, Collin, and Xi!
 	* An interview with IPAM [here](http://www.ipam.ucla.edu/interviews/5288/)
 
 * Project leader, OpenMendel Computing in Julia Workshop, UCLA, Winter 2016.
