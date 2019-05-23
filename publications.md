@@ -7,6 +7,8 @@ For a description of some working papers in preparation, see my [research page](
 
 Preprints
 -------
+*Won, J., Lange, K., and __Xu, J.__ (2019+). Lagrangian Dual Algorithms for $\ell_p$-Ball Projection
+
 * __Xu, J.__, Koelle, S., Wu, C., Guttorp, P., Dunbar, C. E., Abkowitz, J. L. and Minin, V. N.  (2018+). Statistical Inference in Partially Observed Branching Processes, with Application to Cell Lineage Tracking of _in vivo_ Hematopoiesis.
 
 * Gustafson, A., Hirn, M., Mohammed, K., Narayanan, H. __and Xu, J.__ (2018+). Structural Risk Minimization for _C_<sup>1,1</sup>(R<sup>d</sup>) Regression.
