@@ -15,7 +15,7 @@ Preprints
 
 Published
 -------
-* __Xu, J.__, Koelle, S., Wu, C., Guttorp, P., Dunbar, C. E., Abkowitz, J. L. and Minin, V. N.  (2019+). Statistical Inference in Partially Observed Branching Processes, with Application to Cell Lineage Tracking of _in vivo_ Hematopoiesis. _Annals of Applied Statistics._
+* __Xu, J.__, Koelle, S., Wu, C., Guttorp, P., Dunbar, C. E., Abkowitz, J. L. and Minin, V. N.  (2019+). Statistical Inference in Partially Observed Branching Processes, with Application to Cell Lineage Tracking of _in vivo_ Hematopoiesis. _The Annals of Applied Statistics._
 
 * __Xu, J.__ and Lange, K (2019+). Power k-Means Clustering. _International Conference on Machine Learning (ICML)._
 
@@ -27,7 +27,7 @@ Published
 
 * Letcher, A.\*, Trišović, J.\*, Cademartori, C., Chen, X. __and Xu, J.__ (2018). Automatic Conflict Detection in Police Body-Worn Audio. _Proc. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)._
 
-*  __Xu, J.__, Chi, E. and Lange, K. (2018). Generalized Linear Model Regression under Distance-to-set Penalties. _Neural Information Processing Systems (NIPS)._  **(Spotlight Paper)**
+*  __Xu, J.__, Chi, E. and Lange, K. (2018). Generalized Linear Model Regression under Distance-to-set Penalties. _Neural Information Processing Systems (NeurIPS)._  **(Spotlight Paper)**
 
 * Ho, L., __Xu, J.__, Crawford, F. W., Minin, V. N. and Suchard, M. A. (2018).  Birth/birth-death Processes and their Computable Transition Probabilities with Biological Applications. _Journal of Mathematical Biology._  
 
@@ -42,7 +42,7 @@ Myosin-independent cytokinesis in _Giardia_ Utilizes Flagella to Coordinate Forc
 
 * __Xu, J.__, Guttorp, P.,  Kato-Maeda, M. and Minin, V. N. (2015). Likelihood-based Inference for Discretely Observed Birth-death-shift Processes, with Applications to Evolution of Mobile Genetic Elements. _Biometrics._ **(David P. Byar Paper Competition Award)**
 
-* Foti, N.\*, __Xu, J.\*__, Laird, D. and Fox, E. B. (2015). Stochastic Variational Inference for Hidden Markov Models. _Neural Information Processing Systems (NIPS)._ (__\*__ _denotes joint first authors_)
+* Foti, N.\*, __Xu, J.\*__, Laird, D. and Fox, E. B. (2015). Stochastic Variational Inference for Hidden Markov Models. _Neural Information Processing Systems (NeurIPS)._ (__\*__ _denotes joint first authors_)
 
 * Huber, M. L.,  McCall, E., Rozenfeld, D. and __Xu, J.__ (2012). Bounds on the Artificial Phase Transition for Perfect Simulation of Repulsive Point Processes. _Involve._
 
