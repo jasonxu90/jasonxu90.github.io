@@ -9,17 +9,17 @@ Preprints
 -------
 * Won, J., Lange, K., and __Xu, J.__ (2019+). Lagrangian Dual Algorithms for l<sub>p</sub>-Ball Projection.
 
-* __Xu, J.__, Koelle, S., Wu, C., Guttorp, P., Dunbar, C. E., Abkowitz, J. L. and Minin, V. N.  (2018+). Statistical Inference in Partially Observed Branching Processes, with Application to Cell Lineage Tracking of _in vivo_ Hematopoiesis.
-
 * Gustafson, A., Hirn, M., Mohammed, K., Narayanan, H. __and Xu, J.__ (2018+). Structural Risk Minimization for _C_<sup>1,1</sup>(R<sup>d</sup>) Regression.
 
 
 
 Published
 -------
-* __Xu, J.__ and Lange, K (2019). Power k-Means Clustering. _International Conference on Machine Learning (ICML)._
+* __Xu, J.__, Koelle, S., Wu, C., Guttorp, P., Dunbar, C. E., Abkowitz, J. L. and Minin, V. N.  (2019+). Statistical Inference in Partially Observed Branching Processes, with Application to Cell Lineage Tracking of _in vivo_ Hematopoiesis. _Annals of Applied Statistics._
 
-* Lange, K., Won, J., and __Xu, J__ (2019). Projection onto Minkowski Sums with Application to Constrained Learning. _International Conference on Machine Learning (ICML)._
+* __Xu, J.__ and Lange, K (2019+). Power k-Means Clustering. _International Conference on Machine Learning (ICML)._
+
+* Lange, K., Won, J., and __Xu, J__ (2019+). Projection onto Minkowski Sums with Application to Constrained Learning. _International Conference on Machine Learning (ICML)._
 
 * __Xu, J.__, Wang, Y., Guttorp, P. and Abkowitz, J. L.  (2018). Visualizing Hematopoiesis as a Stochastic Process. _Blood Advances._
 
