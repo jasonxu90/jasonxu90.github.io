@@ -17,9 +17,9 @@ Published
 -------
 * __Xu, J.__, Koelle, S., Wu, C., Guttorp, P., Dunbar, C. E., Abkowitz, J. L. and Minin, V. N.  (2019+). Statistical Inference in Partially Observed Branching Processes, with Application to Cell Lineage Tracking of _in vivo_ Hematopoiesis. _The Annals of Applied Statistics._
 
-* __Xu, J.__ and Lange, K (2019). Power k-Means Clustering. _International Conference on Machine Learning (ICML)._
+* __Xu, J.__ and Lange, K (2019). Power k-Means Clustering. _International Conference on Machine Learning (ICML)._ **(Long Oral)**
 
-* Won, J., __Xu, J__, and Lange, K. (2019). Projection onto Minkowski Sums with Application to Constrained Learning. _International Conference on Machine Learning (ICML)._
+* Won, J., __Xu, J__, and Lange, K. (2019). Projection onto Minkowski Sums with Application to Constrained Learning. _International Conference on Machine Learning (ICML)._ **(Long Oral)**
 
 * __Xu, J.__, Wang, Y., Guttorp, P. and Abkowitz, J. L.  (2018). Visualizing Hematopoiesis as a Stochastic Process. _Blood Advances._
 
