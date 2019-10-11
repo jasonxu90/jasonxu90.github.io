@@ -14,9 +14,9 @@ Preprints
 
 * Bu, F., Aiello, A., __Xu, J.\*__, and Volfovsky, A\*. Likelihood-based Inference for Partially Observed Epidemics on Adaptive Networks.
 
-* Chakraborty, S.\*, Paul, D.\*, Das, S. and __Xu, J__. Entropy Weighted Power k-Means Clustering
+* Chakraborty, S.\*, Paul, D.\*, Das, S. and __Xu, J__. Entropy Weighted Power k-Means Clustering.
 
-* Stutz, T., Landeros, A., __Xu, J.__, Sinsheimer, J., Lange, K. and Sehl, M. Stochastic Simulation Algorithms for Interacting Particle Systems
+* Stutz, T., Landeros, A., __Xu, J.__, Sinsheimer, J., Lange, K. and Sehl, M. Stochastic Simulation Algorithms for Interacting Particle Systems.
 
 Published
 -------
