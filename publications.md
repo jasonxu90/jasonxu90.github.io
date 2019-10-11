@@ -8,15 +8,17 @@ For a broad description of current interests, see my [research page](https://jas
 
 Preprints
 -------
-* Won, J., Lange, K., and __Xu, J.__ (2019+). Lagrangian Dual Algorithms for l<sub>p</sub>-Ball Projection.
-
-* Gustafson, A., Hirn, M., Mohammed, K., Narayanan, H. __and Xu, J.__ (2018+). Structural Risk Minimization for _C_<sup>1,1</sup>(R<sup>d</sup>) Regression.
-
 * Bu, F., Aiello, A., __Xu, J.\*__, and Volfovsky, A\*. Likelihood-based Inference for Partially Observed Epidemics on Dynamic Networks.
+
+* Stutz, T., Landeros, A., __Xu, J.__, Sinsheimer, J., Lange, K. and Sehl, M. Stochastic Simulation Algorithms for Interacting Particle Systems.
+
+* Won, J., Lange, K., and __Xu, J.__ (2019+). Lagrangian Dual Algorithms for l<sub>p</sub>-Ball Projection.
 
 * Chakraborty, S.\*, Paul, D.\*, Das, S. and __Xu, J__. Entropy Weighted Power k-Means Clustering.
 
-* Stutz, T., Landeros, A., __Xu, J.__, Sinsheimer, J., Lange, K. and Sehl, M. Stochastic Simulation Algorithms for Interacting Particle Systems.
+* Gustafson, A., Hirn, M., Mohammed, K., Narayanan, H. __and Xu, J.__ (2018+). Structural Risk Minimization for _C_<sup>1,1</sup>(R<sup>d</sup>) Regression.
+
+
 
 Published
 -------
