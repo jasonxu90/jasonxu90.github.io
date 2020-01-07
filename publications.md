@@ -19,10 +19,10 @@ Preprints
 
 Published
 -------
-* Chakraborty, S.\*, Paul, D.\*, Das, S. and __Xu, J__. Entropy Weighted Power k-Means Clustering. _Artificial Intelligence and Statistics
+* Chakraborty, S.\*, Paul, D.\*, Das, S. and __Xu, J.__ (2020). Entropy Weighted Power k-Means Clustering. _Artificial Intelligence and Statistics
 (AISTATS, to appear)._
 
-* __Xu, J.__, Koelle, S., Wu, C., Guttorp, P., Dunbar, C. E., Abkowitz, J. L. and Minin, V. N.  (2019+). Statistical Inference in Partially Observed Branching Processes, with Application to Cell Lineage Tracking of _in vivo_ Hematopoiesis. _The Annals of Applied Statistics._
+* __Xu, J.__, Koelle, S., Wu, C., Guttorp, P., Dunbar, C. E., Abkowitz, J. L. and Minin, V. N.  (2019). Statistical Inference in Partially Observed Branching Processes, with Application to Cell Lineage Tracking of _in vivo_ Hematopoiesis. _The Annals of Applied Statistics._
 
 * __Xu, J.__ and Lange, K (2019). Power k-Means Clustering. _International Conference on Machine Learning (ICML)._ **(Long Oral)**
 
