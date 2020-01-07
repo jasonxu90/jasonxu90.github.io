@@ -1,6 +1,5 @@
 ---
 # [](#header-1)Publications
-
 Most of these are available on [arXiv](https://arxiv.org/find/all/1/all:+EXACT+jason_xu/0/1/0/all/0/1).
 For a broad description of current interests, see my [research page](https://jasonxu90.github.io/research.html). 
 
@@ -14,15 +13,16 @@ Preprints
 
 * Won, J., Lange, K., and __Xu, J.__ (2019+). Lagrangian Dual Algorithms for l<sub>p</sub>-Ball Projection.
 
-* Chakraborty, S.\*, Paul, D.\*, Das, S. and __Xu, J__. Entropy Weighted Power k-Means Clustering.
-
 * Gustafson, A., Hirn, M., Mohammed, K., Narayanan, H. __and Xu, J.__ (2018+). Structural Risk Minimization for _C_<sup>1,1</sup>(R<sup>d</sup>) Regression.
 
 
 
 Published
 -------
-* __Xu, J.__, Koelle, S., Wu, C., Guttorp, P., Dunbar, C. E., Abkowitz, J. L. and Minin, V. N.  (2019+). Statistical Inference in Partially Observed Branching Processes, with Application to Cell Lineage Tracking of _in vivo_ Hematopoiesis. _The Annals of Applied Statistics (in press)._
+* Chakraborty, S.\*, Paul, D.\*, Das, S. and __Xu, J__. Entropy Weighted Power k-Means Clustering. _Artificial Intelligence and Statistics
+(AISTATS, to appear)._
+
+* __Xu, J.__, Koelle, S., Wu, C., Guttorp, P., Dunbar, C. E., Abkowitz, J. L. and Minin, V. N.  (2019+). Statistical Inference in Partially Observed Branching Processes, with Application to Cell Lineage Tracking of _in vivo_ Hematopoiesis. _The Annals of Applied Statistics._
 
 * __Xu, J.__ and Lange, K (2019). Power k-Means Clustering. _International Conference on Machine Learning (ICML)._ **(Long Oral)**
 
