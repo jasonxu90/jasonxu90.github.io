@@ -7,7 +7,7 @@ For a broad description of current interests, see my [research page](https://jas
 
 Preprints
 -------
-* Zhang, Z., Lange, K., __Xu, J.__. A Scalable Framework for Sparse Clustering Without Shrinkage.
+* Zhang, Z., Lange, K., and __Xu, J.__. A Scalable Framework for Sparse Clustering Without Shrinkage.
 
 * Bu, F., Aiello, A., __Xu, J.\*__, and Volfovsky, A\*. Likelihood-based Inference for Partially Observed Epidemics on Dynamic Networks. **(A short version won the SBSS Student Paper Award-- congrats Fan!)**
 
