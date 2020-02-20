@@ -7,15 +7,15 @@ For a broad description of current interests, see my [research page](https://jas
 
 Preprints
 -------
-* Zhang, Z., Lange, K., and __Xu, J.__. A Scalable Framework for Sparse Clustering Without Shrinkage.
+* Zhang, Z., Lange, K., and __Xu, J.__ A Scalable Framework for Sparse Clustering Without Shrinkage.
 
 * Bu, F., Aiello, A., __Xu, J.\*__, and Volfovsky, A\*. Likelihood-based Inference for Partially Observed Epidemics on Dynamic Networks. (A short version won the **SBSS Student Paper Award**---congrats Fan!)
 
 * Stutz, T., Landeros, A., __Xu, J.__, Sinsheimer, J., Lange, K. and Sehl, M. Stochastic Simulation Algorithms for Interacting Particle Systems.
 
-* Won, J., Lange, K., and __Xu, J.__ (2019+). Lagrangian Dual Algorithms for l<sub>p</sub>-Ball Projection.
+* Won, J., Lange, K., and __Xu, J.__  Lagrangian Dual Algorithms for l<sub>p</sub>-Ball Projection.
 
-* Gustafson, A., Hirn, M., Mohammed, K., Narayanan, H. __and Xu, J.__ (2018+). Structural Risk Minimization for _C_<sup>1,1</sup>(R<sup>d</sup>) Regression.
+* Gustafson, A., Hirn, M., Mohammed, K., Narayanan, H. __and Xu, J.__  Structural Risk Minimization for _C_<sup>1,1</sup>(R<sup>d</sup>) Regression.
 
 
 
@@ -64,7 +64,7 @@ Thesis
 Software
 -------
 
-* [EWP:](https://github.com/DebolinaPaul/EWP) Python implementation of power _k_-means clustering with entropy-based feature weighing
+* [EWP:](https://github.com/DebolinaPaul/EWP) R code for power _k_-means clustering with entropy-based feature weighing
 
 * [splitFeas:](https://cran.rstudio.com/web/packages/splitFeas/index.html) R package, MM algorithms for multi-set split feasibility problems 
 
