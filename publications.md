@@ -63,6 +63,7 @@ Thesis
 
 Software
 -------
+* [SKFR:](https://github.com/ZhiyueZ/SKFR) R and Julia code for sparse _k_-means with feature ranking
 
 * [EWP:](https://github.com/DebolinaPaul/EWP) R code for power _k_-means clustering with entropy-based feature weighing
 
