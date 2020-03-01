@@ -9,8 +9,6 @@
 * Academic Mentor, RIPS undergraduate research program, UCLA Institute of Pure and Applied Mathematics, Summer 2017
 	* My students presented this work at the 2018 Joint Mathematics Meetings and won the [MAA Outstanding Poster Award](http://www.ipam.ucla.edu/news/rips-students-receive-outstanding-poster-awards-at-jmm/) in applied mathematics. Congrats Alec, Jelena, Collin, and Xi!
 	
-* Project leader, OpenMendel Computing in Julia Workshop, UCLA, Winter 2016.
-
 * Instructor, BIOMATH 210: Optimization Methods, UCLA, Fall Quarter 2016. 
 
 * Instructor, STAT 341: Intro to Probability and Mathematical Statistics II, University of Washington, Winter Quarter 2016. 
