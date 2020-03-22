@@ -23,36 +23,36 @@ Published
 -------
 * Chakraborty, S.\*, Paul, D.\*, Das, S. and __Xu, J.__ (2020). Entropy Weighted Power k-Means Clustering. _Artificial Intelligence and Statistics
 (AISTATS, to appear)._
-&nbsp;   
+    
 * __Xu, J.__, Koelle, S., Wu, C., Guttorp, P., Dunbar, C. E., Abkowitz, J. L. and Minin, V. N.  (2019). Statistical Inference in Partially Observed Branching Processes, with Application to Cell Lineage Tracking of _in vivo_ Hematopoiesis. _The Annals of Applied Statistics._
-&nbsp;   
+    
 * __Xu, J.__ and Lange, K (2019). Power k-Means Clustering. _International Conference on Machine Learning (ICML)._ **(Long Oral)**
-&nbsp;   
+    
 * Won, J., __Xu, J__, and Lange, K. (2019). Projection onto Minkowski Sums with Application to Constrained Learning. _International Conference on Machine Learning (ICML)._ **(Long Oral)**
-&nbsp;   
+    
 * __Xu, J.__, Wang, Y., Guttorp, P. and Abkowitz, J. L.  (2018). Visualizing Hematopoiesis as a Stochastic Process. _Blood._
-&nbsp;   
+    
 * __Xu, J.__, Chi, E., Yang, M. and Lange, K. (2018). A Majorization-minimization Algorithm for Split Feasibility Problems. _Computational Optimization and Applications._
-&nbsp;   
+    
 * Letcher, A.\*, Trišović, J.\*, Cademartori, C., Chen, X. __and Xu, J.__ (2018). Automatic Conflict Detection in Police Body-Worn Audio. _Proc. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)._
-&nbsp;   
+    
 *  __Xu, J.__, Chi, E. and Lange, K. (2018). Generalized Linear Model Regression under Distance-to-set Penalties. _Neural Information Processing Systems (NeurIPS)._  **(Spotlight Paper)**
-&nbsp;   
+    
 * Ho, L., __Xu, J.__, Crawford, F. W., Minin, V. N. and Suchard, M. A. (2018).  Birth/birth-death Processes and their Computable Transition Probabilities with Biological Applications. _Journal of Mathematical Biology._  
-&nbsp;   
+    
 * Hardin, W., Li, R., __Xu, J.__, Shelton, A., Alas G., Minin, V. N. and Paredez, A. R. (2017).
 Myosin-independent cytokinesis in _Giardia_ Utilizes Flagella to Coordinate Force Generation and Direct Membrane Trafficking. _Proceedings of the National Academy of Sciences._
-&nbsp;   
+    
 * Koelle, S., Wu, C., __Xu, J.__,  Lu, R., Li, B., Donahue, R. E. and Dunbar, C. E. (2017). Quantitative Stability of Hematopoietic Stem and Progenitor Cell Clonal Output in Rhesus Macaques Receiving Transplants. _Blood._
-&nbsp;   
+    
 * __Xu, J.__, Koelle, S., Wu, C., Guttorp, P., Dunbar, C. E., Abkowitz, J. L. and Minin, V. N. (2016). Stochastic Modeling of Hematopoietic Stem and Progenitor Cell Barcoding Data from Rhesus Macaques Challenges the Classic Model of Hematopoiesis. _Blood._
-&nbsp;  
+   
 * __Xu, J.__ and  Minin, V. N. (2015). Efficient Transition Probability Computation for Continuous-time Branching Processes via Compressed Sensing. _Uncertainty in Artificial Intelligence (UAI)._
-&nbsp;  
+   
 * __Xu, J.__, Guttorp, P.,  Kato-Maeda, M. and Minin, V. N. (2015). Likelihood-based Inference for Discretely Observed Birth-death-shift Processes, with Applications to Evolution of Mobile Genetic Elements. _Biometrics._ **(David P. Byar Paper Competition Award)**
-&nbsp;  
+   
 * Foti, N.\*, __Xu, J.\*__, Laird, D. and Fox, E. B. (2015). Stochastic Variational Inference for Hidden Markov Models. _Neural Information Processing Systems (NeurIPS)._ 
-&nbsp;  
+   
 * Huber, M. L.,  McCall, E., Rozenfeld, D. and __Xu, J.__ (2012). Bounds on the Artificial Phase Transition for Perfect Simulation of Repulsive Point Processes. _Involve._
 
 Thesis
