@@ -33,12 +33,12 @@ Published
 * __Xu, J.__, Wang, Y., Guttorp, P. and Abkowitz, J. L.  (2018). Visualizing Hematopoiesis as a Stochastic Process. _Blood._
     
 * __Xu, J.__, Chi, E., Yang, M. and Lange, K. (2018). A Majorization-minimization Algorithm for Split Feasibility Problems. _Computational Optimization and Applications._
-    
-* Letcher, A.\*, Trišović, J.\*, Cademartori, C., Chen, X. __and Xu, J.__ (2018). Automatic Conflict Detection in Police Body-Worn Audio. _Proc. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)._
-    
+
+ * Ho, L., __Xu, J.__, Crawford, F. W., Minin, V. N. and Suchard, M. A. (2018).  Birth/birth-death Processes and their Computable Transition Probabilities with Biological Applications. _Journal of Mathematical Biology._  
+
 *  __Xu, J.__, Chi, E. and Lange, K. (2018). Generalized Linear Model Regression under Distance-to-set Penalties. _Neural Information Processing Systems (NeurIPS)._  **(Spotlight Paper)**
-    
-* Ho, L., __Xu, J.__, Crawford, F. W., Minin, V. N. and Suchard, M. A. (2018).  Birth/birth-death Processes and their Computable Transition Probabilities with Biological Applications. _Journal of Mathematical Biology._  
+ 
+* Letcher, A.\*, Trišović, J.\*, Cademartori, C., Chen, X. __and Xu, J.__ (2018). Automatic Conflict Detection in Police Body-Worn Audio. _Proc. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)._
     
 * Hardin, W., Li, R., __Xu, J.__, Shelton, A., Alas G., Minin, V. N. and Paredez, A. R. (2017).
 Myosin-independent cytokinesis in _Giardia_ Utilizes Flagella to Coordinate Force Generation and Direct Membrane Trafficking. _Proceedings of the National Academy of Sciences._
