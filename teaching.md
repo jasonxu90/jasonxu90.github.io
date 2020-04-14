@@ -20,8 +20,8 @@ Student Collaborators (and first positions)
 -------
 * Sherry Hu, undergraduate
 * Fan Bu, PhD candidate
-* Zhiyue Zhang, MS (PhD Applied Math and Statistics, Johns Hopkins University)
-* Saptarshi Chakraborty, MS (PhD Statistics, University of California Berkeley)
+* Zhiyue Zhang, MS (PhD Applied Math and Statistics, Johns Hopkins)
+* Saptarshi Chakraborty, MS (PhD Statistics, UC Berkeley)
 * Jelena Trisovic, undergraduate RIPS research program at UCLA Institute of Pure and Applied Math (MS Electrical Engineering, ETH Zurich)
 * Collin Cademartori, RIPS IPAM (PhD Statistics, Columbia University)
 * Xi Chen, RIPS IPAM  (PhD Computer Science, Columbia University)
