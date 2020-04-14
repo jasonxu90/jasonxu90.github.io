@@ -22,10 +22,10 @@ Student Collaborators (and first positions)
 * Fan Bu, PhD candidate
 * Zhiyue Zhang, MS (PhD Applied Math and Statistics, Johns Hopkins University)
 * Saptarshi Chakraborty, MS (PhD Statistics, University of California Berkeley)
-* Jelena Trisovic, RIPS undergraduate research program at UCLA IPAM (MS Electrical Engineering, ETH Zurich)
-* Collin Cademartori, RIPS undergraduate research program at UCLA IPAM (PhD Statistics, Columbia University)
-* Xi Chen, RIPS IPAM undergraduate research program (PhD Computer Science, Columbia University)
-* Alistair Letcher, RIPS undergraduate research program at UCLA IPAM (MSc Mathematical Sciences, Oxford University)
+* Jelena Trisovic, undergraduate RIPS research program at UCLA Institute of Pure and Applied Math (MS Electrical Engineering, ETH Zurich)
+* Collin Cademartori, RIPS IPAM (PhD Statistics, Columbia University)
+* Xi Chen, RIPS IPAM  (PhD Computer Science, Columbia University)
+* Alistair Letcher, RIPS IPAM (MSc Mathematical Sciences, Oxford University)
 
 
 [ [Back to homepage] ](./)
