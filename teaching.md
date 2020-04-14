@@ -1,9 +1,14 @@
 ---
 # [](#header-1)Teaching and Mentoring
-* Instructor, STAT 863: Advanced Computational Statistics, Duke University, Spring 2020.
 
-* Instructor, STAT 250: Statistics, Duke University, Fall 2018, Spring 2019, Fall 2019.
+At Duke
+-------
+* STAT 863: Advanced Computational Statistics, Spring 2020.
 
+* STAT 250: Statistics, Fall 2018, Spring 2019, Fall 2019.
+
+Elsewhere
+-------
 * Lecturer, [2018 Rice University q-bio Summer School](http://q-bio.org/wp/qbss/2018lecturers/) 
 
 * Academic Mentor, RIPS undergraduate research program, UCLA Institute of Pure and Applied Mathematics, Summer 2017
@@ -13,6 +18,17 @@
 
 * Instructor, STAT 341: Intro to Probability and Mathematical Statistics II, University of Washington, Winter Quarter 2016. 
 
-* Tutor, University of Washington Statistics Tutor and Study Center, 2013---2015.
+
+Student Collaborators (and first positions)
+-------
+* Sherry Hu, undergraduate
+* Fan Bu, PhD candidate
+* Zhiyue Zhang, MS (PhD Applied Math and Statistics, Johns Hopkins University)
+* Saptarshi Chakraborty, MS (PhD Statistics, University of California Berkeley)
+* Xi Chen, RIPS IPAM undergraduate research program (PhD Computer Science, Columbia University)
+* Alistair Letcher, RIPS undergraduate research program at UCLA IPAM (MSc Mathematical Sciences, Oxford University)
+* Collin Cademartori, RIPS undergraduate research program at UCLA IPAM (PhD Statistics, Columbia University)
+* Jelena Trisovic, RIPS undergraduate research program at UCLA IPAM (MS Electrical Engineering, ETH Zurich)
+
 
 [ [Back to homepage] ](./)
