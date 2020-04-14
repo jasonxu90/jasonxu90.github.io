@@ -1,18 +1,14 @@
 ---
 # [](#header-1)Teaching and Mentoring
 
-At Duke
--------
 * STAT 863: Advanced Computational Statistics, Spring 2020.
 
 * STAT 250: Statistics, Fall 2018, Spring 2019, Fall 2019.
 
-Elsewhere
--------
 * Lecturer, [2018 Rice University q-bio Summer School](http://q-bio.org/wp/qbss/2018lecturers/) 
 
 * Academic Mentor, RIPS undergraduate research program, UCLA Institute of Pure and Applied Mathematics, Summer 2017
-	* My students presented this work at the 2018 Joint Mathematics Meetings and won the [MAA Outstanding Poster Award](http://www.ipam.ucla.edu/news/rips-students-receive-outstanding-poster-awards-at-jmm/) in applied mathematics. Congrats Alec, Jelena, Collin, and Xi!
+	* Congrats to students Alec, Jelena, Collin, and Xi for winning the [MAA Outstanding Poster Award](http://www.ipam.ucla.edu/news/rips-students-receive-outstanding-poster-awards-at-jmm/) at JMM 2018!
 	
 * Instructor, BIOMATH 210: Optimization Methods, UCLA, Fall Quarter 2016. 
 
