@@ -1,5 +1,6 @@
 ---
 # [](#header-1)Teaching and Mentoring
+* STAT 432: Theory and Methods of Statistical Learning, Fall 2020.
 
 * STAT 863: Advanced Computational Statistics, Spring 2020.
 
@@ -21,10 +22,10 @@ Student Collaborators (and first positions)
 * Fan Bu, PhD candidate
 * Zhiyue Zhang, MS (PhD Applied Math and Statistics, Johns Hopkins University)
 * Saptarshi Chakraborty, MS (PhD Statistics, University of California Berkeley)
+* Jelena Trisovic, RIPS undergraduate research program at UCLA IPAM (MS Electrical Engineering, ETH Zurich)
+* Collin Cademartori, RIPS undergraduate research program at UCLA IPAM (PhD Statistics, Columbia University)
 * Xi Chen, RIPS IPAM undergraduate research program (PhD Computer Science, Columbia University)
 * Alistair Letcher, RIPS undergraduate research program at UCLA IPAM (MSc Mathematical Sciences, Oxford University)
-* Collin Cademartori, RIPS undergraduate research program at UCLA IPAM (PhD Statistics, Columbia University)
-* Jelena Trisovic, RIPS undergraduate research program at UCLA IPAM (MS Electrical Engineering, ETH Zurich)
 
 
 [ [Back to homepage] ](./)
