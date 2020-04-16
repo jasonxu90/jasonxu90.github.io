@@ -11,7 +11,7 @@
 * Academic Mentor, RIPS undergraduate research program, UCLA Institute of Pure and Applied Mathematics, Summer 2017
 	* Congrats to students Alec, Jelena, Collin, and Xi for winning the [MAA Outstanding Poster Award](http://www.ipam.ucla.edu/news/rips-students-receive-outstanding-poster-awards-at-jmm/) at JMM 2018!
 	
-* Instructor, BIOMATH 210: Optimization Methods, UCLA, Fall Quarter 2016. 
+* Instructor, BIOMATH 210: Optimization Methods, UCLA, Fall 2016. 
 
 * Instructor, STAT 341: Intro to Probability and Mathematical Statistics II, University of Washington, Winter Quarter 2016. 
 
