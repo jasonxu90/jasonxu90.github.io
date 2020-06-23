@@ -3,13 +3,14 @@
 Most of these are available on [arXiv](https://arxiv.org/find/all/1/all:+EXACT+jason_xu/0/1/0/all/0/1).
 For a broad description of current interests, see my [research page](https://jasonxu90.github.io/research.html). 
 
-(__\*__ _denotes equal contribution_)
 
 Preprints
 -------
-* Zhang, Z., Lange, K., and __Xu, J.__ A Scalable Framework for Sparse Clustering Without Shrinkage.
+* Paul, D.\*, Chakraborty, S.\*, Das, S. and __Xu, J.__. Kernel _k_-means, By All Means: Algorithms and Strong Consistency.
 
-* Bu, F., Aiello, A., __Xu, J.\*__, and Volfovsky, A\*. Likelihood-based Inference for Partially Observed Epidemics on Dynamic Networks. (A short version won the **SBSS Student Paper Award**---congrats Fan!)
+*  __Xu, J.__, Lange, K. A Proximal Distance Algorithm for Likelihood-based Sparse Covariance Estimation.
+
+* Zhang, Z., Lange, K., and __Xu, J.__ Simple, Scalable Sparse _k_-Means via Feature Ranking.
 
 * Stutz, T., Landeros, A., __Xu, J.__, Sinsheimer, J., Lange, K. and Sehl, M. Stochastic Simulation Algorithms for Interacting Particle Systems.
 
@@ -19,12 +20,16 @@ Preprints
 
 
 
-Published
+Published 
 -------
+ (__\*__ _denotes equal contribution_)
+ 
 * Chakraborty, S.\*, Paul, D.\*, Das, S. and __Xu, J.__ (2020). Entropy Weighted Power k-Means Clustering. _Artificial Intelligence and Statistics
 (AISTATS)._
-    
-* __Xu, J.__, Koelle, S., Wu, C., Guttorp, P., Dunbar, C. E., Abkowitz, J. L. and Minin, V. N.  (2019). Statistical Inference in Partially Observed Branching Processes, with Application to Cell Lineage Tracking of _in vivo_ Hematopoiesis. _The Annals of Applied Statistics._
+ 
+* Bu, F., Aiello, A., __Xu, J.\*__, and Volfovsky, A\* (2020+). Likelihood-based Inference for Partially Observed Epidemics on Dynamic Networks. _To appear, Journal of the American Statistical Association._ (A short version won the **SBSS Student Paper Award**---congrats Fan!)
+   
+* __Xu, J.__, Koelle, S., Wu, C., Guttorp, P., Dunbar, C. E., Abkowitz, J. L. and Minin, V. N.  (2019). Statistical Inference for Partially Observed Branching Processes, with Application to Cell Lineage Tracking of _in vivo_ Hematopoiesis. _The Annals of Applied Statistics._
     
 * __Xu, J.__ and Lange, K (2019). Power k-Means Clustering. _International Conference on Machine Learning (ICML)._ **(Long Oral)**
     
