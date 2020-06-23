@@ -8,15 +8,15 @@ Preprints
 -------
 * Paul, D.\*, Chakraborty, S.\*, Das, S. and __Xu, J.__. Kernel _k_-means, By All Means: Algorithms and Strong Consistency.
 
-*  __Xu, J.__, Lange, K. A Proximal Distance Algorithm for Likelihood-based Sparse Covariance Estimation.
+*  __Xu, J.__ and Lange, K. A Proximal Distance Algorithm for Likelihood-based Sparse Covariance Estimation.
 
-* Zhang, Z., Lange, K., and __Xu, J.__ Simple, Scalable Sparse _k_-Means via Feature Ranking.
+* Zhang, Z., Lange, K. and __Xu, J.__ Simple, Scalable Sparse _k_-Means via Feature Ranking.
 
 * Stutz, T., Landeros, A., __Xu, J.__, Sinsheimer, J., Lange, K. and Sehl, M. Stochastic Simulation Algorithms for Interacting Particle Systems.
 
-* Won, J., Lange, K., and __Xu, J.__  Lagrangian Dual Algorithms for l<sub>p</sub>-Ball Projection.
+* Won, J., Lange, K. and __Xu, J.__  Lagrangian Dual Algorithms for l<sub>p</sub>-Ball Projection.
 
-* Gustafson, A., Hirn, M., Mohammed, K., Narayanan, H. __and Xu, J.__  Structural Risk Minimization for _C_<sup>1,1</sup>(R<sup>d</sup>) Regression.
+* Gustafson, A., Hirn, M., Mohammed, K., Narayanan, H. and __Xu, J.__  Structural Risk Minimization for _C_<sup>1,1</sup>(R<sup>d</sup>) Regression.
 
 
 
@@ -24,22 +24,22 @@ Published
 -------
  (__\*__ _denotes equal contribution_)
  
-* Chakraborty, S.\*, Paul, D.\*, Das, S. and __Xu, J.__ (2020). Entropy Weighted Power k-Means Clustering. _Artificial Intelligence and Statistics
+* Chakraborty, S.\*, Paul, D.\*, Das, S. and __Xu, J.__ (2020). Entropy Weighted Power _k_-Means Clustering. _Artificial Intelligence and Statistics
 (AISTATS)._
  
-* Bu, F., Aiello, A., __Xu, J.\*__, and Volfovsky, A\* (2020+). Likelihood-based Inference for Partially Observed Epidemics on Dynamic Networks. _To appear, Journal of the American Statistical Association._ (A short version won the **SBSS Student Paper Award**---congrats Fan!)
+* Bu, F., Aiello, A., __Xu, J.\*__ and Volfovsky, A\* (2020+). Likelihood-based Inference for Partially Observed Epidemics on Dynamic Networks. _To appear, Journal of the American Statistical Association._ (A short version won the **SBSS Student Paper Award**---congrats Fan!)
    
 * __Xu, J.__, Koelle, S., Wu, C., Guttorp, P., Dunbar, C. E., Abkowitz, J. L. and Minin, V. N.  (2019). Statistical Inference for Partially Observed Branching Processes, with Application to Cell Lineage Tracking of _in vivo_ Hematopoiesis. _The Annals of Applied Statistics._
     
-* __Xu, J.__ and Lange, K (2019). Power k-Means Clustering. _International Conference on Machine Learning (ICML)._ **(Long Oral)**
+* __Xu, J.__ and Lange, K (2019). Power _k_-Means Clustering. _International Conference on Machine Learning (ICML)._ **(Long Oral)**
     
-* Won, J., __Xu, J__, and Lange, K. (2019). Projection onto Minkowski Sums with Application to Constrained Learning. _International Conference on Machine Learning (ICML)._ **(Long Oral)**
+* Won, J., __Xu, J__ and Lange, K. (2019). Projection onto Minkowski Sums with Application to Constrained Learning. _International Conference on Machine Learning (ICML)._ **(Long Oral)**
     
 * __Xu, J.__, Wang, Y., Guttorp, P. and Abkowitz, J. L.  (2018). Visualizing Hematopoiesis as a Stochastic Process. _Blood._
     
-* __Xu, J.__, Chi, E., Yang, M. and Lange, K. (2018). A Majorization-minimization Algorithm for Split Feasibility Problems. _Computational Optimization and Applications._
-
  * Ho, L., __Xu, J.__, Crawford, F. W., Minin, V. N. and Suchard, M. A. (2018).  Birth/birth-death Processes and their Computable Transition Probabilities with Biological Applications. _Journal of Mathematical Biology._  
+ 
+ * __Xu, J.__, Chi, E., Yang, M. and Lange, K. (2018). A Majorization-minimization Algorithm for Split Feasibility Problems. _Computational Optimization and Applications._
 
 *  __Xu, J.__, Chi, E. and Lange, K. (2018). Generalized Linear Model Regression under Distance-to-set Penalties. _Neural Information Processing Systems (NeurIPS)._  **(Spotlight Paper)**
  
