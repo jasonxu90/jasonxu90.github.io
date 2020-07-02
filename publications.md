@@ -6,7 +6,7 @@ For a broad description of current interests, see my [research page](https://jas
 
 Preprints
 -------
-* Paul, D.\*, Chakraborty, S.\*, Das, S. and __Xu, J.__. Kernel _k_-means, By All Means: Algorithms and Strong Consistency.
+* Paul, D.\*, Chakraborty, S.\*, Das, S. and __Xu, J.__  Kernel _k_-means, By All Means: Algorithms and Strong Consistency.
 
 *  __Xu, J.__ and Lange, K. A Proximal Distance Algorithm for Likelihood-based Sparse Covariance Estimation.
 
@@ -18,7 +18,9 @@ Preprints
 
 * Gustafson, A., Hirn, M., Mohammed, K., Narayanan, H. and __Xu, J.__  Structural Risk Minimization for _C_<sup>1,1</sup>(R<sup>d</sup>) Regression.
 
-
+Thesis
+-------
+* __Xu, J.__ (2016). Likelihood-Based Inference for Partially Observed Multi-Type Markov Branching Processes. _PhD Dissertation, Department of Statistics, University of Washington_. [Link](https://digital.lib.washington.edu/researchworks/handle/1773/37251)
 
 Published 
 -------
@@ -59,11 +61,6 @@ Myosin-independent cytokinesis in _Giardia_ Utilizes Flagella to Coordinate Forc
 * Foti, N.\*, __Xu, J.\*__, Laird, D. and Fox, E. B. (2015). Stochastic Variational Inference for Hidden Markov Models. _Neural Information Processing Systems (NeurIPS)._ 
    
 * Huber, M. L.,  McCall, E., Rozenfeld, D. and __Xu, J.__ (2012). Bounds on the Artificial Phase Transition for Perfect Simulation of Repulsive Point Processes. _Involve._
-
-Thesis
--------
-* __Xu, J.__ (2016). Likelihood-Based Inference for Partially Observed Multi-Type Markov Branching Processes. _PhD Dissertation, Department of Statistics, University of Washington_. [Link](https://digital.lib.washington.edu/researchworks/handle/1773/37251)
-
 
 
 Software
