@@ -18,7 +18,8 @@
 
 Student Collaborators (and first positions)
 -------
-* Achal Awasthi, PhD candidate
+* Raphael Morsomme, PhD student
+* Achal Awasthi, PhD student
 * Debolina Paul, MS
 * Fan Bu, PhD candidate
 * Medha Agarwal, undergraduate

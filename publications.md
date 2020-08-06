@@ -6,9 +6,11 @@ For a broad description of current interests, see my [research page](https://jas
 
 Preprints
 -------
-* Paul, D.\*, Chakraborty, S.\*, Das, S. and __Xu, J.__  Kernel _k_-means, By All Means: Algorithms and Strong Consistency.
+* Chakraborty, S. and __Xu, J.__ Biconvex Clustering.
 
 *  __Xu, J.__ and Lange, K. A Proximal Distance Algorithm for Likelihood-based Sparse Covariance Estimation.
+
+* Paul, D.\*, Chakraborty, S.\*, Das, S. and __Xu, J.__  Kernel _k_-means, By All Means: Algorithms and Strong Consistency.
 
 * Zhang, Z., Lange, K. and __Xu, J.__ Simple, Scalable Sparse _k_-Means via Feature Ranking.
 
@@ -29,7 +31,7 @@ Published
 * Chakraborty, S.\*, Paul, D.\*, Das, S. and __Xu, J.__ (2020). Entropy Weighted Power _k_-Means Clustering. _Artificial Intelligence and Statistics
 (AISTATS)._
  
-* Bu, F., Aiello, A., __Xu, J.\*__ and Volfovsky, A\* (2020+). Likelihood-based Inference for Partially Observed Epidemics on Dynamic Networks. _To appear, Journal of the American Statistical Association._ (A short version won the **SBSS Student Paper Award**---congrats Fan!)
+* Bu, F., Aiello, A., __Xu, J.\*__ and Volfovsky, A\* (2020+). Likelihood-based Inference for Partially Observed Epidemics on Dynamic Networks. _Journal of the American Statistical Association._ (A short version won the **SBSS Student Paper Award**---congrats Fan!)
    
 * __Xu, J.__, Koelle, S., Wu, C., Guttorp, P., Dunbar, C. E., Abkowitz, J. L. and Minin, V. N.  (2019). Statistical Inference for Partially Observed Branching Processes, with Application to Cell Lineage Tracking of _in vivo_ Hematopoiesis. _The Annals of Applied Statistics._
     
