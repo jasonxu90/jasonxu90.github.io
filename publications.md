@@ -12,9 +12,9 @@ Preprints
 
 * Paul, D.\*, Chakraborty, S.\*, Das, S. and __Xu, J.__  Kernel _k_-means, By All Means: Algorithms and Strong Consistency.
 
-* Zhang, Z., Lange, K. and __Xu, J.__ Simple, Scalable Sparse _k_-Means via Feature Ranking.
+* Landeros, A,M  Ji, X., Lange, K. L., Stutz, T., __Xu, J.__, Sehl, M. E., and Sinsheimer, J.S. An Examination of School Reopening Strategies during the SARS-CoV-2 Pandemic.
 
-* Stutz, T., Landeros, A., __Xu, J.__, Sinsheimer, J., Lange, K. and Sehl, M. Stochastic Simulation Algorithms for Interacting Particle Systems.
+* Stutz, T., Landeros, A., __Xu, J.__, Sinsheimer, J., Lange, K. and Sehl, M. E. Stochastic Simulation Algorithms for Interacting Particle Systems.
 
 * Won, J., Lange, K. and __Xu, J.__  Lagrangian Dual Algorithms for l<sub>p</sub>-Ball Projection.
 
@@ -28,10 +28,12 @@ Published
 -------
  (__\*__ _denotes equal contribution_)
  
+ * Zhang, Z., Lange, K. and __Xu, J.__ (2020+). Simple and Scalable Sparse _k_-Means via Feature Ranking. _To appear, Neural Information Processing Systems (NeurIPS)._ **(Spotlight Paper)**
+ 
 * Chakraborty, S.\*, Paul, D.\*, Das, S. and __Xu, J.__ (2020). Entropy Weighted Power _k_-Means Clustering. _Artificial Intelligence and Statistics
 (AISTATS)._
  
-* Bu, F., Aiello, A., __Xu, J.\*__ and Volfovsky, A\* (2020+). Likelihood-based Inference for Partially Observed Epidemics on Dynamic Networks. _Journal of the American Statistical Association._ (A short version won the **SBSS Student Paper Award**---congrats Fan!)
+* Bu, F., Aiello, A., __Xu, J.\*__ and Volfovsky, A\* (2020+). Likelihood-based Inference for Partially Observed Epidemics on Dynamic Networks. _Journal of the American Statistical Association._ (**SBSS Student Paper Award**---congrats Fan!)
    
 * __Xu, J.__, Koelle, S., Wu, C., Guttorp, P., Dunbar, C. E., Abkowitz, J. L. and Minin, V. N.  (2019). Statistical Inference for Partially Observed Branching Processes, with Application to Cell Lineage Tracking of _in vivo_ Hematopoiesis. _The Annals of Applied Statistics._
     

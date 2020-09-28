@@ -16,8 +16,9 @@
 * STAT 341: Intro to Probability and Mathematical Statistics II, University of Washington, Winter Quarter 2016. 
 
 
-Student Collaborators (and first positions)
+Student Collaborators and (first positions)
 -------
+* Jenny Huang, undergraduate
 * Raphael Morsomme, PhD student
 * Achal Awasthi, PhD student
 * Debolina Paul, MS
