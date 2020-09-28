@@ -12,7 +12,7 @@ Preprints
 
 * Paul, D.\*, Chakraborty, S.\*, Das, S. and __Xu, J.__  Kernel _k_-means, By All Means: Algorithms and Strong Consistency.
 
-* Landeros, A,M  Ji, X., Lange, K. L., Stutz, T., __Xu, J.__, Sehl, M. E., and Sinsheimer, J.S. An Examination of School Reopening Strategies during the SARS-CoV-2 Pandemic.
+* Landeros, A.,  Ji, X., Lange, K. L., Stutz, T., __Xu, J.__, Sehl, M. E.\*, and Sinsheimer, J.S\*. An Examination of School Reopening Strategies during the SARS-CoV-2 Pandemic.
 
 * Stutz, T., Landeros, A., __Xu, J.__, Sinsheimer, J., Lange, K. and Sehl, M. E. Stochastic Simulation Algorithms for Interacting Particle Systems.
 
