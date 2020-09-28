@@ -58,10 +58,10 @@ Myosin-independent cytokinesis in _Giardia_ Utilizes Flagella to Coordinate Forc
     
 * __Xu, J.__, Koelle, S., Wu, C., Guttorp, P., Dunbar, C. E., Abkowitz, J. L. and Minin, V. N. (2016). Stochastic Modeling of Hematopoietic Stem and Progenitor Cell Barcoding Data from Rhesus Macaques Challenges the Classic Model of Hematopoiesis. _Blood._
    
-* __Xu, J.__ and  Minin, V. N. (2015). Efficient Transition Probability Computation for Continuous-time Branching Processes via Compressed Sensing. _Uncertainty in Artificial Intelligence (UAI)._
-   
 * __Xu, J.__, Guttorp, P.,  Kato-Maeda, M. and Minin, V. N. (2015). Likelihood-based Inference for Discretely Observed Birth-death-shift Processes, with Applications to Evolution of Mobile Genetic Elements. _Biometrics._ **(David P. Byar Paper Competition Award)**
    
+* __Xu, J.__ and  Minin, V. N. (2015). Efficient Transition Probability Computation for Continuous-time Branching Processes via Compressed Sensing. _Uncertainty in Artificial Intelligence (UAI)._
+
 * Foti, N.\*, __Xu, J.\*__, Laird, D. and Fox, E. B. (2015). Stochastic Variational Inference for Hidden Markov Models. _Neural Information Processing Systems (NeurIPS)._ 
    
 * Huber, M. L.,  McCall, E., Rozenfeld, D. and __Xu, J.__ (2012). Bounds on the Artificial Phase Transition for Perfect Simulation of Repulsive Point Processes. _Involve._
