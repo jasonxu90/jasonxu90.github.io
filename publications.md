@@ -14,7 +14,7 @@ Preprints
 
 * Landeros, A.,  Ji, X., Lange, K. L., Stutz, T., __Xu, J.__, Sehl, M. E.\*, and Sinsheimer, J.S\*. An Examination of School Reopening Strategies during the SARS-CoV-2 Pandemic.
 
-* Stutz, T., Landeros, A., __Xu, J.__, Sinsheimer, J., Lange, K. and Sehl, M. E. Stochastic Simulation Algorithms for Interacting Particle Systems.
+* Stutz, T., Landeros, A., __Xu, J.__, Sinsheimer, J. S., Lange, K. and Sehl, M. E. Stochastic Simulation Algorithms for Interacting Particle Systems.
 
 * Won, J., Lange, K. and __Xu, J.__  Lagrangian Dual Algorithms for l<sub>p</sub>-Ball Projection.
 
