@@ -19,6 +19,7 @@
 Student Collaborators and (first positions)
 -------
 * Jenny Huang, undergraduate
+* Mishek Thapa, undergraduate
 * Raphael Morsomme, PhD student
 * Achal Awasthi, PhD student
 * Debolina Paul, MS

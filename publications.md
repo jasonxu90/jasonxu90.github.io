@@ -28,12 +28,13 @@ Published
 -------
  (__\*__ _denotes equal contribution_)
  
- * Zhang, Z., Lange, K. and __Xu, J.__ (2020+). Simple and Scalable Sparse _k_-Means via Feature Ranking. _To appear, Neural Information Processing Systems (NeurIPS)._ **(Spotlight Paper)**
+ * Zhang, Z., Lange, K. and __Xu, J.__ (2020+). Simple and Scalable Sparse _k_-Means Clustering via Feature Ranking. _To appear, Neural Information Processing Systems (NeurIPS)._ **(Spotlight Paper)**
  
+* Bu, F., Aiello, A., __Xu, J.\*__ and Volfovsky, A\* (2020+). Likelihood-based Inference for Partially Observed Epidemics on Dynamic Networks. _Journal of the American Statistical Association._ (**SBSS Student Paper Award**---congrats Fan!)
+
 * Chakraborty, S.\*, Paul, D.\*, Das, S. and __Xu, J.__ (2020). Entropy Weighted Power _k_-Means Clustering. _Artificial Intelligence and Statistics
 (AISTATS)._
  
-* Bu, F., Aiello, A., __Xu, J.\*__ and Volfovsky, A\* (2020+). Likelihood-based Inference for Partially Observed Epidemics on Dynamic Networks. _Journal of the American Statistical Association._ (**SBSS Student Paper Award**---congrats Fan!)
    
 * __Xu, J.__, Koelle, S., Wu, C., Guttorp, P., Dunbar, C. E., Abkowitz, J. L. and Minin, V. N.  (2019). Statistical Inference for Partially Observed Branching Processes, with Application to Cell Lineage Tracking of _in vivo_ Hematopoiesis. _The Annals of Applied Statistics._
     
