@@ -1,22 +1,20 @@
 ---
 # [](#header-1)Publications
-Most of these are available on [arXiv](https://arxiv.org/find/all/1/all:+EXACT+jason_xu/0/1/0/all/0/1).
+Most of these are available on [arXiv](https://arxiv.org/find/all/1/all:+EXACT+jason_xu/0/1/0/all/0/1). Corresponding software is available at the bottom of this page.
 For a broad description of current interests, see my [research page](https://jasonxu90.github.io/research.html). 
 
 
 Preprints
 -------
-* Chakraborty, S. and __Xu, J.__ Biconvex Clustering.
+* Won, J., Lange, K. and __Xu, J.__ A unified analysis of convex and non-convex l_p-ball projection problems.
 
-*  __Xu, J.__ and Lange, K. A Proximal Distance Algorithm for Likelihood-based Sparse Covariance Estimation.
+* Chakraborty, S. and __Xu, J.__ Biconvex Clustering.
 
 * Paul, D.\*, Chakraborty, S.\*, Das, S. and __Xu, J.__  Kernel _k_-means, By All Means: Algorithms and Strong Consistency.
 
 * Landeros, A.,  Ji, X., Lange, K. L., Stutz, T., __Xu, J.__, Sehl, M. E.\*, and Sinsheimer, J.S\*. An Examination of School Reopening Strategies during the SARS-CoV-2 Pandemic.
 
 * Stutz, T., Landeros, A., __Xu, J.__, Sinsheimer, J. S., Lange, K. and Sehl, M. E. Stochastic Simulation Algorithms for Interacting Particle Systems.
-
-* Won, J., Lange, K. and __Xu, J.__  Lagrangian Dual Algorithms for l<sub>p</sub>-Ball Projection.
 
 * Gustafson, A., Hirn, M., Mohammed, K., Narayanan, H. and __Xu, J.__  Structural Risk Minimization for _C_<sup>1,1</sup>(R<sup>d</sup>) Regression.
 
@@ -28,7 +26,7 @@ Published
 -------
  (__\*__ _denotes equal contribution_)
  
- * Zhang, Z., Lange, K. and __Xu, J.__ (2020+). Simple and Scalable Sparse _k_-Means Clustering via Feature Ranking. _To appear, Neural Information Processing Systems (NeurIPS)._ **(Spotlight Paper)**
+ * Zhang, Z., Lange, K. and __Xu, J.__ (2020+). Simple and Scalable Sparse _k_-Means Clustering via Feature Ranking. _Neural Information Processing Systems (NeurIPS)._ **(Spotlight Paper)**
  
 * Bu, F., Aiello, A., __Xu, J.\*__ and Volfovsky, A\* (2020+). Likelihood-based Inference for Partially Observed Epidemics on Dynamic Networks. _Journal of the American Statistical Association._ (**SBSS Student Paper Award**---congrats Fan!)
 
@@ -72,7 +70,11 @@ Software
 -------
 * [SKFR:](https://github.com/ZhiyueZ/SKFR) R and Julia code for sparse _k_-means with feature ranking
 
+* [CoEpiNet:](https://github.com/fanbuduke17/CoEpiNet) R code for inference for partially observed epidemics over dynamic contact networks
+
 * [EWP:](https://github.com/DebolinaPaul/EWP) R code for power _k_-means clustering with entropy-based feature weighing
+
+* [MinkowskiProjection:](https://github.com/won-j/MinkowskiProjection) Matlab code for projection onto Minkowski sums of sets
 
 * [splitFeas:](https://cran.rstudio.com/web/packages/splitFeas/index.html) R package, MM algorithms for multi-set split feasibility problems 
 
