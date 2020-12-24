@@ -6,7 +6,7 @@ For a broad description of current interests, see my [research page](https://jas
 
 Preprints
 -------
-* Won, J., Lange, K. and __Xu, J.__ A unified analysis of convex and non-convex l_p-ball projection problems.
+* Won, J., Lange, K. and __Xu, J.__ A unified analysis of convex and non-convex _l_<sub>p</sub>-ball projection problems.
 
 * Chakraborty, S. and __Xu, J.__ Biconvex Clustering.
 
