@@ -1,6 +1,8 @@
 ---
 # [](#header-1)Teaching and Mentoring
-* STAT 432: Theory and Methods of Statistical Learning, Fall 2020.
+* [STAT 701](https://github.com/jasonxu90/701_schedule/blob/main/README.md): Readings in Statistical Science, Fall 2021.
+
+* STAT 432: Theory and Methods of Statistical Learning, Fall 2020 and Spring 2021.
 
 * STAT 863: Advanced Computational Statistics, Spring 2020.
 
