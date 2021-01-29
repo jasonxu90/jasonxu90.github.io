@@ -20,13 +20,14 @@
 
 Student Collaborators and (first positions)
 -------
+* Adithya Vellal, undergraduate 
 * Jenny Huang, undergraduate
-* Mishek Thapa, undergraduate
 * Raphael Morsomme, PhD student
+* Mishek Thapa, undergraduate
 * Achal Awasthi, PhD student
-* Debolina Paul, MS
 * Fan Bu, PhD candidate
 * Medha Agarwal, undergraduate
+* Debolina Paul, MS 
 * Sherry Hu, undergraduate
 * Zhiyue Zhang, MS (PhD Applied Math and Statistics, Johns Hopkins)
 * Saptarshi Chakraborty, MS (PhD Statistics, UC Berkeley)
