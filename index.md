@@ -7,7 +7,6 @@ Prior to joining the faculty at Duke, I worked with [Kenneth Lange](https://scho
 
 I grew up in Tucson, where I received a BS in Mathematics from the University of Arizona in 2012. There I was mentored by [Kevin Lin](http://math.arizona.edu/~klin/index.php) and [William Vélez](http://math.arizona.edu/~velez/), supported by the [Flinn Foundation Scholarship](https://www.flinn.org/flinn-scholars/). 
 
-In the near future, I'll be speaking at JSM and ECOSTA. I am area chairing ICML and ICLR.
 
 &nbsp;
 
