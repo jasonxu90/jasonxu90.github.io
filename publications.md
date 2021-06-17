@@ -6,7 +6,7 @@ For a broad description of current interests, see my [research page](https://jas
 
 Preprints
 -------
-* Agarwal, M., and __Xu, J.__ Quasi-Newton Acceleration of EM and MM Algorithms via Broyden's Method with Extrapolation.
+* Agarwal, M. and __Xu, J.__ Quasi-Newton Acceleration of EM and MM Algorithms via Broyden's Method with Extrapolation.
 
 * Chakraborty, S., Paul, D., Das, S. and __Xu, J.__ Uniform Concentration Bounds toward a Unified Framework for Robust Clustering.
 
@@ -16,7 +16,7 @@ Preprints
 
 * He, M., Lu, D., __Xu, J.\*__ and Xavier, R\*.  (2021+). Community Detection in Weighted Multilayer Networks with Ambient Noise.
 
-* ___Xu, J.___ and Lange, K. A Proximal Distance Algorithm for Likelihood-based Sparse Covariance Estimation.
+* __Xu, J.__ and Lange, K. A Proximal Distance Algorithm for Likelihood-based Sparse Covariance Estimation.
 
 * Paul, D.\*, Chakraborty, S.\*, Das, S. and __Xu, J.__  Implicit Annealing in Kernel and Multi-kernel Spaces: A Strongly Consistent Clustering Approach.
 
@@ -32,7 +32,7 @@ Published
  
  * Landeros, A.,  Ji, X., Lange, K. L., Stutz, T., __Xu, J.__, Sehl, M. E.\*, and Sinsheimer, J.S\*. An Examination of School Reopening Strategies during the SARS-CoV-2 Pandemic. _PLOS One_.
  
-* Ciccone, E.J., et al. (2021). SARS-CoV-2 Infection in Healthcare Personnel and Their Household Contacts at a Tertiary Academic Medical Center: Protocol for a Longitudinal Cohort Study. JMIR Research Protocols.
+  * Ciccone, E.J., et al. (2021). SARS-CoV-2 Infection in Healthcare Personnel and Their Household Contacts at a Tertiary Academic Medical Center: Protocol for a Longitudinal Cohort Study. _JMIR Research Protocols_.
  
  * Zhang, Z., Lange, K. and __Xu, J.__ (2020). Simple and Scalable Sparse _k_-Means Clustering via Feature Ranking. _Neural Information Processing Systems (NeurIPS)._ **(Spotlight Paper)**
  
