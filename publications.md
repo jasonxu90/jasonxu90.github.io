@@ -6,15 +6,19 @@ For a broad description of current interests, see my [research page](https://jas
 
 Preprints
 -------
+* Agarwal, M., and __Xu, J.__ Quasi-Newton Acceleration of EM and MM Algorithms via Broyden's Method with Extrapolation.
+
+* Chakraborty, S., Paul, D., Das, S. and __Xu, J.__ Uniform Concentration Bounds toward a Unified Framework for Robust Clustering.
+
 * Won, J., Lange, K. and __Xu, J.__ A unified analysis of convex and non-convex _l_<sub>p</sub>-ball projection problems.
 
 * Chakraborty, S. and __Xu, J.__ Biconvex Clustering.
 
+* He, M., Lu, D., __Xu, J.\*__ and Xavier, R\*.  (2021+). Community Detection in Weighted Multilayer Networks with Ambient Noise.
+
+* ___Xu, J.___ and Lange, K. A Proximal Distance Algorithm for Likelihood-based Sparse Covariance Estimation.
+
 * Paul, D.\*, Chakraborty, S.\*, Das, S. and __Xu, J.__  Implicit Annealing in Kernel and Multi-kernel Spaces: A Strongly Consistent Clustering Approach.
-
-* Landeros, A.,  Ji, X., Lange, K. L., Stutz, T., __Xu, J.__, Sehl, M. E.\*, and Sinsheimer, J.S\*. An Examination of School Reopening Strategies during the SARS-CoV-2 Pandemic.
-
-* Stutz, T., Landeros, A., __Xu, J.__, Sinsheimer, J. S., Lange, K. and Sehl, M. E. Stochastic Simulation Algorithms for Interacting Particle Systems.
 
 * Gustafson, A., Hirn, M., Mohammed, K., Narayanan, H. and __Xu, J.__  Structural Risk Minimization for _C_<sup>1,1</sup>(R<sup>d</sup>) Regression.
 
@@ -26,13 +30,19 @@ Published
 -------
  (__\*__ _denotes equal contribution_)
  
- * Zhang, Z., Lange, K. and __Xu, J.__ (2020+). Simple and Scalable Sparse _k_-Means Clustering via Feature Ranking. _Neural Information Processing Systems (NeurIPS)._ **(Spotlight Paper)**
+ * Landeros, A.,  Ji, X., Lange, K. L., Stutz, T., __Xu, J.__, Sehl, M. E.\*, and Sinsheimer, J.S\*. An Examination of School Reopening Strategies during the SARS-CoV-2 Pandemic. _PLOS One_.
  
-* Bu, F., Aiello, A., __Xu, J.\*__ and Volfovsky, A\* (2020+). Likelihood-based Inference for Partially Observed Epidemics on Dynamic Networks. _Journal of the American Statistical Association._ (**SBSS Student Paper Award**---congrats Fan!)
+* Ciccone, E.J., et al. (2021). SARS-CoV-2 Infection in Healthcare Personnel and Their Household Contacts at a Tertiary Academic Medical Center: Protocol for a Longitudinal Cohort Study. JMIR Research Protocols.
+ 
+ * Zhang, Z., Lange, K. and __Xu, J.__ (2020). Simple and Scalable Sparse _k_-Means Clustering via Feature Ranking. _Neural Information Processing Systems (NeurIPS)._ **(Spotlight Paper)**
+ 
+ * Stutz, T., Landeros, A., __Xu, J.__, Sinsheimer, J. S., Lange, K. and Sehl, M. E (2021). Stochastic Simulation Algorithms for Interacting Particle Systems. _PLOS One_.
+
+* Bu, F., Aiello, A., __Xu, J.\*__ and Volfovsky, A\* (2020). Likelihood-based Inference for Partially Observed Epidemics on Dynamic Networks. _Journal of the American Statistical Association._ (**SBSS Student Paper Award**---congrats Fan!)
 
 * Chakraborty, S.\*, Paul, D.\*, Das, S. and __Xu, J.__ (2020). Entropy Weighted Power _k_-Means Clustering. _Artificial Intelligence and Statistics
 (AISTATS)._
- 
+
    
 * __Xu, J.__, Koelle, S., Wu, C., Guttorp, P., Dunbar, C. E., Abkowitz, J. L. and Minin, V. N.  (2019). Statistical Inference for Partially Observed Branching Processes, with Application to Cell Lineage Tracking of _in vivo_ Hematopoiesis. _The Annals of Applied Statistics._
     
@@ -68,6 +78,8 @@ Myosin-independent cytokinesis in _Giardia_ Utilizes Flagella to Coordinate Forc
 
 Software
 -------
+* [QNMM:](https://github.com/medhaaga/Quasi-Newton-accelerated-MM) R package for quasi-Newton acceleration of MM and EM algorithms
+
 * [SKFR:](https://github.com/ZhiyueZ/SKFR) R and Julia code for sparse _k_-means with feature ranking
 
 * [CoEpiNet:](https://github.com/fanbuduke17/CoEpiNet) R code for inference for partially observed epidemics over dynamic contact networks

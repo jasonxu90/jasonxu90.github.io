@@ -1,8 +1,9 @@
 ---
 # [](#header-1)Teaching and Mentoring
-* [STAT 701](https://github.com/jasonxu90/701_schedule/blob/main/README.md): Readings in Statistical Science, Fall 2021.
+* STAT 790: Inference for Continuous-time Markov Models, Fall 2021.
+* STAT 701: Readings in Statistical Science, Spring 2021.
 
-* STAT 432: Theory and Methods of Statistical Learning, Fall 2020 and Spring 2021.
+* STAT 432: Theory and Methods of Statistical Learning, Fall 2020, Spring 2021 and Fall 2021.
 
 * STAT 863: Advanced Computational Statistics, Spring 2020.
 
@@ -25,10 +26,9 @@ Student Collaborators and (first positions)
 * Raphael Morsomme, PhD student
 * Mishek Thapa, undergraduate
 * Achal Awasthi, PhD student
-* Fan Bu, PhD candidate
-* Medha Agarwal, undergraduate
-* Debolina Paul, MS 
-* Sherry Hu, undergraduate
+* Fan Bu, PhD student (Postdoc, Suchard group, UCLA)
+* Medha Agarwal, MS (PhD Statistics, University of Washington)
+* Debolina Paul, MS (PhD Statistics, Stanford University)
 * Zhiyue Zhang, MS (PhD Applied Math and Statistics, Johns Hopkins)
 * Saptarshi Chakraborty, MS (PhD Statistics, UC Berkeley)
 * Jelena Trisovic, undergraduate RIPS research program at UCLA IPAM (MS Electrical Engineering, ETH Zurich)
