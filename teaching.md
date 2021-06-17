@@ -1,6 +1,7 @@
 ---
 # [](#header-1)Teaching and Mentoring
 * STAT 790: Inference for Continuous-time Markov Models, Fall 2021.
+
 * STAT 701: Readings in Statistical Science, Spring 2021.
 
 * STAT 432: Theory and Methods of Statistical Learning, Fall 2020, Spring 2021 and Fall 2021.
