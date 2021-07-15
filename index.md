@@ -10,7 +10,7 @@ I grew up in Tucson, where I received a BS in Mathematics from the University of
 Upcoming: 
 I am area chairing for ICML, ICLR, and AIStat.
 
-JSM 2021 is soon! Come to our Invited Session ["Advances in MCMC Theory and Practice"](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/ActivityDetails.cfm?SessionID=220183), and you can also catch my talk in the Invited Session ["Inference in Infectious Diseases"](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/ActivityDetails.cfm?SessionID=220270). 
+JSM 2021 is soon! Come to our Invited Session ["Advances in MCMC Theory and Practice"](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/ActivityDetails.cfm?SessionID=220183), and you can also catch my talk on likelihood-based inference for epidemic models in the Invited Session ["Inference in Infectious Diseases"](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/ActivityDetails.cfm?SessionID=220270). 
 
 &nbsp;
 
