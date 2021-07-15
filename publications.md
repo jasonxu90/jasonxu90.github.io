@@ -1,6 +1,7 @@
 ---
 # [](#header-1)Publications
 Most of these are available on [arXiv](https://arxiv.org/find/all/1/all:+EXACT+jason_xu/0/1/0/all/0/1). Corresponding software is available at the bottom of this page.
+
 For a broad description of current interests, see my [research page](https://jasonxu90.github.io/research.html). 
 
 
@@ -10,7 +11,7 @@ Preprints
 
 * Chakraborty, S., Paul, D., Das, S. and __Xu, J.__ Uniform Concentration Bounds toward a Unified Framework for Robust Clustering.
 
-* Won, J., Lange, K. and __Xu, J.__ A unified analysis of convex and non-convex _l_<sub>p</sub>-ball projection problems.
+* Won, J., Lange, K. and __Xu, J.__ A Unified Analysis of Convex and Non-convex _l_<sub>p</sub>-ball Projection Problems.
 
 * Chakraborty, S. and __Xu, J.__ Biconvex Clustering.
 
@@ -38,7 +39,7 @@ Published
  
  * Stutz, T., Landeros, A., __Xu, J.__, Sinsheimer, J. S., Lange, K. and Sehl, M. E (2021). Stochastic Simulation Algorithms for Interacting Particle Systems. _PLOS One_.
 
-* Bu, F., Aiello, A., __Xu, J.\*__ and Volfovsky, A\* (2020). Likelihood-based Inference for Partially Observed Epidemics on Dynamic Networks. _Journal of the American Statistical Association._ (**SBSS Student Paper Award**---congrats Fan!)
+* Bu, F., Aiello, A., __Xu, J.\*__ and Volfovsky, A\* (2020). Likelihood-based Inference for Partially Observed Epidemics on Dynamic Networks. _Journal of the American Statistical Association._ (**SBSS Student Paper Award**)
 
 * Chakraborty, S.\*, Paul, D.\*, Das, S. and __Xu, J.__ (2020). Entropy Weighted Power _k_-Means Clustering. _Artificial Intelligence and Statistics
 (AISTATS)._
@@ -58,7 +59,7 @@ Published
 
 *  __Xu, J.__, Chi, E. and Lange, K. (2018). Generalized Linear Model Regression under Distance-to-set Penalties. _Neural Information Processing Systems (NeurIPS)._  **(Spotlight Paper)**
  
-* Letcher, A.\*, Trišović, J.\*, Cademartori, C., Chen, X. __and Xu, J.__ (2018). Automatic Conflict Detection in Police Body-Worn Audio. _Proc. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)._
+* Letcher, A.\*, Trišović, J.\*, Cademartori, C., Chen, X. __and Xu, J.__ (2018). Automatic Conflict Detection in Police Body-Worn Audio. _Proc. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)._ **(MAA Outstanding Student Research Award)**
     
 * Hardin, W., Li, R., __Xu, J.__, Shelton, A., Alas G., Minin, V. N. and Paredez, A. R. (2017).
 Myosin-independent cytokinesis in _Giardia_ Utilizes Flagella to Coordinate Force Generation and Direct Membrane Trafficking. _Proceedings of the National Academy of Sciences._
