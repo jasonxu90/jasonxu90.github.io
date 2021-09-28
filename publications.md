@@ -33,7 +33,7 @@ Published
 -------
  (__\*__ _denotes equal contribution_)
  
- * Chakraborty, S., Paul, D., Das, S. and __Xu, J__ (2021). Uniform Concentration Bounds toward a Unified Framework for Robust Clustering. _To appear, NeurIPS_.
+ * Chakraborty, S., Paul, D., Das, S. and __Xu, J__ (2021). Uniform Concentration Bounds toward a Unified Framework for Robust Clustering. _To appear, Neural Information Processing Systems (NeurIPS)._  **(Spotlight Paper)**
  
  * Landeros, A.,  Ji, X., Lange, K. L., Stutz, T., __Xu, J.__, Sehl, M. E.\*, and Sinsheimer, J.S\* (2021). An Examination of School Reopening Strategies during the SARS-CoV-2 Pandemic. _PLOS One_.
  
