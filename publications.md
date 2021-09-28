@@ -7,13 +7,13 @@ For a broad description of current interests, see my [research page](https://jas
 
 Preprints
 -------
-* Bu, F., Aiello, A., Volfovsky, A.\* and ___Xu,J.\*___. Likelihood-based Inference for partially observed stochastic epidemics with individual heterogeneity.
+* Bu, F., Aiello, A., Volfovsky, A.\* and __Xu,J.\*__. Likelihood-based Inference for partially observed stochastic epidemics with individual heterogeneity.
 
 * Agarwal, M. and __Xu, J.__ Quasi-Newton Acceleration of EM and MM Algorithms via Broyden's Method with Extrapolation.
 
 * Won, J., Lange, K. and __Xu, J.__ A Unified Analysis of Convex and Non-convex _l_<sub>p</sub>-ball Projection Problems.
 
-* Stutz, T., Sehl, M., Sinsheimer, J. and ___Xu, J.___ Computational Tools for Assessing Gene Therapy under Branching Process Models of Mutation. 
+* Stutz, T., Sehl, M., Sinsheimer, J. and __Xu, J.__ Computational Tools for Assessing Gene Therapy under Branching Process Models of Mutation. 
 
 * Chakraborty, S. and __Xu, J.__ Biconvex Clustering.
 
