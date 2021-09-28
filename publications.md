@@ -7,15 +7,17 @@ For a broad description of current interests, see my [research page](https://jas
 
 Preprints
 -------
-* Agarwal, M. and __Xu, J.__ Quasi-Newton Acceleration of EM and MM Algorithms via Broyden's Method with Extrapolation.
+* Bu, F., Aiello, A., Volfovsky, A.\* and ___Xu,J.\*___. Likelihood-based Inference for partially observed stochastic epidemics with individual heterogeneity.
 
-* Chakraborty, S., Paul, D., Das, S. and __Xu, J.__ Uniform Concentration Bounds toward a Unified Framework for Robust Clustering.
+* Agarwal, M. and __Xu, J.__ Quasi-Newton Acceleration of EM and MM Algorithms via Broyden's Method with Extrapolation.
 
 * Won, J., Lange, K. and __Xu, J.__ A Unified Analysis of Convex and Non-convex _l_<sub>p</sub>-ball Projection Problems.
 
+* Stutz, T., Sehl, M., Sinsheimer, J. and ___Xu, J.___ Computational Tools for Assessing Gene Therapy under Branching Process Models of Mutation. 
+
 * Chakraborty, S. and __Xu, J.__ Biconvex Clustering.
 
-* He, M., Lu, D., __Xu, J.\*__ and Xavier, R\*.  (2021+). Community Detection in Weighted Multilayer Networks with Ambient Noise.
+* He, M., Lu, D., __Xu, J.\*__ and Xavier, R\*. Community Detection in Weighted Multilayer Networks with Ambient Noise.
 
 * __Xu, J.__ and Lange, K. A Proximal Distance Algorithm for Likelihood-based Sparse Covariance Estimation.
 
@@ -31,7 +33,9 @@ Published
 -------
  (__\*__ _denotes equal contribution_)
  
- * Landeros, A.,  Ji, X., Lange, K. L., Stutz, T., __Xu, J.__, Sehl, M. E.\*, and Sinsheimer, J.S\*. An Examination of School Reopening Strategies during the SARS-CoV-2 Pandemic. _PLOS One_.
+ * Chakraborty, S., Paul, D., Das, S. and __Xu, J__ (2021). Uniform Concentration Bounds toward a Unified Framework for Robust Clustering. _To appear, NeurIPS_.
+ 
+ * Landeros, A.,  Ji, X., Lange, K. L., Stutz, T., __Xu, J.__, Sehl, M. E.\*, and Sinsheimer, J.S\* (2021). An Examination of School Reopening Strategies during the SARS-CoV-2 Pandemic. _PLOS One_.
  
   * Ciccone, E.J., et al. (2021). SARS-CoV-2 Infection in Healthcare Personnel and Their Household Contacts at a Tertiary Academic Medical Center: Protocol for a Longitudinal Cohort Study. _JMIR Research Protocols_.
  
