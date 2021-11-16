@@ -31,7 +31,7 @@ Published
 -------
  (__\*__ _denotes equal contribution_)
  
- * Stutz, T., Sehl, M., Sinsheimer, J. and __Xu, J.__ Computational Tools for Assessing Gene Therapy under Branching Process Models of Mutation.  _To appear, Bulletin of Mathematical Biology_.
+ * Stutz, T., Sehl, M., Sinsheimer, J. and __Xu, J__ (2021+). Computational Tools for Assessing Gene Therapy under Branching Process Models of Mutation.  _To appear, Bulletin of Mathematical Biology_.
  
  * Paul, D.\*, Chakraborty, S.\*, Das, S. and __Xu, J__ (2021). Uniform Concentration Bounds toward a Unified Framework for Robust Clustering. _Neural Information Processing Systems (NeurIPS)._  **(Spotlight Paper)**
  
