@@ -87,7 +87,7 @@ Software
 
 * [SKFR:](https://github.com/ZhiyueZ/SKFR) R and Julia code for sparse _k_-means with feature ranking
 
-*[spcov:](https://github.com/jasonxu90/spcov) Julia implementation of proximal distance algorithm for sparse covariance estimation
+* [spcov:](https://github.com/jasonxu90/spcov) Julia implementation of proximal distance algorithm for sparse covariance estimation
 
 * [CoEpiNet:](https://github.com/fanbuduke17/CoEpiNet) R code for inference for partially observed epidemics over dynamic contact networks
 
