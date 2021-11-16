@@ -3,7 +3,7 @@
 
 * STAT 790: Inference for Continuous-time Markov Models, Fall 2021.
 
-* STAT 432: Theory and Methods of Statistical Learning, Fall 2020, Spring 2021 and Fall 2021.
+* STAT 432: Theory and Methods of Statistical Learning, Fall 2020, Spring 2021, Fall 2021, Spring 2022.
 
 * STAT 701: Readings in Statistical Science, Spring 2021.
 
@@ -26,7 +26,6 @@ Student Collaborators and (first positions)
 * Adithya Vellal, undergraduate 
 * Jenny Huang, undergraduate
 * Raphael Morsomme, PhD student
-* Mishek Thapa, undergraduate
 * Achal Awasthi, Biostatistics PhD student
 * Mishek Thapa, undergraduate (Research assistant, Field Lab, Duke Neurobiology)
 * Fan Bu, PhD student (Postdoc, Suchard group, UCLA)
@@ -34,7 +33,7 @@ Student Collaborators and (first positions)
 * Debolina Paul, MS (PhD Statistics, Stanford University)
 * Zhiyue Zhang, MS (PhD Applied Math and Statistics, Johns Hopkins)
 * Saptarshi Chakraborty, MS (PhD Statistics, UC Berkeley)
-* Jelena Trisovic, undergraduate RIPS research program at UCLA IPAM (MS Electrical Engineering, ETH Zurich)
+* Jelena Trisovic, undergraduate RIPS research program at UCLA IPAM (MS Electrical Engineering/AI Center PhD Fellow, ETH Zurich)
 * Collin Cademartori, RIPS IPAM (PhD Statistics, Columbia University)
 * Xi Chen, RIPS IPAM  (PhD Computer Science, Columbia University)
 * Alistair Letcher, RIPS IPAM (MSc Mathematical Sciences, Oxford)

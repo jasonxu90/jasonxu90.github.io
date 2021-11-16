@@ -13,15 +13,13 @@ Preprints
 
 * Won, J., Lange, K. and __Xu, J.__ A Unified Analysis of Convex and Non-convex _l_<sub>p</sub>-ball Projection Problems.
 
-* Stutz, T., Sehl, M., Sinsheimer, J. and __Xu, J.__ Computational Tools for Assessing Gene Therapy under Branching Process Models of Mutation. 
+* Paul, D.\*, Chakraborty, S.\*, Das, S. and __Xu, J.__  Implicit Annealing in Kernel and Multi-kernel Spaces: A Strongly Consistent Clustering Approach.
 
 * Chakraborty, S. and __Xu, J.__ Biconvex Clustering.
 
 * He, M., Lu, D., __Xu, J.\*__ and Xavier, R\*. Community Detection in Weighted Multilayer Networks with Ambient Noise.
 
 * __Xu, J.__ and Lange, K. A Proximal Distance Algorithm for Likelihood-based Sparse Covariance Estimation.
-
-* Paul, D.\*, Chakraborty, S.\*, Das, S. and __Xu, J.__  Implicit Annealing in Kernel and Multi-kernel Spaces: A Strongly Consistent Clustering Approach.
 
 * Gustafson, A., Hirn, M., Mohammed, K., Narayanan, H. and __Xu, J.__  Structural Risk Minimization for _C_<sup>1,1</sup>(R<sup>d</sup>) Regression.
 
@@ -33,7 +31,9 @@ Published
 -------
  (__\*__ _denotes equal contribution_)
  
- * Paul, D.\*, Chakraborty, S.\*, Das, S. and __Xu, J__ (2021). Uniform Concentration Bounds toward a Unified Framework for Robust Clustering. _To appear, Neural Information Processing Systems (NeurIPS)._  **(Spotlight Paper)**
+ * Stutz, T., Sehl, M., Sinsheimer, J. and __Xu, J.__ Computational Tools for Assessing Gene Therapy under Branching Process Models of Mutation.  _To appear, Bulletin of Mathematical Biology_.
+ 
+ * Paul, D.\*, Chakraborty, S.\*, Das, S. and __Xu, J__ (2021). Uniform Concentration Bounds toward a Unified Framework for Robust Clustering. _Neural Information Processing Systems (NeurIPS)._  **(Spotlight Paper)**
  
  * Landeros, A.,  Ji, X., Lange, K. L., Stutz, T., __Xu, J.__, Sehl, M. E.\*, and Sinsheimer, J.S\* (2021). An Examination of School Reopening Strategies during the SARS-CoV-2 Pandemic. _PLOS One_.
  
@@ -86,6 +86,8 @@ Software
 * [QNMM:](https://github.com/medhaaga/Quasi-Newton-accelerated-MM) R package for quasi-Newton acceleration of MM and EM algorithms
 
 * [SKFR:](https://github.com/ZhiyueZ/SKFR) R and Julia code for sparse _k_-means with feature ranking
+
+*[spcov:](https://github.com/jasonxu90/spcov) Julia implementation of proximal distance algorithm for sparse covariance estimation
 
 * [CoEpiNet:](https://github.com/fanbuduke17/CoEpiNet) R code for inference for partially observed epidemics over dynamic contact networks
 
