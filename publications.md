@@ -7,6 +7,8 @@ For a broad description of current interests, see my [research page](https://jas
 
 Preprints
 -------
+ (__\*__ _denotes equal contribution_)
+
 * Bu, F., Aiello, A., Volfovsky, A.\* and __Xu,J.\*__. Likelihood-based Inference for partially observed stochastic epidemics with individual heterogeneity.
 
 * Agarwal, M. and __Xu, J.__ Quasi-Newton Acceleration of EM and MM Algorithms via Broyden's Method with Extrapolation.
@@ -19,8 +21,6 @@ Preprints
 
 * He, M., Lu, D., __Xu, J.\*__ and Xavier, R\*. Community Detection in Weighted Multilayer Networks with Ambient Noise.
 
-* __Xu, J.__ and Lange, K. A Proximal Distance Algorithm for Likelihood-based Sparse Covariance Estimation.
-
 * Gustafson, A., Hirn, M., Mohammed, K., Narayanan, H. and __Xu, J.__  Structural Risk Minimization for _C_<sup>1,1</sup>(R<sup>d</sup>) Regression.
 
 Thesis
@@ -31,7 +31,9 @@ Published
 -------
  (__\*__ _denotes equal contribution_)
  
- * Stutz, T., Sehl, M., Sinsheimer, J. and __Xu, J__ (2021+). Computational Tools for Assessing Gene Therapy under Branching Process Models of Mutation.  _To appear, Bulletin of Mathematical Biology_.
+ * __Xu, J.__ and Lange, K (2022). A Proximal Distance Algorithm for Likelihood-based Sparse Covariance Estimation. _To appear, Biometrika_.
+ 
+ * Stutz, T., Sehl, M., Sinsheimer, J. and __Xu, J__ (2022). Computational Tools for Assessing Gene Therapy under Branching Process Models of Mutation.  _To appear, Bulletin of Mathematical Biology_.
  
  * Paul, D.\*, Chakraborty, S.\*, Das, S. and __Xu, J__ (2021). Uniform Concentration Bounds toward a Unified Framework for Robust Clustering. _Neural Information Processing Systems (NeurIPS)._  **(Spotlight Paper)**
  
@@ -48,7 +50,6 @@ Published
 * Chakraborty, S.\*, Paul, D.\*, Das, S. and __Xu, J.__ (2020). Entropy Weighted Power _k_-Means Clustering. _Artificial Intelligence and Statistics
 (AISTATS)._
 
-   
 * __Xu, J.__, Koelle, S., Wu, C., Guttorp, P., Dunbar, C. E., Abkowitz, J. L. and Minin, V. N.  (2019). Statistical Inference for Partially Observed Branching Processes, with Application to Cell Lineage Tracking of _in vivo_ Hematopoiesis. _The Annals of Applied Statistics._
     
 * __Xu, J.__ and Lange, K (2019). Power _k_-Means Clustering. _International Conference on Machine Learning (ICML)._ **(Long Oral)**

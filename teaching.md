@@ -1,9 +1,9 @@
 ---
 # [](#header-1)Teaching and Mentoring
 
-* STAT 790: Inference for Continuous-time Markov Models, Fall 2021.
-
 * STAT 432: Theory and Methods of Statistical Learning, Fall 2020, Spring 2021, Fall 2021, Spring 2022.
+
+* STAT 790: Inference for Continuous-time Markov Models, Fall 2021.
 
 * STAT 701: Readings in Statistical Science, Spring 2021.
 
@@ -22,13 +22,14 @@
 
 Student Collaborators and (first positions)
 -------
+* Aihua Li, MS student
 * Rick Presman, PhD student
 * Adithya Vellal, undergraduate 
 * Jenny Huang, undergraduate
 * Raphael Morsomme, PhD student
 * Achal Awasthi, Biostatistics PhD student
-* Mishek Thapa, undergraduate (Research assistant, Field Lab, Duke Neurobiology)
 * Fan Bu, PhD student (Postdoc, Suchard group, UCLA)
+* Mishek Thapa, undergraduate (Research assistant, Field Lab, Duke Neurobiology)
 * Medha Agarwal, MS (PhD Statistics, University of Washington)
 * Debolina Paul, MS (PhD Statistics, Stanford University)
 * Zhiyue Zhang, MS (PhD Applied Math and Statistics, Johns Hopkins)
