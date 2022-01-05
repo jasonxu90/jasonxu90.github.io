@@ -8,6 +8,8 @@ For a broad description of current interests, see my [research page](https://jas
 Preprints
 -------
  (__\*__ _denotes equal contribution_)
+ 
+ * Morsomme, R. and __Xu,J.\*__.  Uniformly Ergodic Data-Augmented MCMC for Fitting the General Stochastic Epidemic Model to Incidence Data. 
 
 * Bu, F., Aiello, A., Volfovsky, A.\* and __Xu,J.\*__. Likelihood-based Inference for partially observed stochastic epidemics with individual heterogeneity.
 
