@@ -8,7 +8,7 @@ Prior to joining the faculty at Duke, I worked with [Kenneth Lange](https://scho
 I grew up in Tucson, where I received a BS in Mathematics from the University of Arizona in 2012. There I was mentored by [Kevin Lin](http://math.arizona.edu/~klin/index.php) and [William Vélez](http://math.arizona.edu/~velez/), supported by the [Flinn Foundation Scholarship](https://www.flinn.org/flinn-scholars/). 
 
 Upcoming: 
-I am area chairing for ICML, ICLR, and AIStat 2022.
+I am area chairing for [https://icml.cc/Conferences/2022/Dates](ICML), [https://iclr.cc/Conferences/2022/Dates](ICLR), and [http://aistats.org/aistats2022/](AIStat 2022). I'll be a Plenary Speaker at the [https://sites.google.com/view/wsdl2022/home](ISI Winter School on Machine Learning)
 
 
 &nbsp;
