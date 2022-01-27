@@ -9,7 +9,7 @@ Preprints
 -------
  (__\*__ _denotes equal contribution_)
  
- * Morsomme, R. and __Xu,J.__.  Uniformly Ergodic Data-Augmented MCMC for Fitting the General Stochastic Epidemic Model to Incidence Data. 
+ * Morsomme, R. and __Xu,J.__.  Uniformly Ergodic Data-Augmented MCMC for Fitting the General Stochastic Epidemic Model to Incidence Data. (**ASA Statistics in Epidemiology Young Investigator Paper Award**)
 
 * Bu, F., Aiello, A., Volfovsky, A.\* and __Xu,J.\*__. Likelihood-based Inference for partially observed stochastic epidemics with individual heterogeneity.
 
@@ -91,6 +91,8 @@ Software
 * [SKFR:](https://github.com/ZhiyueZ/SKFR) R and Julia code for sparse _k_-means with feature ranking
 
 * [spcov:](https://github.com/jasonxu90/spcov) Julia implementation of proximal distance algorithm for sparse covariance estimation
+
+* [pkmeans:](https://github.com/avellal14/clustering) Python implementation of power _k_-means including Bregman divergences
 
 * [CoEpiNet:](https://github.com/fanbuduke17/CoEpiNet) R code for inference for partially observed epidemics over dynamic contact networks
 
