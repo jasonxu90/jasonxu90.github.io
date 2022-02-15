@@ -9,9 +9,12 @@ Preprints
 -------
  (__\*__ _denotes equal contribution_)
  
- * Morsomme, R. and __Xu,J.__.  Uniformly Ergodic Data-Augmented MCMC for Fitting the General Stochastic Epidemic Model to Incidence Data. (**ASA Statistics in Epidemiology Young Investigator Paper Award**)
+ 
+ * Morsomme, R. and __Xu,J.__  Uniformly Ergodic Data-Augmented MCMC for Fitting the General Stochastic Epidemic Model to Incidence Data. (**ASA Statistics in Epidemiology Young Investigator Paper Award**)
+ 
+ * Awasthi, A., Huang, J., Minin, V., Chow, D., and and __Xu, J.__ (2022+). Fitting a Stochastic Model of Intensive Care Occupancy to Noisy Hospitalization Time Series
 
-* Bu, F., Aiello, A., Volfovsky, A.\* and __Xu,J.\*__. Likelihood-based Inference for partially observed stochastic epidemics with individual heterogeneity.
+* Bu, F., Aiello, A., Volfovsky, A.\* and __Xu,J.\*__ Likelihood-based Inference for partially observed stochastic epidemics with individual heterogeneity.
 
 * Agarwal, M. and __Xu, J.__ Quasi-Newton Acceleration of EM and MM Algorithms via Broyden's Method with Extrapolation.
 
