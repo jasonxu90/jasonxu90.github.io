@@ -22,12 +22,12 @@
 
 Student Collaborators and (first positions)
 -------
-* Aihua Li, MS student
 * Rick Presman, PhD student
 * Adithya Vellal, undergraduate 
 * Jenny Huang, undergraduate
 * Raphael Morsomme, PhD student
 * Achal Awasthi, Biostatistics PhD student
+* Aihua Li, MS student (PhD Statistical Science, Duke University)
 * Fan Bu, PhD student (Postdoc, Suchard group, UCLA)
 * Mishek Thapa, undergraduate (Research assistant, Field Lab, Duke Neurobiology)
 * Medha Agarwal, MS (PhD Statistics, University of Washington)

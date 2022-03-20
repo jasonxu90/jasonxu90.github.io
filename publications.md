@@ -95,7 +95,7 @@ Software
 
 * [spcov:](https://github.com/jasonxu90/spcov) Julia implementation of proximal distance algorithm for sparse covariance estimation
 
-* [pkmeans:](https://github.com/avellal14/clustering) Python implementation of power _k_-means including Bregman divergences
+* [pkmeans:](https://github.com/avellal14/bregman_power_kmeans) Python implementation of power _k_-means including Bregman divergences
 
 * [CoEpiNet:](https://github.com/fanbuduke17/CoEpiNet) R code for inference for partially observed epidemics over dynamic contact networks
 
