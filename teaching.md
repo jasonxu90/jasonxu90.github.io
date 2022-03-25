@@ -20,24 +20,24 @@
 * STAT 341: Intro to Probability and Mathematical Statistics II, University of Washington, Winter Quarter 2016. 
 
 
-Student Collaborators and (first positions)
+Student Collaborators and (_first positions_)
 -------
 * Rick Presman, PhD student
 * Adithya Vellal, undergraduate 
 * Jenny Huang, undergraduate
 * Raphael Morsomme, PhD student
 * Achal Awasthi, Biostatistics PhD student
-* Aihua Li, MS student (PhD Statistical Science, Duke University)
-* Fan Bu, PhD student (Postdoc, Suchard group, UCLA)
-* Mishek Thapa, undergraduate (Research assistant, Field Lab, Duke Neurobiology)
-* Medha Agarwal, MS (PhD Statistics, University of Washington)
-* Debolina Paul, MS (PhD Statistics, Stanford University)
-* Zhiyue Zhang, MS (PhD Applied Math and Statistics, Johns Hopkins)
-* Saptarshi Chakraborty, MS (PhD Statistics, UC Berkeley)
-* Jelena Trisovic, undergraduate RIPS research program at UCLA IPAM (MS Electrical Engineering/AI Center PhD Fellow, ETH Zurich)
-* Collin Cademartori, RIPS IPAM (PhD Statistics, Columbia University)
-* Xi Chen, RIPS IPAM  (PhD Computer Science, Columbia University)
-* Alistair Letcher, RIPS IPAM (MSc Mathematical Sciences, Oxford)
+* Aihua Li, MS student (_PhD Statistical Science, Duke University_)
+* Fan Bu, PhD student (_Postdoc, Suchard group, UCLA_)
+* Mishek Thapa, undergraduate (_Research assistant, Field Lab, Duke Neurobiology_)
+* Medha Agarwal, MS (_PhD Statistics, University of Washington_)
+* Debolina Paul, MS (_PhD Statistics, Stanford University_)
+* Zhiyue Zhang, MS (_PhD Applied Math and Statistics, Johns Hopkins_)
+* Saptarshi Chakraborty, MS (_PhD Statistics, UC Berkeley_)
+* Jelena Trisovic, undergraduate RIPS research program at UCLA IPAM (_MS Electrical Engineering/AI Center PhD Fellow, ETH Zurich_)
+* Collin Cademartori, RIPS IPAM (_PhD Statistics, Columbia University_)
+* Xi Chen, RIPS IPAM  (_PhD Computer Science, Columbia University_)
+* Alistair Letcher, RIPS IPAM (_MSc Mathematical Sciences, Oxford_)
 
 
 [ [Back to homepage] ](./)

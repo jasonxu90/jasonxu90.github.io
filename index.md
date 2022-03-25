@@ -7,9 +7,14 @@ Prior to joining the faculty at Duke, I worked with [Kenneth Lange](https://scho
 
 I grew up in Tucson, where I received a BS in Mathematics from the University of Arizona in 2012. There I was mentored by [Kevin Lin](http://math.arizona.edu/~klin/index.php) and [William Vélez](http://math.arizona.edu/~velez/), supported by the [Flinn Foundation Scholarship](https://www.flinn.org/flinn-scholars/). 
 
-Upcoming: 
-I am area chairing for [ICML](https://icml.cc/Conferences/2022/Dates), [ICLR](https://iclr.cc/Conferences/2022/Dates), and [AIStat](http://aistats.org/aistats2022/). I'll be a Plenary Speaker at the [ISI Winter School on Machine Learning](https://sites.google.com/view/wsdl2022/home)
+Some recent and upcoming:
 
+I recently gave a Plenary Lecture at the [ISI Winter School on Machine Learning](https://sites.google.com/view/wsdl2022/home) on designing MM algorithms 
+, and attempted a layman's explanation of Power k-Means for [Data Skeptic](https://dataskeptic.com/blog/episodes/2022/power-k-means)
+
+I am area chairing for [ICML](https://icml.cc/Conferences/2022/Dates), [ICLR](https://iclr.cc/Conferences/2022/Dates), and [AIStat](http://aistats.org/aistats2022/) 2022.
+
+I will be a long-term visitor at the Simons Institute program on [Graph Limits and Processes on Networks: From Epidemics to Misinformation](https://simons.berkeley.edu/programs/graph2022). You can also find me/check out talks at the upcoming ISBA, ECOSTA, JSM,  ICML, IISA meetings
 
 &nbsp;
 
