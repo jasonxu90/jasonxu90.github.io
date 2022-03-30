@@ -12,7 +12,7 @@ Some recent and upcoming:
 I recently gave a Plenary Lecture at the [ISI Winter School on Machine Learning](https://sites.google.com/view/wsdl2022/home) on designing MM algorithms 
 , and attempted a layman's explanation of Power k-Means for [Data Skeptic](https://dataskeptic.com/blog/episodes/2022/power-k-means)
 
-I am area chairing for [ICML](https://icml.cc/Conferences/2022/Dates), [ICLR](https://iclr.cc/Conferences/2022/Dates), and [AIStat](http://aistats.org/aistats2022/) 2022.
+I am area chairing for [ICML](https://icml.cc/Conferences/2022/Dates), [ICLR](https://iclr.cc/Conferences/2022/Dates), [NeurIPS](https://nips.cc/Conferences/2022) and [AIStat](http://aistats.org/aistats2022/) 2022.
 
 I will be a long-term visitor at the Simons Institute program on [Graph Limits and Processes on Networks: From Epidemics to Misinformation](https://simons.berkeley.edu/programs/graph2022). You can also find me/check out talks at the upcoming ISBA, ECOSTA, JSM,  ICML, IISA meetings
 
