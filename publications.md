@@ -89,6 +89,8 @@ Myosin-independent cytokinesis in _Giardia_ Utilizes Flagella to Coordinate Forc
 
 Software
 -------
+* [PDSIR:](https://github.com/rmorsomme/PDSIR) R package, fast data augmentation for sampling from the exact stochastic SIR posterior under incidence data
+
 * [QNMM:](https://github.com/medhaaga/Quasi-Newton-accelerated-MM) R package for quasi-Newton acceleration of MM and EM algorithms
 
 * [SKFR:](https://github.com/ZhiyueZ/SKFR) R and Julia code for sparse _k_-means with feature ranking
