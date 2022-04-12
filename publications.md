@@ -10,23 +10,23 @@ Preprints
  (__\*__ _denotes equal contribution_)
  
  
- * Morsomme, R. and __Xu,J.__  Uniformly Ergodic Data-Augmented MCMC for Fitting the General Stochastic Epidemic Model to Incidence Data. (**ASA Statistics in Epidemiology Young Investigator Paper Award**)
+ * Morsomme, R. and __Xu,J.__  Uniformly Ergodic Data-Augmented MCMC for Fitting the General Stochastic Epidemic Model to Incidence Data. (**ASA Statistics in Epidemiology Young Investigator Paper Award**).  [link](https://arxiv.org/abs/2201.09722)
  
- * Awasthi, A., Huang, J., Minin, V., Chow, D., and and __Xu, J.__. Fitting a Stochastic Model of Intensive Care Occupancy to Noisy Hospitalization Time Series
+ * Awasthi, A., Huang, J., Minin, V., Chow, D., and and __Xu, J.__. Fitting a Stochastic Model of Intensive Care Occupancy to Noisy Hospitalization Time Series.  [link](https://arxiv.org/abs/2203.00229)
 
-* Bu, F., Aiello, A., Volfovsky, A.\* and __Xu,J.\*__ Likelihood-based Inference for partially observed stochastic epidemics with individual heterogeneity.
+* Bu, F., Aiello, A., Volfovsky, A.\* and __Xu,J.\*__ Likelihood-based Inference for partially observed stochastic epidemics with individual heterogeneity.  [link](https://arxiv.org/abs/2112.07892)
 
-* Agarwal, M. and __Xu, J.__ Quasi-Newton Acceleration of EM and MM Algorithms via Broyden's Method with Extrapolation.
+* Agarwal, M. and __Xu, J.__ Quasi-Newton Acceleration of EM and MM Algorithms via Broyden's Method with Extrapolation. [link](https://arxiv.org/abs/2201.05935)
 
-* Won, J., Lange, K. and __Xu, J.__ A Unified Analysis of Convex and Non-convex _l_<sub>p</sub>-ball Projection Problems.
+* Won, J., Lange, K. and __Xu, J.__ A Unified Analysis of Convex and Non-convex _l_<sub>p</sub>-ball Projection Problems. [link](https://arxiv.org/abs/2203.00564)
 
 * Paul, D.\*, Chakraborty, S.\*, Das, S. and __Xu, J.__  Implicit Annealing in Kernel and Multi-kernel Spaces: A Strongly Consistent Clustering Approach.
 
-* Chakraborty, S. and __Xu, J.__ Biconvex Clustering.
+* Chakraborty, S. and __Xu, J.__ Biconvex Clustering.  [link](https://arxiv.org/abs/2008.01760)
 
-* He, M., Lu, D., __Xu, J.\*__ and Xavier, R\*. Community Detection in Weighted Multilayer Networks with Ambient Noise.
+* He, M., Lu, D., __Xu, J.\*__ and Xavier, R\*. Community Detection in Weighted Multilayer Networks with Ambient Noise.  [link](https://arxiv.org/abs/2103.00486)
 
-* Gustafson, A., Hirn, M., Mohammed, K., Narayanan, H. and __Xu, J.__  Structural Risk Minimization for _C_<sup>1,1</sup>(R<sup>d</sup>) Regression.
+* Gustafson, A., Hirn, M., Mohammed, K., Narayanan, H. and __Xu, J.__  Structural Risk Minimization for _C_<sup>1,1</sup>(R<sup>d</sup>) Regression.  [link](https://arxiv.org/abs/1803.10884)
 
 Thesis
 -------
