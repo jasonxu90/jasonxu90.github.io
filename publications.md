@@ -12,7 +12,7 @@ Preprints
  
  * Morsomme, R. and __Xu,J.__  Uniformly Ergodic Data-Augmented MCMC for Fitting the General Stochastic Epidemic Model to Incidence Data. (**ASA Statistics in Epidemiology Young Investigator Paper Award**).  [Link](https://arxiv.org/abs/2201.09722)
  
-* Scalabrino, M.L, Thapa , M., Chew, L. A., Zhang, E., __Xu, J.__, Sampath, A. P.,  Chen, J., Field, G.D.  Robust cone-mediated signaling persists late into rod photoreceptor degeneration. 
+* Scalabrino, M.L, Thapa , M., Chew, L. A., Zhang, E., __Xu, J.__, Sampath, A. P.,  Chen, J., Field, G.D.  Robust cone-mediated signaling persists late into rod photoreceptor degeneration. [Link](https://www.biorxiv.org/content/10.1101/2022.04.27.489758v1)
  
  * Awasthi, A., Huang, J., Minin, V., Chow, D., and and __Xu, J.__. Fitting a Stochastic Model of Intensive Care Occupancy to Noisy Hospitalization Time Series.  [Link](https://arxiv.org/abs/2203.00229)
 
