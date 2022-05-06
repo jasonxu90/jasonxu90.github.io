@@ -9,7 +9,7 @@ I grew up in Tucson, where I received a BS in Mathematics from the University of
 
 Some recent and upcoming:
 
-* Undergraduate research assistant Jenny Huang is designated Class of 2023 Faculty Scholar, the highest honor that the faculty of Duke University can award its undergraduates. Congratulations!
+* Undergraduate research assistant Jenny Huang is designated [Class of 2023 Faculty Scholar](https://today.duke.edu/2022/05/three-juniors-selected-faculty-scholars-excellence-research), the highest honor that the faculty of Duke University can award its undergraduates. Congratulations!
 
 * I am honored to be a keynote speaker at the 2022 Lange Symposium.
 
