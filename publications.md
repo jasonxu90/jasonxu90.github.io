@@ -38,6 +38,9 @@ Published
 -------
  (__\*__ _denotes equal contribution_)
  
+*  Vellal, A., Chakraborty, S. and __Xu, J__. (2022). Bregman Power _k_-Means for Clustering Exponential
+Family Data. _To appear, International Conference on Machine Learning (ICML)._
+
  * __Xu, J.__ and Lange, K (2022). A Proximal Distance Algorithm for Likelihood-based Sparse Covariance Estimation. _Biometrika_. [Link](https://academic.oup.com/biomet/advance-article-abstract/doi/10.1093/biomet/asac011/6529114)
  
  * Stutz, T., Sehl, M., Sinsheimer, J. and __Xu, J__ (2022). Computational Tools for Assessing Gene Therapy under Branching Process Models of Mutation.  _Bulletin of Mathematical Biology_. [Link](https://link.springer.com/article/10.1007/s11538-021-00969-2)
