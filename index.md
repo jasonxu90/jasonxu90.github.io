@@ -11,8 +11,6 @@ Some recent and upcoming:
 
 * Research assistant Jenny Huang is designated [Class of 2023 Faculty Scholar](https://today.duke.edu/2022/05/three-juniors-selected-faculty-scholars-excellence-research), the highest honor that the faculty at Duke awards undergraduates. Congratulations!
 
-* I am honored to be a keynote speaker at the 2022 Lange Symposium.
-
 * I am excited to be a long-term visitor at the Simons Institute program on [Graph Limits and Processes on Networks: From Epidemics to Misinformation](https://simons.berkeley.edu/programs/graph2022). You can also find me/check out talks at the upcoming ISBA (Montreal), ECOSTA (Kyoto), JSM (DC),  ICML (Baltimore), IISA (Bangalore) meetings
 
 * I am area chair for [ICML](https://icml.cc/Conferences/2022/Dates), [ICLR](https://iclr.cc/Conferences/2022/Dates), [NeurIPS](https://nips.cc/Conferences/2022) and [AIStat](http://aistats.org/aistats2022/) 2022.

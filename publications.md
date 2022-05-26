@@ -39,7 +39,7 @@ Published
  (__\*__ _denotes equal contribution_)
  
 *  Vellal, A., Chakraborty, S. and __Xu, J__. (2022). Bregman Power _k_-Means for Clustering Exponential
-Family Data. _To appear, International Conference on Machine Learning (ICML)._
+Family Data. _To appear, International Conference on Machine Learning (Spotlight)._ [Link](https://icml.cc/Conferences/2022/Schedule)
 
  * __Xu, J.__ and Lange, K (2022). A Proximal Distance Algorithm for Likelihood-based Sparse Covariance Estimation. _Biometrika_. [Link](https://academic.oup.com/biomet/advance-article-abstract/doi/10.1093/biomet/asac011/6529114)
  
