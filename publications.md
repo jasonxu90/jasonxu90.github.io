@@ -36,7 +36,7 @@ Published
  
  * Scalabrino, M.L, Thapa , M., Chew, L. A., Zhang, E., __Xu, J.__, Sampath, A. P.,  Chen, J., Field, G.D.  (2022). Robust cone-mediated signaling persists late into rod photoreceptor degeneration. _eLife._ [Link](https://elifesciences.org/articles/80271)
 
- * Won, J., Lange, K. and __Xu, J.__ A Unified Analysis of Convex and Non-convex _l_<sub>p</sub>-ball Projection Problems. _Optimization Letters_. [Link](https://link.springer.com/content/pdf/10.1007/s11590-022-01919-0.pdf)
+ * Won, J., Lange, K. and __Xu, J.__ (2022). A Unified Analysis of Convex and Non-convex _l_<sub>p</sub>-ball Projection Problems. _Optimization Letters_. [Link](https://link.springer.com/content/pdf/10.1007/s11590-022-01919-0.pdf)
  
 *  Vellal, A., Chakraborty, S. and __Xu, J__. (2022). Bregman Power _k_-Means for Clustering Exponential
 Family Data. _International Conference on Machine Learning._ [Link](https://icml.cc/Conferences/2022/Schedule)
