@@ -9,13 +9,9 @@ I grew up in Tucson, where I received a BS in Mathematics from the University of
 
 Some recent and upcoming:
 
+* I am on sabbatical leave Fall 2022, participating as a long-term visitor at the Simons Institute program on [Graph Limits and Processes on Networks: From Epidemics to Misinformation](https://simons.berkeley.edu/programs/graph2022). 
+
 * Research assistant Jenny Huang is designated [Class of 2023 Faculty Scholar](https://today.duke.edu/2022/05/three-juniors-selected-faculty-scholars-excellence-research), the highest honor that the faculty at Duke awards undergraduates. Congratulations!
-
-* I am excited to be a long-term visitor at the Simons Institute program on [Graph Limits and Processes on Networks: From Epidemics to Misinformation](https://simons.berkeley.edu/programs/graph2022). You can also find me/check out talks at the upcoming ISBA (Montreal), ECOSTA (Kyoto), JSM (DC),  ICML (Baltimore), IISA (Bangalore) meetings
-
-* I am area chair for [ICML](https://icml.cc/Conferences/2022/Dates), [ICLR](https://iclr.cc/Conferences/2022/Dates), [NeurIPS](https://nips.cc/Conferences/2022) and [AIStat](http://aistats.org/aistats2022/) 2022.
-
-* I recently gave a Plenary Lecture at the [ISI Winter School on Machine Learning](https://sites.google.com/view/wsdl2022/home) on designing MM algorithms, and attempted a layman's explanation of Power k-Means for [Data Skeptic](https://dataskeptic.com/blog/episodes/2022/power-k-means)
 
 
 

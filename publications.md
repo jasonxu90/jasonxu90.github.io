@@ -8,11 +8,10 @@ For a broad description of current interests, see my [research page](https://jas
 Preprints
 -------
  (__\*__ _denotes equal contribution_)
- 
+ * Chakraborty, S. and __Xu, J.__ Biconvex Clustering. _Conditionally accepted_.  [Link](https://arxiv.org/abs/2008.01760)
  
  * Morsomme, R. and __Xu,J.__  Uniformly Ergodic Data-Augmented MCMC for Fitting the General Stochastic Epidemic Model to Incidence Data. (**ASA Statistics in Epidemiology Young Investigator Paper Award**).  [Link](https://arxiv.org/abs/2201.09722)
  
-* Scalabrino, M.L, Thapa , M., Chew, L. A., Zhang, E., __Xu, J.__, Sampath, A. P.,  Chen, J., Field, G.D.  Robust cone-mediated signaling persists late into rod photoreceptor degeneration. [Link](https://www.biorxiv.org/content/10.1101/2022.04.27.489758v1)
  
  * Awasthi, A., Huang, J., Minin, V., Chow, D., and and __Xu, J.__. Fitting a Stochastic Model of Intensive Care Occupancy to Noisy Hospitalization Time Series.  [Link](https://arxiv.org/abs/2203.00229)
 
@@ -20,11 +19,8 @@ Preprints
 
 * Agarwal, M. and __Xu, J.__ Quasi-Newton Acceleration of EM and MM Algorithms via Broyden's Method with Extrapolation. [Link](https://arxiv.org/abs/2201.05935)
 
-* Won, J., Lange, K. and __Xu, J.__ A Unified Analysis of Convex and Non-convex _l_<sub>p</sub>-ball Projection Problems. [Link](https://arxiv.org/abs/2203.00564)
-
 * Paul, D.\*, Chakraborty, S.\*, Das, S. and __Xu, J.__  Implicit Annealing in Kernel and Multi-kernel Spaces: A Strongly Consistent Clustering Approach.
 
-* Chakraborty, S. and __Xu, J.__ Biconvex Clustering.  [Link](https://arxiv.org/abs/2008.01760)
 
 * He, M., Lu, D., __Xu, J.\*__ and Xavier, R\*. Community Detection in Weighted Multilayer Networks with Ambient Noise.  [Link](https://arxiv.org/abs/2103.00486)
 
@@ -38,12 +34,18 @@ Published
 -------
  (__\*__ _denotes equal contribution_)
  
+ * Scalabrino, M.L, Thapa , M., Chew, L. A., Zhang, E., __Xu, J.__, Sampath, A. P.,  Chen, J., Field, G.D.  (2022). Robust cone-mediated signaling persists late into rod photoreceptor degeneration. _eLife._ [Link](https://elifesciences.org/articles/80271)
+
+ * Won, J., Lange, K. and __Xu, J.__ A Unified Analysis of Convex and Non-convex _l_<sub>p</sub>-ball Projection Problems. _Optimization Letters_. [Link](https://link.springer.com/content/pdf/10.1007/s11590-022-01919-0.pdf)
+ 
 *  Vellal, A., Chakraborty, S. and __Xu, J__. (2022). Bregman Power _k_-Means for Clustering Exponential
-Family Data. _To appear, International Conference on Machine Learning (Spotlight)._ [Link](https://icml.cc/Conferences/2022/Schedule)
+Family Data. _International Conference on Machine Learning._ [Link](https://icml.cc/Conferences/2022/Schedule)
 
  * __Xu, J.__ and Lange, K (2022). A Proximal Distance Algorithm for Likelihood-based Sparse Covariance Estimation. _Biometrika_. [Link](https://academic.oup.com/biomet/advance-article-abstract/doi/10.1093/biomet/asac011/6529114)
  
  * Stutz, T., Sehl, M., Sinsheimer, J. and __Xu, J__ (2022). Computational Tools for Assessing Gene Therapy under Branching Process Models of Mutation.  _Bulletin of Mathematical Biology_. [Link](https://link.springer.com/article/10.1007/s11538-021-00969-2)
+ 
+ * Bu, F., Aiello, A., __Xu, J.\*__ and Volfovsky, A\* (2022). Likelihood-based Inference for Partially Observed Epidemics on Dynamic Networks. _Journal of the American Statistical Association._ (**SBSS Student Paper Award**) [Link](https://www.tandfonline.com/doi/full/10.1080/01621459.2020.1790376)
  
  * Paul, D.\*, Chakraborty, S.\*, Das, S. and __Xu, J__ (2021). Uniform Concentration Bounds toward a Unified Framework for Robust Clustering. _Neural Information Processing Systems (NeurIPS)._  **(Spotlight Paper)** [Link](https://arxiv.org/abs/2110.14148)
  
@@ -54,8 +56,6 @@ Family Data. _To appear, International Conference on Machine Learning (Spotlight
  * Zhang, Z., Lange, K. and __Xu, J.__ (2020). Simple and Scalable Sparse _k_-Means Clustering via Feature Ranking. _Neural Information Processing Systems (NeurIPS)._ **(Spotlight Paper)** [Link](https://papers.nips.cc/paper/2020/file/735ddec196a9ca5745c05bec0eaa4bf9-Paper.pdf)
  
  * Stutz, T., Landeros, A., __Xu, J.__, Sinsheimer, J. S., Lange, K. and Sehl, M. E (2021). Stochastic Simulation Algorithms for Interacting Particle Systems. _PLOS One_. [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247046)
-
-* Bu, F., Aiello, A., __Xu, J.\*__ and Volfovsky, A\* (2020). Likelihood-based Inference for Partially Observed Epidemics on Dynamic Networks. _Journal of the American Statistical Association._ (**SBSS Student Paper Award**) [Link](https://www.tandfonline.com/doi/full/10.1080/01621459.2020.1790376)
 
 * Chakraborty, S.\*, Paul, D.\*, Das, S. and __Xu, J.__ (2020). Entropy Weighted Power _k_-Means Clustering. _Artificial Intelligence and Statistics
 (AISTATS)._ [Link](http://proceedings.mlr.press/v108/chakraborty20a.html)
@@ -74,7 +74,7 @@ Family Data. _To appear, International Conference on Machine Learning (Spotlight
 
 *  __Xu, J.__, Chi, E. and Lange, K. (2018). Generalized Linear Model Regression under Distance-to-set Penalties. _Neural Information Processing Systems (NeurIPS)._  **(Spotlight Paper)** [Link](https://papers.nips.cc/paper/6737-generalized-linear-model-regression-under-distance-to-set-penalties.pdf)
  
-* Letcher, A.\*, Trišović, J.\*, Cademartori, C., Chen, X. __and Xu, J.__ (2018). Automatic Conflict Detection in Police Body-Worn Audio. _Proc. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)._ **(MAA Outstanding Student Research Award)**
+* Letcher, A.\*, Trišović, J.\*, Cademartori, C., Chen, X. __and Xu, J.__ (2018). Automatic Conflict Detection in Police Body-Worn Audio. _Proc. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)._ **(MAA Outstanding Student Research Award)** [Link](https://ieeexplore.ieee.org/document/8461425)
     
 * Hardin, W., Li, R., __Xu, J.__, Shelton, A., Alas G., Minin, V. N. and Paredez, A. R. (2017).
 Myosin-independent cytokinesis in _Giardia_ Utilizes Flagella to Coordinate Force Generation and Direct Membrane Trafficking. _Proceedings of the National Academy of Sciences._ [Link](http://www.pnas.org/content/114/29/E5854)

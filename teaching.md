@@ -23,10 +23,10 @@
 Student Collaborators and (_first positions_)
 -------
 * Rick Presman, PhD student
-* Adithya Vellal, undergraduate 
 * Jenny Huang, undergraduate
 * Raphael Morsomme, PhD student
 * Achal Awasthi, Biostatistics PhD student
+* Adithya Vellal, undergraduate (joining _Abnormal Security_)
 * Aihua Li, MS student (_PhD Statistical Science, Duke University_)
 * Fan Bu, PhD student (_Postdoc, Suchard group, UCLA_)
 * Mishek Thapa, undergraduate (_Research assistant, Field Lab, Duke Neurobiology_)
