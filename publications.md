@@ -36,12 +36,12 @@ Published
  
  * Scalabrino, M.L, Thapa , M., Chew, L. A., Zhang, E., __Xu, J.__, Sampath, A. P.,  Chen, J., Field, G.D.  (2022). Robust cone-mediated signaling persists late into rod photoreceptor degeneration. _eLife._ [Link](https://elifesciences.org/articles/80271)
 
- * Won, J., Lange, K. and __Xu, J.__ (2022). A Unified Analysis of Convex and Non-convex _l_<sub>p</sub>-ball Projection Problems. _Optimization Letters_. [Link](https://link.springer.com/content/pdf/10.1007/s11590-022-01919-0.pdf)
+ * __Xu, J.__ and Lange, K (2022). A Proximal Distance Algorithm for Likelihood-based Sparse Covariance Estimation. _Biometrika_. [Link](https://academic.oup.com/biomet/advance-article-abstract/doi/10.1093/biomet/asac011/6529114)
  
 *  Vellal, A., Chakraborty, S. and __Xu, J__. (2022). Bregman Power _k_-Means for Clustering Exponential
 Family Data. _International Conference on Machine Learning._ [Link](https://icml.cc/Conferences/2022/Schedule)
-
- * __Xu, J.__ and Lange, K (2022). A Proximal Distance Algorithm for Likelihood-based Sparse Covariance Estimation. _Biometrika_. [Link](https://academic.oup.com/biomet/advance-article-abstract/doi/10.1093/biomet/asac011/6529114)
+ 
+ * Won, J., Lange, K. and __Xu, J.__ (2022). A Unified Analysis of Convex and Non-convex _l_<sub>p</sub>-ball Projection Problems. _Optimization Letters_. [Link](https://link.springer.com/content/pdf/10.1007/s11590-022-01919-0.pdf)
  
  * Stutz, T., Sehl, M., Sinsheimer, J. and __Xu, J__ (2022). Computational Tools for Assessing Gene Therapy under Branching Process Models of Mutation.  _Bulletin of Mathematical Biology_. [Link](https://link.springer.com/article/10.1007/s11538-021-00969-2)
  
