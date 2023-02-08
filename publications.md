@@ -8,18 +8,22 @@ For a broad description of current interests, see my [research page](https://jas
 Preprints
 -------
  (__\*__ _denotes equal contribution_)
- * Chakraborty, S. and __Xu, J.__ Biconvex Clustering. _Conditionally accepted_.  [Link](https://arxiv.org/abs/2008.01760)
  
- * Morsomme, R. and __Xu,J.__  Uniformly Ergodic Data-Augmented MCMC for Fitting the General Stochastic Epidemic Model to Incidence Data. (**ASA Statistics in Epidemiology Young Investigator Paper Award**).  [Link](https://arxiv.org/abs/2201.09722)
+ * Jiang, H. and __Xu, J.__  The Stochastic Proximal Distance Algorithm. [Link](https://arxiv.org/abs/2210.12277) (**ASA Statistical Computing and Statistical Graphics Section Student Paper Competition Award**)
  
+* Huang, J., Morsomme, R., Dunson, D. and __Xu, J__. Detecting changes in the transmission rate of a stochastic epidemic model. [Link](https://arxiv.org/abs/2211.14691)
  
- * Awasthi, A., Huang, J., Minin, V., Chow, D., and and __Xu, J.__. Fitting a Stochastic Model of Intensive Care Occupancy to Noisy Hospitalization Time Series.  [Link](https://arxiv.org/abs/2203.00229)
+ * Bu, F., Galiwango, R., Grabowski, K., Ratmann, O. and __Xu, J__. Inferring Transmission Structure from HIV Sequence Data via Latent Spatial Poisson Processes. [Short version](https://fanbu1995.github.io/Documents/HIV_transmission_methodsOnly.pdf)
+ 
+ * Morsomme, R. and __Xu, J.__  Exact Inference for Stochastic Epidemic Models via Uniformly Ergodic Block Sampling. (**ASA Statistics in Epidemiology Young Investigator Paper Award**).  [Link](https://arxiv.org/abs/2201.09722)
+ 
+ * Awasthi, A., Huang, J., Minin, V., Chow, D., and __Xu, J.__. Fitting a Stochastic Model of Intensive Care Occupancy to Noisy Hospitalization Time Series.  [Link](https://arxiv.org/abs/2203.00229)
 
 * Bu, F., Aiello, A., Volfovsky, A.\* and __Xu,J.\*__ Likelihood-based Inference for partially observed stochastic epidemics with individual heterogeneity.  [Link](https://arxiv.org/abs/2112.07892)
 
 * Agarwal, M. and __Xu, J.__ Quasi-Newton Acceleration of EM and MM Algorithms via Broyden's Method with Extrapolation. [Link](https://arxiv.org/abs/2201.05935)
 
-
+ * Chakraborty, S. and __Xu, J.__ Biconvex Clustering. _Conditionally accepted_.  [Link](https://arxiv.org/abs/2008.01760)
 
 * He, M., Lu, D., __Xu, J.\*__ and Xavier, R\*. Community Detection in Weighted Multilayer Networks with Ambient Noise.  [Link](https://arxiv.org/abs/2103.00486)
 
@@ -33,21 +37,25 @@ Published
 -------
  (__\*__ _denotes equal contribution_)
  
- * Paul, D.\*, Chakraborty, S.\*, Das, S. and __Xu, J.__  Implicit Annealing in Kernel and Multi-kernel Spaces: A Strongly Consistent Clustering Approach. _IEEE Transactions in Pattern Analysis and Machine Intelligence_ (to appear). 
+  * Presman, R. and__Xu, J.__  (2023). Distance-to-Set Priors and Constrained Bayesian Inference. _Artificial Intelligence and Statistics (to appear)_. [Link](https://arxiv.org/abs/2210.12258)
+ 
+  * Awasthi, A. and __Xu, J.__ (2023). Fast Computation of Branching Process Transition Probabilities via ADMM. _Artificial Intelligence and Statistics (to appear)_.
+
+  * __Xu, J.__ and Lange, K. (2022). A Proximal Distance Algorithm for Likelihood-based Sparse Covariance Estimation. _Biometrika_. [Link](https://academic.oup.com/biomet/advance-article-abstract/doi/10.1093/biomet/asac011/6529114)
+
+ * Paul, D.\*, Chakraborty, S.\*, Das, S. and __Xu, J.__  (2022). Implicit Annealing in Kernel and Multi-kernel Spaces: A Strongly Consistent Clustering Approach. _IEEE Transactions in Pattern Analysis and Machine Intelligence_. [Link](https://ieeexplore.ieee.org/abstract/document/9928792/) 
  
  * Scalabrino, M.L, Thapa , M., Chew, L. A., Zhang, E., __Xu, J.__, Sampath, A. P.,  Chen, J., Field, G.D.  (2022). Robust cone-mediated signaling persists late into rod photoreceptor degeneration. _eLife._ [Link](https://elifesciences.org/articles/80271)
-
- * __Xu, J.__ and Lange, K (2022). A Proximal Distance Algorithm for Likelihood-based Sparse Covariance Estimation. _Biometrika_. [Link](https://academic.oup.com/biomet/advance-article-abstract/doi/10.1093/biomet/asac011/6529114)
  
 *  Vellal, A., Chakraborty, S. and __Xu, J__. (2022). Bregman Power _k_-Means for Clustering Exponential
 Family Data. _International Conference on Machine Learning._ [Link](https://icml.cc/Conferences/2022/Schedule)
  
  * Won, J., Lange, K. and __Xu, J.__ (2022). A Unified Analysis of Convex and Non-convex _l_<sub>p</sub>-ball Projection Problems. _Optimization Letters_. [Link](https://link.springer.com/content/pdf/10.1007/s11590-022-01919-0.pdf)
  
+  * Bu, F., Aiello, A., __Xu, J.\*__ and Volfovsky, A\* (2022). Likelihood-based Inference for Partially Observed Epidemics on Dynamic Networks. _Journal of the American Statistical Association._ (**SBSS Student Paper Award**) [Link](https://www.tandfonline.com/doi/full/10.1080/01621459.2020.1790376)
+
  * Stutz, T., Sehl, M., Sinsheimer, J. and __Xu, J__ (2022). Computational Tools for Assessing Gene Therapy under Branching Process Models of Mutation.  _Bulletin of Mathematical Biology_. [Link](https://link.springer.com/article/10.1007/s11538-021-00969-2)
- 
- * Bu, F., Aiello, A., __Xu, J.\*__ and Volfovsky, A\* (2022). Likelihood-based Inference for Partially Observed Epidemics on Dynamic Networks. _Journal of the American Statistical Association._ (**SBSS Student Paper Award**) [Link](https://www.tandfonline.com/doi/full/10.1080/01621459.2020.1790376)
- 
+  
  * Paul, D.\*, Chakraborty, S.\*, Das, S. and __Xu, J__ (2021). Uniform Concentration Bounds toward a Unified Framework for Robust Clustering. _Neural Information Processing Systems (NeurIPS)._  **(Spotlight Paper)** [Link](https://arxiv.org/abs/2110.14148)
  
  * Landeros, A.,  Ji, X., Lange, K. L., Stutz, T., __Xu, J.__, Sehl, M. E.\*, and Sinsheimer, J.S\* (2021). An Examination of School Reopening Strategies during the SARS-CoV-2 Pandemic. _PLOS One_. [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0251242)
