@@ -11,7 +11,7 @@ Preprints
  
  * Jiang, H. and __Xu, J.__  The Stochastic Proximal Distance Algorithm. (**ASA Statistical Computing and Statistical Graphics Section Student Paper Competition Award**) [Link](https://arxiv.org/abs/2210.12277) 
  
-* Huang, J., Morsomme, R., Dunson, D. and __Xu, J__. Detecting changes in the transmission rate of a stochastic epidemic model. [Link](https://arxiv.org/abs/2211.14691)
+* Huang, J., Morsomme, R., Dunson, D. and __Xu, J__. Detecting Changes in the Transmission Rate of a Stochastic Epidemic Model. [Link](https://arxiv.org/abs/2211.14691)
  
  * Landeros, A., Lange, K. and __Xu, J__. MM Optimization Algorithms: Fast Updates, Path Following, and Trust Regions. 
  
@@ -47,7 +47,7 @@ Published
 
  * Paul, D.\*, Chakraborty, S.\*, Das, S. and __Xu, J.__  (2022). Implicit Annealing in Kernel and Multi-kernel Spaces: A Strongly Consistent Clustering Approach. _IEEE Transactions in Pattern Analysis and Machine Intelligence_. [Link](https://ieeexplore.ieee.org/abstract/document/9928792/) 
  
- * Scalabrino, M.L, Thapa , M., Chew, L. A., Zhang, E., __Xu, J.__, Sampath, A. P.,  Chen, J., Field, G.D.  (2022). Robust cone-mediated signaling persists late into rod photoreceptor degeneration. _eLife._ [Link](https://elifesciences.org/articles/80271)
+ * Scalabrino, M.L, Thapa , M., Chew, L. A., Zhang, E., __Xu, J.__, Sampath, A. P.,  Chen, J., Field, G.D.  (2022). Robust Cone-mediated Signaling Persists Late into Rod Photoreceptor Degeneration. _eLife._ [Link](https://elifesciences.org/articles/80271)
  
 *  Vellal, A., Chakraborty, S. and __Xu, J__. (2022). Bregman Power _k_-Means for Clustering Exponential
 Family Data. _International Conference on Machine Learning._ [Link](https://icml.cc/Conferences/2022/Schedule)
