@@ -9,11 +9,11 @@ Preprints
 -------
  (__\*__ _denotes equal contribution_)
  
- * Jiang, H. and __Xu, J.__  The Stochastic Proximal Distance Algorithm. (**ASA Statistical Computing and Statistical Graphics Section Student Paper Competition Award**) [Link](https://arxiv.org/abs/2210.12277) 
+ * Jiang, H. and __Xu, J.__  The Stochastic Proximal Distance Algorithm. (**ASA Statistical Computing and Statistical Graphics Section Student Paper Competition Award**). [Link](https://arxiv.org/abs/2210.12277) 
  
 * Huang, J., Morsomme, R., Dunson, D. and __Xu, J__. Detecting Changes in the Transmission Rate of a Stochastic Epidemic Model. [Link](https://arxiv.org/abs/2211.14691)
  
- * Landeros, A., Lange, K. and __Xu, J__. MM Optimization Algorithms: Fast Updates, Path Following, and Trust Regions. 
+ * Landeros, A.,  __Xu, J.__ and Lange, K. MM Optimization Algorithms: Fast Updates, Path Following, and Trust Regions. 
  
  * Bu, F., Galiwango, R., Grabowski, K., Ratmann, O. and __Xu, J__. Inferring Transmission Structure from HIV Sequence Data via Latent Spatial Poisson Processes. [Short version](https://fanbu1995.github.io/Documents/HIV_transmission_methodsOnly.pdf)
  
