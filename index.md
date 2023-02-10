@@ -9,6 +9,8 @@ I grew up in Tucson, where I received a BS in Mathematics from the University of
 
 Some recent and upcoming:
 
+* Research assistant Rick Presman's [recent work](https://arxiv.org/abs/2210.12258) will be featured as an Oral Presentation at [Artificial Intelligence and Statistics](http://aistats.org/aistats2023/) (top ~1.5\% of submissions). Congratulations!
+
 * Research assistant Haoyu Jiang received a [Student Paper Award](https://community.amstat.org/jointscsg-section/awards/student-paper-competition) from the ASA Statistical Computing and Statistical Graphics Section. Congratulations! 
 
 * Research assistant Jenny Huang received the [Quad Fellowship](https://stat.duke.edu/news/senior-jenny-huang-statistical-science-receive-new-quad-fellowship-doctoral-study) and is designated a [Class of 2023 Faculty Scholar](https://today.duke.edu/2022/05/three-juniors-selected-faculty-scholars-excellence-research), the highest honor that the faculty at Duke awards undergraduates. Congratulations!

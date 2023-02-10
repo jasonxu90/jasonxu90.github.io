@@ -39,7 +39,7 @@ Published
 -------
  (__\*__ _denotes equal contribution_)
  
-  * Presman, R. and __Xu, J.__  (2023). Distance-to-Set Priors and Constrained Bayesian Inference. _Artificial Intelligence and Statistics (to appear)_. [Link](https://arxiv.org/abs/2210.12258)
+  * Presman, R. and __Xu, J.__  (2023). Distance-to-Set Priors and Constrained Bayesian Inference. _Artificial Intelligence and Statistics (to appear)_. **(Oral)** [Link](https://arxiv.org/abs/2210.12258)
  
   * Awasthi, A. and __Xu, J.__ (2023). Fast Computation of Branching Process Transition Probabilities via ADMM. _Artificial Intelligence and Statistics (to appear)_.
 
