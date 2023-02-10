@@ -9,7 +9,7 @@ I grew up in Tucson, where I received a BS in Mathematics from the University of
 
 Some recent and upcoming:
 
-* Research assistant Rick Presman's [recent work](https://arxiv.org/abs/2210.12258) will be featured as an Oral Presentation at [Artificial Intelligence and Statistics](http://aistats.org/aistats2023/) (top ~1.5\% of submissions). Congratulations!
+* Research assistant Rick Presman's [recent work](https://arxiv.org/abs/2210.12258) will be featured as an Oral Presentation at [Artificial Intelligence and Statistics](http://aistats.org/aistats2023/) (top ~1.5% of submissions). Congratulations!
 
 * Research assistant Haoyu Jiang received a [Student Paper Award](https://community.amstat.org/jointscsg-section/awards/student-paper-competition) from the ASA Statistical Computing and Statistical Graphics Section. Congratulations! 
 
