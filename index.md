@@ -15,7 +15,7 @@ Some recent and upcoming:
 
 * I am Area Chairing ICML, AIStat, and ICLR 2023.
 
-* I am on sabbatical leave and am limited in my capacity to serve on committees/take on new students at the moment. I participated as a long-term visitor at the Simons Institute program on [Graph Limits and Processes on Networks: From Epidemics to Misinformation](https://simons.berkeley.edu/programs/graph2022) in the Fall. Some upcoming talks in the Spring include the [Lange Symposium](https://langesymposium.github.io/Lange-Symposium/), the [Oberwolfach Design and Analysis of Infectious Disease](https://www.mfo.de/occasion/2308/www_view) workshop, the [Working Group on Risk and Uncertainty](https://crear.essec.edu/crear-events/working-group-on-risk), and [Bayes Comp](https://bayescomp2023.com).
+* I am on sabbatical leave and am limited in my capacity to serve on committees/take on new students at the moment. I participated as a long-term visitor at the Simons Institute program on [Graph Limits and Processes on Networks: From Epidemics to Misinformation](https://simons.berkeley.edu/programs/graph2022) in the Fall. Some upcoming talks in the Spring include the [Lange Symposium](https://langesymposium.github.io/Lange-Symposium/), the [Oberwolfach Design and Analysis of Infectious Disease](https://www.mfo.de/occasion/2308/www_view) workshop, the ESSEC [Working Group on Risk and Uncertainty](https://crear.essec.edu/crear-events/working-group-on-risk), and [Bayes Comp](https://bayescomp2023.com).
 
 &nbsp;
 
