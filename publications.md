@@ -15,7 +15,7 @@ Preprints
  
  * Landeros, A.,  __Xu, J.__ and Lange, K. MM Optimization Algorithms: Fast Updates, Path Following, and Trust Regions. 
  
- * Bu, F., Galiwango, R., Grabowski, K., Ratmann, O. and __Xu, J__. Inferring Transmission Structure from HIV Sequence Data via Latent Spatial Poisson Processes. [Short version](https://fanbu1995.github.io/Documents/HIV_transmission_methodsOnly.pdf)
+ * Bu, F., Galiwango, R., Grabowski, K., Ratmann, O. and __Xu, J__. Inferring HIV transmission patterns via typed point processes]{Inferring HIV Transmission Patterns from Viral Deep-Sequence Data via Latent Typed Point Processes. [Link](https://arxiv.org/abs/2302.11567)
  
  * Morsomme, R. and __Xu, J.__  Exact Inference for Stochastic Epidemic Models via Uniformly Ergodic Block Sampling. (**ASA Statistics in Epidemiology Young Investigator Paper Award**).  [Link](https://arxiv.org/abs/2201.09722)
  
@@ -41,7 +41,7 @@ Published
  
   * Presman, R. and __Xu, J.__  (2023). Distance-to-Set Priors and Constrained Bayesian Inference. _Artificial Intelligence and Statistics (to appear)_. **(Oral)** [Link](https://arxiv.org/abs/2210.12258)
  
-  * Awasthi, A. and __Xu, J.__ (2023). Fast Computation of Branching Process Transition Probabilities via ADMM. _Artificial Intelligence and Statistics (to appear)_.
+  * Awasthi, A. and __Xu, J.__ (2023). Fast Computation of Branching Process Transition Probabilities via ADMM. _Artificial Intelligence and Statistics (to appear)_. [Link](https://arxiv.org/abs/2302.11801)
 
   * __Xu, J.__ and Lange, K. (2022). A Proximal Distance Algorithm for Likelihood-based Sparse Covariance Estimation. _Biometrika_. [Link](https://academic.oup.com/biomet/advance-article-abstract/doi/10.1093/biomet/asac011/6529114)
 

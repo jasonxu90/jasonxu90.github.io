@@ -9,7 +9,7 @@ I grew up in Tucson, where I received a BS in Mathematics from the University of
 
 Some recent and upcoming:
 
-* Research assistant Rick Presman's [recent work](https://arxiv.org/abs/2210.12258) will be featured as an Oral Presentation at [Artificial Intelligence and Statistics](http://aistats.org/aistats2023/) (top ~1.5% of submissions). Congratulations!
+* Research assistant Rick Presman's [recent work](https://arxiv.org/abs/2210.12258) will be featured as an Oral Presentation at [Artificial Intelligence and Statistics](http://aistats.org/aistats2023/accepted.html) (top ~1.5% of submissions). Congratulations!
 
 * Research assistant Haoyu Jiang received a [Student Paper Award](https://community.amstat.org/jointscsg-section/awards/student-paper-competition) from the ASA Statistical Computing and Statistical Graphics Section. Congratulations! 
 
@@ -17,7 +17,7 @@ Some recent and upcoming:
 
 * I am Area Chairing ICML, AIStat, and ICLR 2023.
 
-* I am on sabbatical leave and am limited in my capacity to serve on committees/take on new students at the moment. I participated as a long-term visitor at the Simons Institute program on [Graph Limits and Processes on Networks: From Epidemics to Misinformation](https://simons.berkeley.edu/programs/graph2022) in the Fall. Some upcoming talks in the Spring include the [Lange Symposium](https://langesymposium.github.io/Lange-Symposium/), the [Oberwolfach Design and Analysis of Infectious Disease](https://www.mfo.de/occasion/2308/www_view) workshop, the ESSEC [Working Group on Risk and Uncertainty](https://crear.essec.edu/crear-events/working-group-on-risk), and [Bayes Comp](https://bayescomp2023.com).
+* I am on sabbatical leave and am limited in my capacity to serve on committees/take on new students at the moment. I participated as a long-term visitor at the Simons Institute program on [Graph Limits and Processes on Networks: From Epidemics to Misinformation](https://simons.berkeley.edu/programs/graph2022) in the Fall. Some upcoming talks in the Spring include the [Lange Symposium](https://langesymposium.github.io/Lange-Symposium/), the [Oberwolfach Design and Analysis of Infectious Disease](https://www.mfo.de/occasion/2308/www_view) workshop, the ESSEC [Working Group on Risk and Uncertainty](https://crear.essec.edu/crear-events/working-group-on-risk), [Bayes Comp](https://bayescomp2023.com) and its [Bayesian Epidemic](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/corbella/bcepidemics2023) satellite workshop.
 
 &nbsp;
 
