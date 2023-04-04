@@ -42,7 +42,7 @@ Published
  
 * Awasthi, A. and __Xu, J.__ (2023). Fast Computation of Branching Process Transition Probabilities via ADMM. _Artificial Intelligence and Statistics (to appear)_. [Link](https://arxiv.org/abs/2302.11801)
   
- * Chakraborty, S. and __Xu, J.__ Biconvex Clustering. _Journal of Computational and Graphical Statistics (to appear)_.  [Link](https://www.tandfonline.com/doi/full/10.1080/10618600.2023.2197474)
+ * Chakraborty, S. and __Xu, J.__ (2023). Biconvex Clustering. _Journal of Computational and Graphical Statistics (to appear)_.  [Link](https://www.tandfonline.com/doi/full/10.1080/10618600.2023.2197474)
 
  * __Xu, J.__ and Lange, K. (2022). A Proximal Distance Algorithm for Likelihood-based Sparse Covariance Estimation. _Biometrika_. [Link](https://academic.oup.com/biomet/advance-article-abstract/doi/10.1093/biomet/asac011/6529114)
 
