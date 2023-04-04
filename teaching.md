@@ -24,7 +24,7 @@
 
 Student Collaborators and (_first positions_)
 -------
-* Piotr Suder PhD student
+* Piotr Suder, PhD student
 * Rick Presman, PhD candidate
 * Raphael Morsomme, PhD candidate
 * Achal Awasthi, Biostatistics PhD candidate
