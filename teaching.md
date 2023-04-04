@@ -24,14 +24,15 @@
 
 Student Collaborators and (_first positions_)
 -------
-* Rick Presman, PhD student
-* Haoyu Jiang, MS student
-* Jenny Huang, undergraduate
-* Raphael Morsomme, PhD student
-* Achal Awasthi, Biostatistics PhD student
+* 
+* Rick Presman, PhD candidate
+* Raphael Morsomme, PhD candidate
+* Achal Awasthi, Biostatistics PhD candidate
+* Haoyu Jiang, MS student (_PhD Statistics, University of Illinois Urbana-Champaign_)
+* Jenny Huang, undergraduate (_PhD EECS, Massachusetts Institute of Technology_)
 * Adithya Vellal, undergraduate (_Machine learning engineer, Abnormal Security_)
 * Aihua Li, MS student (_PhD Statistical Science, Duke University_)
-* Fan Bu, PhD student (_Postdoc, Suchard group, UCLA_)
+* Fan Bu, PhD student (_Postdoc, Suchard group, University of California Los Angeles_)
 * Mishek Thapa, undergraduate (_Research assistant, Field Lab, Duke Neurobiology_)
 * Medha Agarwal, MS (_PhD Statistics, University of Washington_)
 * Debolina Paul, MS (_PhD Statistics, Stanford University_)

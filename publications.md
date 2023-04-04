@@ -12,20 +12,18 @@ Preprints
  * Jiang, H. and __Xu, J.__  The Stochastic Proximal Distance Algorithm. (**ASA Statistical Computing and Statistical Graphics Section Student Paper Competition Award**). [Link](https://arxiv.org/abs/2210.12277) 
  
 * Huang, J., Morsomme, R., Dunson, D. and __Xu, J__. Detecting Changes in the Transmission Rate of a Stochastic Epidemic Model. [Link](https://arxiv.org/abs/2211.14691)
- 
- * Landeros, A.,  __Xu, J.__ and Lange, K. MM Optimization Algorithms: Fast Updates, Path Following, and Trust Regions. 
- 
+  
  * Bu, F., Galiwango, R., Grabowski, K., Ratmann, O. and __Xu, J__. Inferring HIV Transmission Patterns from Viral Deep-Sequence Data via Latent Typed Point Processes. [Link](https://arxiv.org/abs/2302.11567)
  
  * Morsomme, R. and __Xu, J.__  Exact Inference for Stochastic Epidemic Models via Uniformly Ergodic Block Sampling. (**ASA Statistics in Epidemiology Young Investigator Paper Award**).  [Link](https://arxiv.org/abs/2201.09722)
  
+ * Landeros, A.,  __Xu, J.__ and Lange, K. MM Optimization Algorithms: Fast Updates, Path Following, and Trust Regions. 
+
  * Awasthi, A., Huang, J., Minin, V., Chow, D., and __Xu, J.__. Fitting a Stochastic Model of Intensive Care Occupancy to Noisy Hospitalization Time Series.  [Link](https://arxiv.org/abs/2203.00229)
 
 * Bu, F., Aiello, A., Volfovsky, A.\* and __Xu,J.\*__ Likelihood-based Inference for partially observed stochastic epidemics with individual heterogeneity.  [Link](https://arxiv.org/abs/2112.07892)
 
 * Agarwal, M. and __Xu, J.__ Quasi-Newton Acceleration of EM and MM Algorithms via Broyden's Method with Extrapolation. [Link](https://arxiv.org/abs/2201.05935)
-
- * Chakraborty, S. and __Xu, J.__ Biconvex Clustering. _Conditionally accepted_.  [Link](https://arxiv.org/abs/2008.01760)
 
 * He, M., Lu, D., __Xu, J.\*__ and Xavier, R\*. Community Detection in Weighted Multilayer Networks with Ambient Noise.  [Link](https://arxiv.org/abs/2103.00486)
 
@@ -39,11 +37,14 @@ Published
 -------
  (__\*__ _denotes equal contribution_)
  
-  * Presman, R. and __Xu, J.__  (2023). Distance-to-Set Priors and Constrained Bayesian Inference. _Artificial Intelligence and Statistics (to appear)_. **(Oral)** [Link](https://arxiv.org/abs/2210.12258)
  
-  * Awasthi, A. and __Xu, J.__ (2023). Fast Computation of Branching Process Transition Probabilities via ADMM. _Artificial Intelligence and Statistics (to appear)_. [Link](https://arxiv.org/abs/2302.11801)
+* Presman, R. and __Xu, J.__  (2023). Distance-to-Set Priors and Constrained Bayesian Inference. _Artificial Intelligence and Statistics (to appear)_. **(Oral)** [Link](https://arxiv.org/abs/2210.12258)
+ 
+* Awasthi, A. and __Xu, J.__ (2023). Fast Computation of Branching Process Transition Probabilities via ADMM. _Artificial Intelligence and Statistics (to appear)_. [Link](https://arxiv.org/abs/2302.11801)
+  
+ * Chakraborty, S. and __Xu, J.__ Biconvex Clustering. _Journal of Computational and Graphical Statistics (to appear)_.  [Link](https://www.tandfonline.com/doi/full/10.1080/10618600.2023.2197474)
 
-  * __Xu, J.__ and Lange, K. (2022). A Proximal Distance Algorithm for Likelihood-based Sparse Covariance Estimation. _Biometrika_. [Link](https://academic.oup.com/biomet/advance-article-abstract/doi/10.1093/biomet/asac011/6529114)
+ * __Xu, J.__ and Lange, K. (2022). A Proximal Distance Algorithm for Likelihood-based Sparse Covariance Estimation. _Biometrika_. [Link](https://academic.oup.com/biomet/advance-article-abstract/doi/10.1093/biomet/asac011/6529114)
 
  * Paul, D.\*, Chakraborty, S.\*, Das, S. and __Xu, J.__  (2022). Implicit Annealing in Kernel and Multi-kernel Spaces: A Strongly Consistent Clustering Approach. _IEEE Transactions in Pattern Analysis and Machine Intelligence_. [Link](https://ieeexplore.ieee.org/abstract/document/9928792/) 
  
