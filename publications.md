@@ -9,6 +9,8 @@ Preprints
 -------
  (__\*__ _denotes equal contribution_)
  
+  * Agarwal, M. and __Xu, J.__ (2023). Quasi-Newton Acceleration of EM and MM Algorithms via Broyden's Method with Extrapolation. _Conditionally accepted_. [Link](https://arxiv.org/abs/2201.05935)
+ 
  * Jiang, H. and __Xu, J.__  The Stochastic Proximal Distance Algorithm. (**ASA Statistical Computing and Statistical Graphics Section Student Paper Competition Award**). [Link](https://arxiv.org/abs/2210.12277) 
  
 * Huang, J., Morsomme, R., Dunson, D. and __Xu, J__. Detecting Changes in the Transmission Rate of a Stochastic Epidemic Model. [Link](https://arxiv.org/abs/2211.14691)
@@ -23,8 +25,6 @@ Preprints
 
 * Bu, F., Aiello, A., Volfovsky, A.\* and __Xu,J.\*__ Likelihood-based Inference for partially observed stochastic epidemics with individual heterogeneity.  [Link](https://arxiv.org/abs/2112.07892)
 
-* Agarwal, M. and __Xu, J.__ Quasi-Newton Acceleration of EM and MM Algorithms via Broyden's Method with Extrapolation. [Link](https://arxiv.org/abs/2201.05935)
-
 * He, M., Lu, D., __Xu, J.\*__ and Xavier, R\*. Community Detection in Weighted Multilayer Networks with Ambient Noise.  [Link](https://arxiv.org/abs/2103.00486)
 
 * Gustafson, A., Hirn, M., Mohammed, K., Narayanan, H. and __Xu, J.__  Structural Risk Minimization for _C_<sup>1,1</sup>(R<sup>d</sup>) Regression.  [Link](https://arxiv.org/abs/1803.10884)
@@ -36,7 +36,6 @@ Thesis
 Published 
 -------
  (__\*__ _denotes equal contribution_)
- 
  
 * Presman, R. and __Xu, J.__  (2023). Distance-to-Set Priors and Constrained Bayesian Inference. _Artificial Intelligence and Statistics (to appear)_. **(Oral)** [Link](https://arxiv.org/abs/2210.12258)
  
