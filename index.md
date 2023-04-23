@@ -9,7 +9,7 @@ I grew up in Tucson, where I received a BS in Mathematics from the University of
 
 Some recent and upcoming:
 
-* I'll be giving talks this summer at the [Biomedical Data Science Innovation Lab (virtual)](https://www.youtube.com/watch?v=MgzBdv_84J4), [Casa Matemática Oaxaca](https://www.birs.ca/events/2023/5-day-workshops/23w5152), [Centre International de Rencontres Mathématiques](https://conferences.cirm-math.fr/2768.html), the [Computational Genomics Summer Institute at UCLA](http://computationalgenomics.bioinformatics.ucla.edu), and the [Joint Statistics Meetings](https://ww2.amstat.org/meetings/jsm/2023/). If you are near, always happy to chat about math over a coffee
+* I'll be giving talks this summer at [Casa Matemática Oaxaca](https://www.birs.ca/events/2023/5-day-workshops/23w5152), [Centre International de Rencontres Mathématiques](https://conferences.cirm-math.fr/2768.html), the [Computational Genomics Summer Institute at UCLA](http://computationalgenomics.bioinformatics.ucla.edu), and the [Joint Statistics Meetings](https://ww2.amstat.org/meetings/jsm/2023/). If you are near, always happy to chat about math over a coffee
 
 * Research assistant Jenny Huang received the [NSF GRFP](https://www.research.gov/grfp/Login.do) and the [Quad Fellowship](https://stat.duke.edu/news/senior-jenny-huang-statistical-science-receive-new-quad-fellowship-doctoral-study). Congratulations!
 
