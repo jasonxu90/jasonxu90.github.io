@@ -37,7 +37,7 @@ Publications
    
  * Agarwal, M. and __Xu, J.__ (2023). Quasi-Newton Acceleration of EM and MM Algorithms via Broyden's Method with Extrapolation. _Conditionally accepted_. [Link](https://arxiv.org/abs/2201.05935)
  
- * Landeros, A.,  __Xu, J.__ and Lange, K. MM Optimization: Proximal Distance Algorithms, Path Following, and Trust Regions. _Proceedings of the National Academy of Sciences (PNAS, to appear)_.
+ * Landeros, A.,  __Xu, J.__ and Lange, K (2023). MM Optimization Algorithms: Proximal Distance Algorithms, Path Following, and Trust Regions. _Proceedings of the National Academy of Sciences (PNAS, to appear)_.
 
 * Presman, R. and __Xu, J.__  (2023). Distance-to-Set Priors and Constrained Bayesian Inference. _Artificial Intelligence and Statistics_. **(Oral)** [Link](https://arxiv.org/abs/2210.12258)
  
