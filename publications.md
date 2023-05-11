@@ -9,7 +9,7 @@ Preprints
 -------
  (__\*__ _denotes equal contribution_)
  
-* Chandra, N., Dunson, D. and __Xu, J.__ (2023+). Inferring Covariance Structure from Multiple Data Sources via Subspace Factor Analysis. [Link](https://arxiv.org/abs/2305.04113)
+* Chandra, N., Dunson, D. and __Xu, J.__. Inferring Covariance Structure from Multiple Data Sources via Subspace Factor Analysis. [Link](https://arxiv.org/abs/2305.04113)
  
  * Jiang, H. and __Xu, J.__  The Stochastic Proximal Distance Algorithm. (**ASA Statistical Computing and Statistical Graphics Section Student Paper Competition Award**). [Link](https://arxiv.org/abs/2210.12277) 
  
