@@ -1,5 +1,5 @@
 ---
-# [](#header-1)Publications
+# [](#header-1)Refereed Papers
 Most of these are available on [arXiv](https://arxiv.org/find/all/1/all:+EXACT+jason_xu/0/1/0/all/0/1). Corresponding software is available at the bottom of this page.
 
 For a broad description of current interests, see my [research page](https://jasonxu90.github.io/research.html). 
@@ -9,7 +9,7 @@ Preprints
 -------
  (__\*__ _denotes equal contribution_)
  
-  * Agarwal, M. and __Xu, J.__ (2023). Quasi-Newton Acceleration of EM and MM Algorithms via Broyden's Method with Extrapolation. _Conditionally accepted_. [Link](https://arxiv.org/abs/2201.05935)
+* Chandra, N., Dunson, D. and __Xu, J.__ (2023+). Inferring Covariance Structure from Multiple Data Sources via Subspace Factor Analysis. [Link](https://arxiv.org/abs/2305.04113)
  
  * Jiang, H. and __Xu, J.__  The Stochastic Proximal Distance Algorithm. (**ASA Statistical Computing and Statistical Graphics Section Student Paper Competition Award**). [Link](https://arxiv.org/abs/2210.12277) 
  
@@ -19,8 +19,6 @@ Preprints
  
  * Morsomme, R. and __Xu, J.__  Exact Inference for Stochastic Epidemic Models via Uniformly Ergodic Block Sampling. (**ASA Statistics in Epidemiology Young Investigator Paper Award**).  [Link](https://arxiv.org/abs/2201.09722)
  
- * Landeros, A.,  __Xu, J.__ and Lange, K. MM Optimization Algorithms: Fast Updates, Path Following, and Trust Regions. 
-
  * Awasthi, A., Huang, J., Minin, V., Chow, D., and __Xu, J.__. Fitting a Stochastic Model of Intensive Care Occupancy to Noisy Hospitalization Time Series.  [Link](https://arxiv.org/abs/2203.00229)
 
 * Bu, F., Aiello, A., Volfovsky, A.\* and __Xu,J.\*__ Likelihood-based Inference for partially observed stochastic epidemics with individual heterogeneity.  [Link](https://arxiv.org/abs/2112.07892)
@@ -33,13 +31,17 @@ Thesis
 -------
 * __Xu, J.__ (2016). Likelihood-Based Inference for Partially Observed Multi-Type Markov Branching Processes. _PhD Dissertation, Department of Statistics, University of Washington_. [Link](https://digital.lib.washington.edu/researchworks/handle/1773/37251)
 
-Published 
+Publications 
 -------
  (__\*__ _denotes equal contribution_)
+   
+ * Agarwal, M. and __Xu, J.__ (2023). Quasi-Newton Acceleration of EM and MM Algorithms via Broyden's Method with Extrapolation. _Conditionally accepted_. [Link](https://arxiv.org/abs/2201.05935)
  
-* Presman, R. and __Xu, J.__  (2023). Distance-to-Set Priors and Constrained Bayesian Inference. _Artificial Intelligence and Statistics (to appear)_. **(Oral)** [Link](https://arxiv.org/abs/2210.12258)
+ * Landeros, A.,  __Xu, J.__ and Lange, K. MM Optimization: Proximal Distance Algorithms, Path Following, and Trust Regions. _Proceedings of the National Academy of Sciences (PNAS, to appear)_.
+
+* Presman, R. and __Xu, J.__  (2023). Distance-to-Set Priors and Constrained Bayesian Inference. _Artificial Intelligence and Statistics_. **(Oral)** [Link](https://arxiv.org/abs/2210.12258)
  
-* Awasthi, A. and __Xu, J.__ (2023). Fast Computation of Branching Process Transition Probabilities via ADMM. _Artificial Intelligence and Statistics (to appear)_. [Link](https://arxiv.org/abs/2302.11801)
+* Awasthi, A. and __Xu, J.__ (2023). Fast Computation of Branching Process Transition Probabilities via ADMM. _Artificial Intelligence and Statistics_. [Link](https://arxiv.org/abs/2302.11801)
   
  * Chakraborty, S. and __Xu, J.__ (2023). Biconvex Clustering. _Journal of Computational and Graphical Statistics_.  [Link](https://www.tandfonline.com/doi/full/10.1080/10618600.2023.2197474)
 
@@ -88,7 +90,7 @@ Family Data. _International Conference on Machine Learning._ [Link](https://icml
 * Letcher, A.\*, Trišović, J.\*, Cademartori, C., Chen, X. __and Xu, J.__ (2018). Automatic Conflict Detection in Police Body-Worn Audio. _Proc. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)._ **(MAA Outstanding Student Research Award)** [Link](https://ieeexplore.ieee.org/document/8461425)
     
 * Hardin, W., Li, R., __Xu, J.__, Shelton, A., Alas G., Minin, V. N. and Paredez, A. R. (2017).
-Myosin-independent cytokinesis in _Giardia_ Utilizes Flagella to Coordinate Force Generation and Direct Membrane Trafficking. _Proceedings of the National Academy of Sciences._ [Link](http://www.pnas.org/content/114/29/E5854)
+Myosin-independent cytokinesis in _Giardia_ Utilizes Flagella to Coordinate Force Generation and Direct Membrane Trafficking. _Proceedings of the National Academy of Sciences (PNAS)._ [Link](http://www.pnas.org/content/114/29/E5854)
     
 * Koelle, S., Wu, C., __Xu, J.__,  Lu, R., Li, B., Donahue, R. E. and Dunbar, C. E. (2017). Quantitative Stability of Hematopoietic Stem and Progenitor Cell Clonal Output in Rhesus Macaques Receiving Transplants. _Blood._  [Link](http://www.bloodjournal.org/content/129/11/1448)
     
@@ -105,7 +107,12 @@ Myosin-independent cytokinesis in _Giardia_ Utilizes Flagella to Coordinate Forc
 
 Software
 -------
-* [PDSIR:](https://github.com/rmorsomme/PDSIR) R package, fast data augmentation for sampling from the exact stochastic SIR posterior under incidence data
+* [HIVflow:](https://github.com/fanbu1995/HIV-transmission-PoissonProcess) R and Python code for learning transmission flow in latent spatial point process model of transmission structure via data-augmented MCMC
+
+* [BCC:](https://github.com/SaptarshiC98/BCC) R code, biconvex clustering with adaptive feature selection
+
+* [PDSIR:](https://github.com/rmorsomme/PDSIR) R package, fast data-augmented MCMC for sampling from the _exact_ stochastic SIR posterior under incidence data
+    * Extension with change-point detection and heterogeneous transmission rate [here!](https://github.com/JennyHuang19/damcmc_timevarying_beta)
 
 * [QNMM:](https://github.com/medhaaga/Quasi-Newton-accelerated-MM) R package for quasi-Newton acceleration of MM and EM algorithms
 
