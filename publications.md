@@ -9,7 +9,7 @@ Preprints
 -------
  (__\*__ _denotes equal contribution_)
  
-* Chandra, N., Dunson, D. and __Xu, J.__. Inferring Covariance Structure from Multiple Data Sources via Subspace Factor Analysis. [Link](https://arxiv.org/abs/2305.04113)
+* Chandra, N., Dunson, D. and __Xu, J.__ Inferring Covariance Structure from Multiple Data Sources via Subspace Factor Analysis. [Link](https://arxiv.org/abs/2305.04113)
  
  * Jiang, H. and __Xu, J.__  The Stochastic Proximal Distance Algorithm. (**ASA Statistical Computing and Statistical Graphics Section Student Paper Competition Award**). [Link](https://arxiv.org/abs/2210.12277) 
  
@@ -42,12 +42,13 @@ Publications
 * Presman, R. and __Xu, J.__  (2023). Distance-to-Set Priors and Constrained Bayesian Inference. _Artificial Intelligence and Statistics_. **(Oral)** [Link](https://arxiv.org/abs/2210.12258)
  
 * Awasthi, A. and __Xu, J.__ (2023). Fast Computation of Branching Process Transition Probabilities via ADMM. _Artificial Intelligence and Statistics_. [Link](https://arxiv.org/abs/2302.11801)
-  
+ 
+ * Paul, D.\*, Chakraborty, S.\*, Das, S. and __Xu, J.__  (2022). Implicit Annealing in Kernel and Multi-kernel Spaces: A Strongly Consistent Clustering Approach. _IEEE Transactions in Pattern Analysis and Machine Intelligence_. [Link](https://ieeexplore.ieee.org/abstract/document/9928792/) 
+
  * Chakraborty, S. and __Xu, J.__ (2023). Biconvex Clustering. _Journal of Computational and Graphical Statistics_.  [Link](https://www.tandfonline.com/doi/full/10.1080/10618600.2023.2197474)
 
  * __Xu, J.__ and Lange, K. (2022). A Proximal Distance Algorithm for Likelihood-based Sparse Covariance Estimation. _Biometrika_. [Link](https://academic.oup.com/biomet/advance-article-abstract/doi/10.1093/biomet/asac011/6529114)
 
- * Paul, D.\*, Chakraborty, S.\*, Das, S. and __Xu, J.__  (2022). Implicit Annealing in Kernel and Multi-kernel Spaces: A Strongly Consistent Clustering Approach. _IEEE Transactions in Pattern Analysis and Machine Intelligence_. [Link](https://ieeexplore.ieee.org/abstract/document/9928792/) 
  
  * Scalabrino, M.L, Thapa , M., Chew, L. A., Zhang, E., __Xu, J.__, Sampath, A. P.,  Chen, J., Field, G.D.  (2022). Robust Cone-mediated Signaling Persists Late into Rod Photoreceptor Degeneration. _eLife._ [Link](https://elifesciences.org/articles/80271)
  
