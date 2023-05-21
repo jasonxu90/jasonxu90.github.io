@@ -43,7 +43,7 @@ Publications
  
 * Awasthi, A. and __Xu, J.__ (2023). Fast Computation of Branching Process Transition Probabilities via ADMM. _Artificial Intelligence and Statistics_. [Link](https://arxiv.org/abs/2302.11801)
  
- * Paul, D.\*, Chakraborty, S.\*, Das, S. and __Xu, J.__  (2022). Implicit Annealing in Kernel and Multi-kernel Spaces: A Strongly Consistent Clustering Approach. _IEEE Transactions in Pattern Analysis and Machine Intelligence_. [Link](https://ieeexplore.ieee.org/abstract/document/9928792/) 
+ * Paul, D.\*, Chakraborty, S.\*, Das, S. and __Xu, J.__  (2023). Implicit Annealing in Kernel and Multi-kernel Spaces: A Strongly Consistent Clustering Approach. _IEEE Transactions in Pattern Analysis and Machine Intelligence_. [Link](https://ieeexplore.ieee.org/abstract/document/9928792/) 
 
  * Chakraborty, S. and __Xu, J.__ (2023). Biconvex Clustering. _Journal of Computational and Graphical Statistics_.  [Link](https://www.tandfonline.com/doi/full/10.1080/10618600.2023.2197474)
 
