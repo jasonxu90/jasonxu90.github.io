@@ -42,6 +42,8 @@ Publications
 * Presman, R. and __Xu, J.__  (2023). Distance-to-Set Priors and Constrained Bayesian Inference. _Artificial Intelligence and Statistics_. **(Oral)** [Link](https://arxiv.org/abs/2210.12258)
  
 * Awasthi, A. and __Xu, J.__ (2023). Fast Computation of Branching Process Transition Probabilities via ADMM. _Artificial Intelligence and Statistics_. [Link](https://arxiv.org/abs/2302.11801)
+
+ * Won, J., Lange, K. and __Xu, J.__ (2023). A Unified Analysis of Convex and Non-convex _l_<sub>p</sub>-ball Projection Problems. _Optimization Letters_. [Link](https://link.springer.com/content/pdf/10.1007/s11590-022-01919-0.pdf)
  
  * Paul, D.\*, Chakraborty, S.\*, Das, S. and __Xu, J.__  (2023). Implicit Annealing in Kernel and Multi-kernel Spaces: A Strongly Consistent Clustering Approach. _IEEE Transactions in Pattern Analysis and Machine Intelligence_. [Link](https://ieeexplore.ieee.org/abstract/document/9928792/) 
 
@@ -54,9 +56,7 @@ Publications
  
 *  Vellal, A., Chakraborty, S. and __Xu, J__. (2022). Bregman Power _k_-Means for Clustering Exponential
 Family Data. _International Conference on Machine Learning._ [Link](https://icml.cc/Conferences/2022/Schedule)
- 
- * Won, J., Lange, K. and __Xu, J.__ (2022). A Unified Analysis of Convex and Non-convex _l_<sub>p</sub>-ball Projection Problems. _Optimization Letters_. [Link](https://link.springer.com/content/pdf/10.1007/s11590-022-01919-0.pdf)
- 
+  
   * Bu, F., Aiello, A., __Xu, J.\*__ and Volfovsky, A\* (2022). Likelihood-based Inference for Partially Observed Epidemics on Dynamic Networks. _Journal of the American Statistical Association._ (**SBSS Student Paper Award**) [Link](https://www.tandfonline.com/doi/full/10.1080/01621459.2020.1790376)
 
  * Stutz, T., Sehl, M., Sinsheimer, J. and __Xu, J__ (2022). Computational Tools for Assessing Gene Therapy under Branching Process Models of Mutation.  _Bulletin of Mathematical Biology_. [Link](https://link.springer.com/article/10.1007/s11538-021-00969-2)
