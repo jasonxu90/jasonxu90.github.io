@@ -18,8 +18,6 @@ Preprints
  * Bu, F., Galiwango, R., Grabowski, K., Ratmann, O. and __Xu, J__. Inferring HIV Transmission Patterns from Viral Deep-Sequence Data via Latent Typed Point Processes. [Link](https://arxiv.org/abs/2302.11567)
  
  * Morsomme, R. and __Xu, J.__  Exact Inference for Stochastic Epidemic Models via Uniformly Ergodic Block Sampling. (**ASA Statistics in Epidemiology Young Investigator Paper Award**).  [Link](https://arxiv.org/abs/2201.09722)
- 
- * Awasthi, A., Huang, J., Minin, V., Chow, D., and __Xu, J.__. Fitting a Stochastic Model of Intensive Care Occupancy to Noisy Hospitalization Time Series.  [Link](https://arxiv.org/abs/2203.00229)
 
 * Bu, F., Aiello, A., Volfovsky, A.\* and __Xu,J.\*__ Likelihood-based Inference for partially observed stochastic epidemics with individual heterogeneity.  [Link](https://arxiv.org/abs/2112.07892)
 
@@ -35,7 +33,9 @@ Publications
 -------
  (__\*__ _denotes equal contribution_)
    
- * Agarwal, M. and __Xu, J.__ (2023). Quasi-Newton Acceleration of EM and MM Algorithms via Broyden's Method with Extrapolation. _Conditionally accepted_. [Link](https://arxiv.org/abs/2201.05935)
+ * Awasthi, A., Minin, V., Huang, J., Chow, D., and __Xu, J.__. Fitting a Stochastic Model of Intensive Care Occupancy to Noisy Hospitalization Time Series. _Statistics in Medicine (in press)_. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.9907) 
+
+ * Agarwal, M. and __Xu, J.__ (2023). Quasi-Newton Acceleration of EM and MM Algorithms via Broyden's Method with Extrapolation. _Journal of Computational and Graphical Statistics (in press)_. [Link](https://www.tandfonline.com/doi/abs/10.1080/10618600.2023.2257261)
  
  * Landeros, A.,  __Xu, J.__ and Lange, K (2023). MM Optimization Algorithms: Proximal Distance Algorithms, Path Following, and Trust Regions. _Proceedings of the National Academy of Sciences (PNAS)_. [Link](https://www.pnas.org/doi/10.1073/pnas.2303168120)
 
