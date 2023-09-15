@@ -33,7 +33,7 @@ Publications
 -------
  (__\*__ _denotes equal contribution_)
    
- * Awasthi, A., Minin, V., Huang, J., Chow, D., and __Xu, J.__. Fitting a Stochastic Model of Intensive Care Occupancy to Noisy Hospitalization Time Series. _Statistics in Medicine (in press)_. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.9907) 
+ * Awasthi, A., Minin, V., Huang, J., Chow, D. and __Xu, J.__. (2023). Fitting a Stochastic Model of Intensive Care Occupancy to Noisy Hospitalization Time Series. _Statistics in Medicine (in press)_. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.9907) 
 
  * Agarwal, M. and __Xu, J.__ (2023). Quasi-Newton Acceleration of EM and MM Algorithms via Broyden's Method with Extrapolation. _Journal of Computational and Graphical Statistics (in press)_. [Link](https://www.tandfonline.com/doi/abs/10.1080/10618600.2023.2257261)
  
