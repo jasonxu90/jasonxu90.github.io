@@ -31,7 +31,7 @@ Publications
 -------
  (__\*__ _denotes equal contribution_)
    
-  * Bu, F., Galiwango, R., Grabowski, K., Ratmann, O. and __Xu, J__. Inferring HIV Transmission Patterns from Viral Deep-Sequence Data via Latent Typed Point Processes. _Biometrics (to appear) [Link](https://arxiv.org/abs/2302.11567)
+  * Bu, F., Galiwango, R., Grabowski, K., Ratmann, O. and __Xu, J__. Inferring HIV Transmission Patterns from Viral Deep-Sequence Data via Latent Typed Point Processes. _Biometrics (to appear)_. [Link](https://arxiv.org/abs/2302.11567)
 
  * Awasthi, A., Minin, V., Huang, J., Chow, D. and __Xu, J.__. (2023). Fitting a Stochastic Model of Intensive Care Occupancy to Noisy Hospitalization Time Series. _Statistics in Medicine_. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.9907) 
 
