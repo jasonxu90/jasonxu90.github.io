@@ -14,7 +14,6 @@ Some recent and upcoming:
 
 * Research assistant Haoyu Jiang's [recent work](https://arxiv.org/pdf/2210.12277) received a [Student Paper Award](https://community.amstat.org/jointscsg-section/awards/student-paper-competition) from the ASA Statistical Computing and Statistical Graphics Section. Congratulations! 
 
-* Our reading group on stochastic modeling/advanced MCMC is meeting Wednesdays 11:30AM Fall semester
 
 * I am Area Chairing ICML, AIStat, ICLR, and NeurIPS.
 

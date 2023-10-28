@@ -12,12 +12,10 @@ Preprints
 * Chandra, N., Dunson, D. and __Xu, J.__ Inferring Covariance Structure from Multiple Data Sources via Subspace Factor Analysis. [Link](https://arxiv.org/abs/2305.04113)
  
  * Jiang, H. and __Xu, J.__  The Stochastic Proximal Distance Algorithm. (**ASA Statistical Computing and Statistical Graphics Section Student Paper Competition Award**). [Link](https://arxiv.org/abs/2210.12277) 
- 
-* Huang, J., Morsomme, R., Dunson, D. and __Xu, J__. Detecting Changes in the Transmission Rate of a Stochastic Epidemic Model. [Link](https://arxiv.org/abs/2211.14691)
   
- * Bu, F., Galiwango, R., Grabowski, K., Ratmann, O. and __Xu, J__. Inferring HIV Transmission Patterns from Viral Deep-Sequence Data via Latent Typed Point Processes. [Link](https://arxiv.org/abs/2302.11567)
- 
  * Morsomme, R. and __Xu, J.__  Exact Inference for Stochastic Epidemic Models via Uniformly Ergodic Block Sampling. (**ASA Statistics in Epidemiology Young Investigator Paper Award**).  [Link](https://arxiv.org/abs/2201.09722)
+ 
+ * Huang, J., Morsomme, R., Dunson, D. and __Xu, J__. Detecting Changes in the Transmission Rate of a Stochastic Epidemic Model. [Link](https://arxiv.org/abs/2211.14691)
 
 * Bu, F., Aiello, A., Volfovsky, A.\* and __Xu,J.\*__ Likelihood-based Inference for partially observed stochastic epidemics with individual heterogeneity.  [Link](https://arxiv.org/abs/2112.07892)
 
@@ -33,9 +31,11 @@ Publications
 -------
  (__\*__ _denotes equal contribution_)
    
- * Awasthi, A., Minin, V., Huang, J., Chow, D. and __Xu, J.__. (2023). Fitting a Stochastic Model of Intensive Care Occupancy to Noisy Hospitalization Time Series. _Statistics in Medicine (in press)_. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.9907) 
+  * Bu, F., Galiwango, R., Grabowski, K., Ratmann, O. and __Xu, J__. Inferring HIV Transmission Patterns from Viral Deep-Sequence Data via Latent Typed Point Processes. _Biometrics (to appear) [Link](https://arxiv.org/abs/2302.11567)
 
- * Agarwal, M. and __Xu, J.__ (2023). Quasi-Newton Acceleration of EM and MM Algorithms via Broyden's Method with Extrapolation. _Journal of Computational and Graphical Statistics (in press)_. [Link](https://www.tandfonline.com/doi/abs/10.1080/10618600.2023.2257261)
+ * Awasthi, A., Minin, V., Huang, J., Chow, D. and __Xu, J.__. (2023). Fitting a Stochastic Model of Intensive Care Occupancy to Noisy Hospitalization Time Series. _Statistics in Medicine_. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.9907) 
+
+ * Agarwal, M. and __Xu, J.__ (2023). Quasi-Newton Acceleration of EM and MM Algorithms via Broyden's Method with Extrapolation. _Journal of Computational and Graphical Statistics_. [Link](https://www.tandfonline.com/doi/abs/10.1080/10618600.2023.2257261)
  
  * Landeros, A.,  __Xu, J.__ and Lange, K (2023). MM Optimization Algorithms: Proximal Distance Algorithms, Path Following, and Trust Regions. _Proceedings of the National Academy of Sciences (PNAS)_. [Link](https://www.pnas.org/doi/10.1073/pnas.2303168120)
 
@@ -67,10 +67,10 @@ Family Data. _International Conference on Machine Learning._ [Link](https://icml
  
   * Ciccone, E.J., et al. (2021). SARS-CoV-2 Infection in Healthcare Personnel and Their Household Contacts at a Tertiary Academic Medical Center: Protocol for a Longitudinal Cohort Study. _JMIR Research Protocols_.  [Link](https://www.researchprotocols.org/2021/4/e25410)
    
- * Zhang, Z., Lange, K. and __Xu, J.__ (2020). Simple and Scalable Sparse _k_-Means Clustering via Feature Ranking. _Neural Information Processing Systems (NeurIPS)._ **(Spotlight Paper)** [Link](https://papers.nips.cc/paper/2020/file/735ddec196a9ca5745c05bec0eaa4bf9-Paper.pdf)
- 
  * Stutz, T., Landeros, A., __Xu, J.__, Sinsheimer, J. S., Lange, K. and Sehl, M. E (2021). Stochastic Simulation Algorithms for Interacting Particle Systems. _PLOS One_. [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247046)
 
+ * Zhang, Z., Lange, K. and __Xu, J.__ (2020). Simple and Scalable Sparse _k_-Means Clustering via Feature Ranking. _Neural Information Processing Systems (NeurIPS)._ **(Spotlight Paper)** [Link](https://papers.nips.cc/paper/2020/file/735ddec196a9ca5745c05bec0eaa4bf9-Paper.pdf)
+ 
 * Chakraborty, S.\*, Paul, D.\*, Das, S. and __Xu, J.__ (2020). Entropy Weighted Power _k_-Means Clustering. _Artificial Intelligence and Statistics
 (AISTATS)._ [Link](http://proceedings.mlr.press/v108/chakraborty20a.html)
 

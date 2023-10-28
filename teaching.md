@@ -1,6 +1,8 @@
 ---
 # [](#header-1)Teaching and Mentoring
 
+* Our biweekly reading group on stochastic modeling and advanced MCMC meets Wednesdays 11:30AM Fall semester
+
 * STAT 721: Linear Models, Fall 2023.
 
 * STAT 432: Theory and Methods of Statistical Learning, Fall 2020, Spring 2021, Fall 2021, Spring 2022.
