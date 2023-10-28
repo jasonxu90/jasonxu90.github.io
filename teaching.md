@@ -27,6 +27,8 @@
 Student Collaborators and (_first positions_)
 -------
 * Piotr Suder, PhD student
+* Suchismita Roy, PhD student
+* Min Chen, MS student
 * Rick Presman, PhD candidate
 * Raphael Morsomme, PhD candidate
 * Achal Awasthi, Biostatistics PhD candidate
