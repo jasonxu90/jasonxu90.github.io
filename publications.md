@@ -108,6 +108,8 @@ Myosin-independent cytokinesis in _Giardia_ Utilizes Flagella to Coordinate Forc
 
 Software
 -------
+* [SUFA:](https://github.com/noirritchandra/SUFA) R package for identifiable subspace factor analysis, with fast parallelized HMC-within-Gibbs sampler
+
 * [HIVflow:](https://github.com/fanbu1995/HIV-transmission-PoissonProcess) R and Python code for learning transmission flow in latent spatial point process model of transmission structure via data-augmented MCMC
 
 * [BCC:](https://github.com/SaptarshiC98/BCC) R code, biconvex clustering with adaptive feature selection
