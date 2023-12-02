@@ -9,6 +9,10 @@ Preprints
 -------
  (__\*__ _denotes equal contribution_)
  
+* Suder, P.,  __Xu, J__ and Dunson, D. Bayesian Transfer Learning.  
+ 
+* Morsomme, R.\*, Chen, M.\*, and __Xu, J.__ . A family of flexible and scalable temporal stochastic epidemic models.
+ 
 * Chandra, N., Dunson, D. and __Xu, J.__ Inferring Covariance Structure from Multiple Data Sources via Subspace Factor Analysis. [Link](https://arxiv.org/abs/2305.04113)
  
  * Jiang, H. and __Xu, J.__  The Stochastic Proximal Distance Algorithm. (**ASA Statistical Computing and Statistical Graphics Section Student Paper Competition Award**). [Link](https://arxiv.org/abs/2210.12277) 
@@ -31,7 +35,7 @@ Publications
 -------
  (__\*__ _denotes equal contribution_)
    
-  * Bu, F., Galiwango, R., Grabowski, K., Ratmann, O. and __Xu, J__. (2023). Inferring HIV Transmission Patterns from Viral Deep-Sequence Data via Latent Typed Point Processes. _Biometrics (to appear)_. [Link](https://arxiv.org/abs/2302.11567)
+  * Bu, F., Galiwango, R., Grabowski, K., Ratmann, O. and __Xu, J__. (2023). Inferring HIV Transmission Patterns from Viral Deep-Sequence Data via Latent Typed Point Processes. _Biometrics (in press)_. [Link](https://arxiv.org/abs/2302.11567)
 
  * Awasthi, A., Minin, V., Huang, J., Chow, D. and __Xu, J.__ (2023). Fitting a Stochastic Model of Intensive Care Occupancy to Noisy Hospitalization Time Series. _Statistics in Medicine_. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.9907) 
 

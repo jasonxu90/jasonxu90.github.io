@@ -1,7 +1,7 @@
 ---
 # [](#header-1)Teaching and Mentoring
 
-* Our biweekly reading group on stochastic modeling and advanced MCMC meets Wednesdays 11:30AM Fall semester
+* STAT 863: Advanced Computational Statistics, Spring 2024, Spring 2020.
 
 * STAT 721: Linear Models, Fall 2023.
 
@@ -10,8 +10,6 @@
 * STAT 790: Inference for Continuous-time Markov Models, Fall 2021.
 
 * STAT 701: Readings in Statistical Science, Spring 2021.
-
-* STAT 863: Advanced Computational Statistics, Spring 2020.
 
 * STAT 250: Statistics, Fall 2018, Spring 2019, Fall 2019.
 
@@ -29,13 +27,14 @@ Student Collaborators and (_first positions_)
 * Piotr Suder, PhD student
 * Suchismita Roy, PhD student
 * Min Chen, MS student
+* Jiachang Liu, PhD candidate in electrical engineering
 * Rick Presman, PhD candidate
 * Raphael Morsomme, PhD candidate
 * Achal Awasthi, Biostatistics PhD candidate
+* Aihua Li, MS student (_PhD Statistical Science, Duke University_)
 * Haoyu Jiang, MS student (_PhD Statistics, University of Illinois Urbana-Champaign_)
 * Jenny Huang, undergraduate (_PhD EECS, Massachusetts Institute of Technology_)
 * Adithya Vellal, undergraduate (_Machine learning engineer, Abnormal Security_)
-* Aihua Li, MS student (_PhD Statistical Science, Duke University_)
 * Fan Bu, PhD student (_Postdoc, Suchard group, University of California Los Angeles_)
 * Mishek Thapa, undergraduate (_Research assistant, Field Lab, Duke Neurobiology_)
 * Medha Agarwal, MS (_PhD Statistics, University of Washington_)

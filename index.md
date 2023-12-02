@@ -9,11 +9,11 @@ I grew up in Tucson, where I received a BS in Mathematics from the University of
 
 Some recent and upcoming:
 
+* Research assistant Min Chen won the Dean's Research Award for his project on scalable temporal smoothing for rate-heteregeneous SIR models. Congratulations!
 
 * Research assistant Rick Presman's [recent work](https://arxiv.org/abs/2210.12258) was featured as an Oral Presentation at [Artificial Intelligence and Statistics](http://aistats.org/aistats2023/accepted.html) (top ~1.5% of submissions). Congratulations!
 
 * Research assistant Haoyu Jiang's [recent work](https://arxiv.org/pdf/2210.12277) received a [Student Paper Award](https://community.amstat.org/jointscsg-section/awards/student-paper-competition) from the ASA Statistical Computing and Statistical Graphics Section. Congratulations! 
-
 
 * I am Area Chairing ICML, AIStat, ICLR, and NeurIPS.
 
