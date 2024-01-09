@@ -19,8 +19,6 @@ Preprints
   
  * Morsomme, R. and __Xu, J.__  Exact Inference for Stochastic Epidemic Models via Uniformly Ergodic Block Sampling. (**ASA Statistics in Epidemiology Young Investigator Paper Award**).  [Link](https://arxiv.org/abs/2201.09722)
  
- * Huang, J., Morsomme, R., Dunson, D. and __Xu, J__. Detecting Changes in the Transmission Rate of a Stochastic Epidemic Model. [Link](https://arxiv.org/abs/2211.14691)
-
 * Bu, F., Aiello, A., Volfovsky, A.\* and __Xu,J.\*__ Likelihood-based Inference for partially observed stochastic epidemics with individual heterogeneity.  [Link](https://arxiv.org/abs/2112.07892)
 
 * He, M., Lu, D., __Xu, J.\*__ and Xavier, R\*. Community Detection in Weighted Multilayer Networks with Ambient Noise.  [Link](https://arxiv.org/abs/2103.00486)
@@ -34,6 +32,9 @@ Thesis
 Publications 
 -------
  (__\*__ _denotes equal contribution_)
+ 
+  * Huang, J., Morsomme, R., Dunson, D. and __Xu, J__. (2024). Detecting Changes in the Transmission Rate of a Stochastic Epidemic Model. _Statistics in Medicine (in press)_. [Link](https://arxiv.org/abs/2211.14691)
+
    
   * Bu, F., Galiwango, R., Grabowski, K., Ratmann, O. and __Xu, J__. (2023). Inferring HIV Transmission Patterns from Viral Deep-Sequence Data via Latent Typed Point Processes. _Biometrics (in press)_. [Link](https://arxiv.org/abs/2302.11567)
 
