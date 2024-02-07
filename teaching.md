@@ -24,6 +24,7 @@
 
 Student Collaborators and (_first positions_)
 -------
+* Sam Rosen, PhD student
 * Piotr Suder, PhD student
 * Suchismita Roy, PhD student
 * Min Chen, MS student

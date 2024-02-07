@@ -38,9 +38,9 @@ Publications
    
   * Bu, F., Galiwango, R., Grabowski, K., Ratmann, O. and __Xu, J__. (2023). Inferring HIV Transmission Patterns from Viral Deep-Sequence Data via Latent Typed Point Processes. _Biometrics (in press)_. [Link](https://arxiv.org/abs/2302.11567)
 
- * Awasthi, A., Minin, V., Huang, J., Chow, D. and __Xu, J.__ (2023). Fitting a Stochastic Model of Intensive Care Occupancy to Noisy Hospitalization Time Series. _Statistics in Medicine_. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.9907) 
-
  * Agarwal, M. and __Xu, J.__ (2023). Quasi-Newton Acceleration of EM and MM Algorithms via Broyden's Method with Extrapolation. _Journal of Computational and Graphical Statistics_. [Link](https://www.tandfonline.com/doi/abs/10.1080/10618600.2023.2257261)
+ 
+  * Awasthi, A., Minin, V., Huang, J., Chow, D. and __Xu, J.__ (2023). Fitting a Stochastic Model of Intensive Care Occupancy to Noisy Hospitalization Time Series. _Statistics in Medicine_. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.9907) 
  
  * Landeros, A.,  __Xu, J.__ and Lange, K. (2023). MM Optimization Algorithms: Proximal Distance Algorithms, Path Following, and Trust Regions. _Proceedings of the National Academy of Sciences (PNAS)_. [Link](https://www.pnas.org/doi/10.1073/pnas.2303168120)
 
