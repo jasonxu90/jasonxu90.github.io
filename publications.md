@@ -9,9 +9,15 @@ Preprints
 -------
  (__\*__ _denotes equal contribution_)
  
+
+* Zheng, C., Dilma, E., __Xu, J.__ and Duan, L. The Bridged Posterior: Optimization, Profile
+Likelihood and a New Approach to Generalized Bayes.
+
+* Morsomme, R., Halloway, S., Ryser, M. and __Xu, J.__ A Bayesian approach for fitting semi-Markov mixture models of cancer latency to individual-level screens.
+
 * Suder, P.,  __Xu, J__ and Dunson, D. Bayesian Transfer Learning.  
- 
-* Morsomme, R.\*, Chen, M.\*, and __Xu, J.__ . A family of flexible and scalable temporal stochastic epidemic models.
+
+* Morsomme, R.\*, Chen, M.\*, and __Xu, J.__  A family of flexible and scalable temporal stochastic epidemic models.
  
 * Chandra, N., Dunson, D. and __Xu, J.__ Inferring Covariance Structure from Multiple Data Sources via Subspace Factor Analysis. [Link](https://arxiv.org/abs/2305.04113)
  
@@ -36,7 +42,7 @@ Publications
   * Huang, J., Morsomme, R., Dunson, D. and __Xu, J__. (2024). Detecting Changes in the Transmission Rate of a Stochastic Epidemic Model. _Statistics in Medicine (in press)_. [Link](https://arxiv.org/abs/2211.14691)
 
    
-  * Bu, F., Galiwango, R., Grabowski, K., Ratmann, O. and __Xu, J__. (2023). Inferring HIV Transmission Patterns from Viral Deep-Sequence Data via Latent Typed Point Processes. _Biometrics (in press)_. [Link](https://arxiv.org/abs/2302.11567)
+  * Bu, F., Galiwango, R., Grabowski, K., Ratmann, O. and __Xu, J__. (2024). Inferring HIV Transmission Patterns from Viral Deep-Sequence Data via Latent Typed Point Processes. _Biometrics (in press)_. [Link](https://arxiv.org/abs/2302.11567)
 
  * Agarwal, M. and __Xu, J.__ (2023). Quasi-Newton Acceleration of EM and MM Algorithms via Broyden's Method with Extrapolation. _Journal of Computational and Graphical Statistics_. [Link](https://www.tandfonline.com/doi/abs/10.1080/10618600.2023.2257261)
  
