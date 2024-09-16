@@ -1,6 +1,8 @@
 ---
 # [](#header-1)Teaching and Mentoring
 
+* STAT 642: Time Series and Dynamic Models, Fall 2024.
+
 * STAT 863: Advanced Computational Statistics, Spring 2024, Spring 2020.
 
 * STAT 721: Linear Models, Fall 2023.
