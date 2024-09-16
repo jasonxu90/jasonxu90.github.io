@@ -37,13 +37,14 @@ Publications
  
  * Chandra, N., Dunson, D. and __Xu, J.__ (2024). Inferring Covariance Structure from Multiple Data Sources via Subspace Factor Analysis. _To appear, Journal of the American Statistical Association_. [Link](https://arxiv.org/abs/2305.04113)
  
- * Bu, F., Aiello, A., Volfovsky, A.\* and __Xu,J.\*__ (2024). Stochastic EM algorithm for partially observed stochastic epidemics with individual heterogeneity.  _Biostatistics_. [Link](https://arxiv.org/abs/2112.07892)
+ * Bu, F., Aiello, A., Volfovsky, A.\* and __Xu, J.\*__ (2024). Stochastic EM algorithm for partially observed stochastic epidemics with individual heterogeneity.  _Biostatistics_. [Link](https://arxiv.org/abs/2112.07892)
 
  * Agarwal, M. and __Xu, J.__ (2024). Quasi-Newton Acceleration of EM and MM Algorithms via Broyden's Method with Extrapolation. _Journal of Computational and Graphical Statistics_. [Link](https://www.tandfonline.com/doi/abs/10.1080/10618600.2023.2257261)
 
+  * Huang, J., Morsomme, R., Dunson, D. and __Xu, J__. (2024). Detecting Changes in the Transmission Rate of a Stochastic Epidemic Model. _Statistics in Medicine_. [Link](https://arxiv.org/abs/2211.14691)
+
   * Bu, F., Galiwango, R., Grabowski, K., Ratmann, O. and __Xu, J__. (2024). Inferring HIV Transmission Patterns from Viral Deep-Sequence Data via Latent Typed Point Processes. _Biometrics_. [Link](https://arxiv.org/abs/2302.11567)
 
-  * Huang, J., Morsomme, R., Dunson, D. and __Xu, J__. (2024). Detecting Changes in the Transmission Rate of a Stochastic Epidemic Model. _Statistics in Medicine_. [Link](https://arxiv.org/abs/2211.14691)
 
   * Awasthi, A., Minin, V., Huang, J., Chow, D. and __Xu, J.__ (2023). Fitting a Stochastic Model of Intensive Care Occupancy to Noisy Hospitalization Time Series. _Statistics in Medicine_. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.9907) 
  
