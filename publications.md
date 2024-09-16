@@ -9,13 +9,12 @@ Preprints
 -------
  (__\*__ _denotes equal contribution_)
  
+ * Morsomme, R., Halloway, S., Ryser, M. and __Xu, J.__ A Bayesian approach for fitting semi-Markov mixture models of cancer latency to individual-level screens.
 
 * Zheng, C., Dilma, E., __Xu, J.__ and Duan, L. The Bridged Posterior: Optimization, Profile
-Likelihood and a New Approach to Generalized Bayes.
+Likelihood and a New Approach to Generalized Bayes. [Link](https://arxiv.org/abs/2403.00968)
 
-* Morsomme, R., Halloway, S., Ryser, M. and __Xu, J.__ A Bayesian approach for fitting semi-Markov mixture models of cancer latency to individual-level screens.
-
-* Suder, P.,  __Xu, J__ and Dunson, D. Bayesian Transfer Learning.  
+* Suder, P.,  __Xu, J__ and Dunson, D. Bayesian Transfer Learning.  [Link](https://arxiv.org/abs/2312.13484)
 
 * Morsomme, R.\*, Chen, M.\*, and __Xu, J.__  A family of flexible and scalable temporal stochastic epidemic models.
  
