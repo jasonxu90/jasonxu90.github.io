@@ -37,7 +37,7 @@ Publications
  
  * Chandra, N., Dunson, D. and __Xu, J.__ (2024). Inferring Covariance Structure from Multiple Data Sources via Subspace Factor Analysis. _To appear, Journal of the American Statistical Association_. [Link](https://arxiv.org/abs/2305.04113)
  
- * Bu, F., Aiello, A., Volfovsky, A.\* and __Xu,J.\*__ (2024). Stochastic EM algorithm for partially observed stochastic epidemics with individual heterogeneity.  _Biostatistics_,[Link](https://arxiv.org/abs/2112.07892)
+ * Bu, F., Aiello, A., Volfovsky, A.\* and __Xu,J.\*__ (2024). Stochastic EM algorithm for partially observed stochastic epidemics with individual heterogeneity.  _Biostatistics_. [Link](https://arxiv.org/abs/2112.07892)
 
  * Agarwal, M. and __Xu, J.__ (2024). Quasi-Newton Acceleration of EM and MM Algorithms via Broyden's Method with Extrapolation. _Journal of Computational and Graphical Statistics_. [Link](https://www.tandfonline.com/doi/abs/10.1080/10618600.2023.2257261)
 
