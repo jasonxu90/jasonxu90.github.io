@@ -30,10 +30,9 @@ Student Collaborators and (_first positions_)
 * Piotr Suder, PhD student
 * Suchismita Roy, PhD student
 * Min Chen, MS student
-* Jiachang Liu, PhD candidate in electrical engineering
 * Rick Presman, PhD candidate
-* Raphael Morsomme, PhD candidate
-* Achal Awasthi, Biostatistics PhD candidate
+* Raphael Morsomme, PhD candidate (_Mathematical Statistician, FDA_)
+* Achal Awasthi, Biostatistics PhD candidate (_Incyte_)
 * Aihua Li, MS student (_PhD Statistical Science, Duke University_)
 * Haoyu Jiang, MS student (_PhD Statistics, University of Illinois Urbana-Champaign_)
 * Jenny Huang, undergraduate (_PhD EECS, Massachusetts Institute of Technology_)

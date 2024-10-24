@@ -12,8 +12,6 @@ Preprints
 
 * Suder, P.,  __Xu, J__ and Dunson, D. Bayesian Transfer Learning. _Minor revision_.  [Link](https://arxiv.org/abs/2312.13484)
 
- * Jiang, H. and __Xu, J.__  The Stochastic Proximal Distance Algorithm. _Minor revision_  (**ASA Statistical Computing and Statistical Graphics Section Student Paper Competition Award**). [Link](https://arxiv.org/abs/2210.12277) 
-  
  * Morsomme, R. and __Xu, J.__  Exact Inference for Stochastic Epidemic Models via Uniformly Ergodic Block Sampling. _Minor revision_  (**ASA Statistics in Epidemiology Young Investigator Paper Award**).  [Link](https://arxiv.org/abs/2201.09722)
  
  * Morsomme, R., Halloway, S., Ryser, M.\* and __Xu, J__\*. A Bayesian approach for fitting semi-Markov mixture models of cancer latency to individual-level screens.
@@ -37,6 +35,9 @@ Publications
  
  * Chandra, N., Dunson, D. and __Xu, J.__ (2024). Inferring Covariance Structure from Multiple Data Sources via Subspace Factor Analysis. _To appear, Journal of the American Statistical Association_. [Link](https://arxiv.org/abs/2305.04113)
  
+  * Jiang, H. and __Xu, J.__  The Stochastic Proximal Distance Algorithm. _Minor revision_  (**ASA Statistical Computing and Statistical Graphics Section Student Paper Competition Award**). _To appear, Statistics and Computing_. [Link](https://arxiv.org/abs/2210.12277) 
+  
+  
  * Bu, F., Aiello, A., Volfovsky, A.\* and __Xu, J.\*__ (2024). Stochastic EM algorithm for partially observed stochastic epidemics with individual heterogeneity.  _Biostatistics_. [Link](https://arxiv.org/abs/2112.07892)
 
  * Agarwal, M. and __Xu, J.__ (2024). Quasi-Newton Acceleration of EM and MM Algorithms via Broyden's Method with Extrapolation. _Journal of Computational and Graphical Statistics_. [Link](https://www.tandfonline.com/doi/abs/10.1080/10618600.2023.2257261)
