@@ -35,7 +35,7 @@ Publications
  
  * Chandra, N., Dunson, D. and __Xu, J.__ (2024). Inferring Covariance Structure from Multiple Data Sources via Subspace Factor Analysis. _To appear, Journal of the American Statistical Association_. [Link](https://arxiv.org/abs/2305.04113)
  
-  * Jiang, H. and __Xu, J.__  The Stochastic Proximal Distance Algorithm. _Minor revision_  (**ASA Statistical Computing and Statistical Graphics Section Student Paper Competition Award**). _To appear, Statistics and Computing_. [Link](https://arxiv.org/abs/2210.12277) 
+  * Jiang, H. and __Xu, J.__  The Stochastic Proximal Distance Algorithm. (**ASA Statistical Computing and Statistical Graphics Section Student Paper Competition Award**). _To appear, Statistics and Computing_. [Link](https://arxiv.org/abs/2210.12277) 
   
   
  * Bu, F., Aiello, A., Volfovsky, A.\* and __Xu, J.\*__ (2024). Stochastic EM algorithm for partially observed stochastic epidemics with individual heterogeneity.  _Biostatistics_. [Link](https://arxiv.org/abs/2112.07892)
