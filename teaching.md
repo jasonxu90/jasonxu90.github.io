@@ -26,11 +26,11 @@
 
 Student Collaborators and (_first positions_)
 -------
-* Sam Rosen, PhD student
-* Piotr Suder, PhD student
-* Suchismita Roy, PhD student
-* Min Chen, MS student
+* Sylvia Vincent, PhD student
+* Sam Rosen, PhD candidate
+* Suchismita Roy, PhD candidate
 * Rick Presman, PhD candidate
+* Min Chen, MS student (_PhD Statistics, University of Texas Austin_)
 * Raphael Morsomme, PhD candidate (_Mathematical Statistician, FDA_)
 * Achal Awasthi, Biostatistics PhD candidate (_Incyte_)
 * Aihua Li, MS student (_PhD Statistical Science, Duke University_)
@@ -38,7 +38,7 @@ Student Collaborators and (_first positions_)
 * Jenny Huang, undergraduate (_PhD EECS, Massachusetts Institute of Technology_)
 * Adithya Vellal, undergraduate (_Machine learning engineer, Abnormal Security_)
 * Fan Bu, PhD student (_Postdoc, Suchard group, University of California Los Angeles_)
-* Mishek Thapa, undergraduate (_Research assistant, Field Lab, Duke Neurobiology_)
+* Mishek Thapa, undergraduate (_Medical School, University of California Los Angeles_)
 * Medha Agarwal, MS (_PhD Statistics, University of Washington_)
 * Debolina Paul, MS (_PhD Statistics, Stanford University_)
 * Zhiyue Zhang, MS (_PhD Applied Math and Statistics, Johns Hopkins_)
