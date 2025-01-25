@@ -14,7 +14,7 @@ Preprints
 
  * Morsomme, R. and __Xu, J.__  Exact Inference for Stochastic Epidemic Models via Uniformly Ergodic Block Sampling. _Minor revision_  (**ASA Statistics in Epidemiology Young Investigator Paper Award**).  [Link](https://arxiv.org/abs/2201.09722)
  
- * Morsomme, R., Halloway, S., Ryser, M.\* and __Xu, J__\*. A Bayesian approach for fitting semi-Markov mixture models of cancer latency to individual-level screens.
+ * Morsomme, R., Halloway, S., Ryser, M.\* and __Xu, J__\*. A Bayesian approach for fitting semi-Markov mixture models of cancer latency to individual-level screens. [Link](https://arxiv.org/abs/2408.14625)
 
 * Zheng, C., Dilma, E., __Xu, J.__ and Duan, L. The Bridged Posterior: Optimization, Profile
 Likelihood and a New Approach to Generalized Bayes. [Link](https://arxiv.org/abs/2403.00968)
@@ -33,10 +33,10 @@ Publications
 -------
  (__\*__ _denotes equal contribution_)
  
+ 
  * Chandra, N., Dunson, D. and __Xu, J.__ (2024). Inferring Covariance Structure from Multiple Data Sources via Subspace Factor Analysis. _Journal of the American Statistical Association_. [Link](https://arxiv.org/abs/2305.04113)
  
   * Jiang, H. and __Xu, J.__  The Stochastic Proximal Distance Algorithm. (**ASA Statistical Computing and Statistical Graphics Section Student Paper Competition Award**). _Statistics and Computing_. [Link](https://arxiv.org/abs/2210.12277) 
-  
   
  * Bu, F., Aiello, A., Volfovsky, A.\* and __Xu, J.\*__ (2024). Stochastic EM algorithm for partially observed stochastic epidemics with individual heterogeneity.  _Biostatistics_. [Link](https://arxiv.org/abs/2112.07892)
 
