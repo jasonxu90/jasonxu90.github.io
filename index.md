@@ -11,7 +11,7 @@ Some recent and upcoming:
 
 * PhD Alum Raphael Morsomme received the Student Paper Award in the 2025 ASA LiDS Paper Competition. Congratulations!
 
-* I am moving from Duke to UCLA effective January 1!
+* I am moving from Duke to UCLA effective January!
 
 &nbsp;
 
