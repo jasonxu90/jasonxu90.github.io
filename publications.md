@@ -10,6 +10,8 @@ Preprints
  (__\*__ _denotes equal contribution_)
  
 
+* Li, A., Tokdar, S. and __Xu, J__. A Bayesian decision-theoretic approach to sparse estimation. 
+
 * Suder, P.,  __Xu, J__ and Dunson, D. Bayesian Transfer Learning. _Minor revision_.  [Link](https://arxiv.org/abs/2312.13484)
 
  * Morsomme, R. and __Xu, J.__  Exact Inference for Stochastic Epidemic Models via Uniformly Ergodic Block Sampling. _Minor revision_  (**ASA Statistics in Epidemiology Young Investigator Paper Award**).  [Link](https://arxiv.org/abs/2201.09722)
