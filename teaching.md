@@ -24,25 +24,25 @@
 * STAT 341: Intro to Probability and Mathematical Statistics II, University of Washington, Winter Quarter 2016. 
 
 
-Student Collaborators and (_first positions_)
+Student Mentoring
 -------
 * Sylvia Vincent, PhD student
 * Sam Rosen, PhD candidate
 * Suchismita Roy, PhD candidate
 * Rick Presman, PhD candidate
-* Min Chen, MS student (_PhD Statistics, University of Texas Austin_)
-* Raphael Morsomme, PhD candidate (_Mathematical Statistician, FDA_)
-* Achal Awasthi, Biostatistics PhD candidate (_Incyte_)
-* Aihua Li, MS student (_PhD Statistical Science, Duke University_)
-* Haoyu Jiang, MS student (_PhD Statistics, University of Illinois Urbana-Champaign_)
+* Min Chen, MS (_PhD Statistics, University of Texas Austin_)
+* Raphael Morsomme, PhD (_Mathematical Statistician, FDA_)
+* Achal Awasthi, Biostatistics PhD (_Incyte_)
+* Aihua Li, MS (_PhD Statistical Science, Duke University_)
+* Haoyu Jiang, MS (_PhD Statistics, University of Illinois Urbana-Champaign_)
 * Jenny Huang, undergraduate (_PhD EECS, Massachusetts Institute of Technology_)
 * Adithya Vellal, undergraduate (_Machine learning engineer, Abnormal Security_)
-* Fan Bu, PhD student (_Postdoc, Suchard group, University of California Los Angeles_)
+* Fan Bu, PhD (_Assistant Professor of Biostatistics, University of Michigan_)
 * Mishek Thapa, undergraduate (_Medical School, University of California Los Angeles_)
-* Medha Agarwal, MS (_PhD Statistics, University of Washington_)
-* Debolina Paul, MS (_PhD Statistics, Stanford University_)
-* Zhiyue Zhang, MS (_PhD Applied Math and Statistics, Johns Hopkins_)
-* Saptarshi Chakraborty, MS (_PhD Statistics, UC Berkeley_)
+* Saptarshi Chakraborty, Visiting MS (_Assistant Professor of Statistics, University of Michigan_)
+* Medha Agarwal, Visiting MS (_PhD Statistics, University of Washington_)
+* Debolina Paul, Visiting MS (_PhD Statistics, Stanford University_)
+* Zhiyue Zhang, Visiting MS (_PhD Applied Math and Statistics, Johns Hopkins_)
 * Jelena Trisovic, undergraduate RIPS research program at UCLA IPAM (_MS Electrical Engineering/AI Center PhD Fellow, ETH Zurich_)
 * Collin Cademartori, RIPS IPAM (_PhD Statistics, Columbia University_)
 * Xi Chen, RIPS IPAM  (_PhD Computer Science, Columbia University_)

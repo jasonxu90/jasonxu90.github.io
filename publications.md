@@ -9,19 +9,19 @@ Preprints
 -------
  (__\*__ _denotes equal contribution_)
  
+ * Zheng, C., Yang, Y., __Xu, J.__ and Duan, L.  Gradient-bridged posterior: Bayesian inference for models with implicit functions. [Link](https://arxiv.org/abs/2503.11637)
 
-* Li, A., Tokdar, S. and __Xu, J__. A Bayesian decision-theoretic approach to sparse estimation. 
+* Li, A., Tokdar, S. and __Xu, J__. A Bayesian decision-theoretic approach to sparse estimation. [Link](https://arxiv.org/abs/2502.00126)
 
-* Suder, P.,  __Xu, J__ and Dunson, D. Bayesian Transfer Learning. _Minor revision_.  [Link](https://arxiv.org/abs/2312.13484)
+* Suder, P.,  __Xu, J__ and Dunson, D. Bayesian transfer learning.  [Link](https://arxiv.org/abs/2312.13484)
 
- * Morsomme, R. and __Xu, J.__  Exact Inference for Stochastic Epidemic Models via Uniformly Ergodic Block Sampling. _Minor revision_  (**ASA Statistics in Epidemiology Young Investigator Paper Award**).  [Link](https://arxiv.org/abs/2201.09722)
+ * Morsomme, R. and __Xu, J.__  Exact Bayesian inference for fitting stochastic epidemic models to partially observed incidence data.  (**ASA Statistics in Epidemiology Young Investigator Paper Award**).  [Link](https://arxiv.org/abs/2201.09722)
  
  * Morsomme, R., Halloway, S., Ryser, M.\* and __Xu, J__\*. A Bayesian approach for fitting semi-Markov mixture models of cancer latency to individual-level screens. [Link](https://arxiv.org/abs/2408.14625)
 
-* Zheng, C., Dilma, E., __Xu, J.__ and Duan, L. The Bridged Posterior: Optimization, Profile
-Likelihood and a New Approach to Generalized Bayes. [Link](https://arxiv.org/abs/2403.00968)
+* Zheng, C., Dilma, E., __Xu, J.__ and Duan, L. The bridged posterior: optimization, profile
+likelihood and a new approach to generalized Bayes. [Link](https://arxiv.org/abs/2403.00968)
  
-* Morsomme, R.\*, Chen, M.\*, and __Xu, J.__  A family of flexible and scalable temporal stochastic epidemic models.
 
 * He, M., Lu, D., __Xu, J.\*__ and Xavier, R\*. Community Detection in Weighted Multilayer Networks with Ambient Noise.  [Link](https://arxiv.org/abs/2103.00486)
 
@@ -39,7 +39,7 @@ Publications
  
  * Chandra, N., Dunson, D. and __Xu, J.__ (2024). Inferring Covariance Structure from Multiple Data Sources via Subspace Factor Analysis. _Journal of the American Statistical Association_. [Link](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2408777)
  
-  * Jiang, H. and __Xu, J.__  The Stochastic Proximal Distance Algorithm. (**ASA Statistical Computing and Statistical Graphics Section Student Paper Competition Award**). _Statistics and Computing_. [Link](https://arxiv.org/abs/2210.12277) 
+  * Jiang, H. and __Xu, J.__  (2024). The Stochastic Proximal Distance Algorithm. (**ASA Statistical Computing and Statistical Graphics Section Student Paper Competition Award**). _Statistics and Computing_. [Link](https://arxiv.org/abs/2210.12277) 
   
  * Agarwal, M. and __Xu, J.__ (2024). Quasi-Newton Acceleration of EM and MM Algorithms via Broyden's Method with Extrapolation. _Journal of Computational and Graphical Statistics_. [Link](https://www.tandfonline.com/doi/abs/10.1080/10618600.2023.2257261)
 

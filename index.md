@@ -9,7 +9,11 @@ I grew up in Tucson, where I received a BS in Mathematics from the University of
 
 Some recent and upcoming:
 
-* PhD Alum Raphael Morsomme received the Student Paper Award in the 2025 ASA LiDS Paper Competition. Congratulations!
+* Together with Prof. Leo Duan, I will be teaching a short course on “Harnessing Optimization in Bayesian Inference” at JSM 2025
+
+* Congratulations to group alum Raphael Morsomme on receiving the Student Paper Award in the 2025 ASA LiDS Paper Competition
+
+* Congratulations to group alum Saptarshi Chakraborty who will join the Statistics faculty at University of Michigan
 
 * I am moving from Duke to UCLA effective January!
 
