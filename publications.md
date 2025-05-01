@@ -13,10 +13,6 @@ Preprints
 
 * Li, A., Tokdar, S. and __Xu, J__. A Bayesian decision-theoretic approach to sparse estimation. [Link](https://arxiv.org/abs/2502.00126)
 
-* Suder, P.,  __Xu, J__ and Dunson, D. Bayesian transfer learning.  [Link](https://arxiv.org/abs/2312.13484)
-
- * Morsomme, R. and __Xu, J.__  Exact Bayesian inference for fitting stochastic epidemic models to partially observed incidence data.  (**ASA Statistics in Epidemiology Young Investigator Paper Award**).  [Link](https://arxiv.org/abs/2201.09722)
- 
  * Morsomme, R., Halloway, S., Ryser, M.\* and __Xu, J__\*. A Bayesian approach for fitting semi-Markov mixture models of cancer latency to individual-level screens. [Link](https://arxiv.org/abs/2408.14625)
 
 * Zheng, C., Dilma, E., __Xu, J.__ and Duan, L. The bridged posterior: optimization, profile
@@ -35,6 +31,10 @@ Publications
 -------
  (__\*__ _denotes equal contribution_)
  
+  * Morsomme, R. and __Xu, J.__  (2025). Exact Bayesian inference for fitting stochastic epidemic models to partially observed incidence data. _Annals of Applied Statistics (to appear)_.  (**ASA Statistics in Epidemiology Young Investigator Paper Award**).  [Link](https://arxiv.org/abs/2201.09722)
+
+ * Suder, P.,  __Xu, J__ and Dunson, D. (2025). Bayesian transfer learning. _Statistical Science (to appear)_. [Link](https://arxiv.org/abs/2312.13484)
+
   * Bu, F., Aiello, A., Volfovsky, A.\* and __Xu, J.\*__ (2025). Stochastic EM algorithm for partially observed stochastic epidemics with individual heterogeneity.  _Biostatistics_. [Link](https://arxiv.org/abs/2112.07892)
  
  * Chandra, N., Dunson, D. and __Xu, J.__ (2024). Inferring Covariance Structure from Multiple Data Sources via Subspace Factor Analysis. _Journal of the American Statistical Association_. [Link](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2408777)
@@ -43,10 +43,9 @@ Publications
   
  * Agarwal, M. and __Xu, J.__ (2024). Quasi-Newton Acceleration of EM and MM Algorithms via Broyden's Method with Extrapolation. _Journal of Computational and Graphical Statistics_. [Link](https://www.tandfonline.com/doi/abs/10.1080/10618600.2023.2257261)
 
+  * Bu, F., Galiwango, R., Grabowski, K., Ratmann, O. and __Xu, J__. (2024). Inferring HIV Transmission Patterns from Viral Deep-Sequence Data via Latent Typed Point Processes. _Biometrics_. (**ISBA BBP Best Paper Award** )[Link](https://arxiv.org/abs/2302.11567)
+
   * Huang, J., Morsomme, R., Dunson, D. and __Xu, J__. (2024). Detecting Changes in the Transmission Rate of a Stochastic Epidemic Model. _Statistics in Medicine_. [Link](https://arxiv.org/abs/2211.14691)
-
-  * Bu, F., Galiwango, R., Grabowski, K., Ratmann, O. and __Xu, J__. (2024). Inferring HIV Transmission Patterns from Viral Deep-Sequence Data via Latent Typed Point Processes. _Biometrics_. [Link](https://arxiv.org/abs/2302.11567)
-
 
   * Awasthi, A., Minin, V., Huang, J., Chow, D. and __Xu, J.__ (2023). Fitting a Stochastic Model of Intensive Care Occupancy to Noisy Hospitalization Time Series. _Statistics in Medicine_. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.9907) 
  
