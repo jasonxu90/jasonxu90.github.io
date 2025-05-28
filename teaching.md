@@ -32,8 +32,8 @@ Student Mentoring
 * Rick Presman, PhD candidate
 * Min Chen, MS (_PhD Statistics, University of Texas Austin_)
 * Raphael Morsomme, PhD (_Mathematical Statistician, FDA_)
-* Achal Awasthi, Biostatistics PhD (_Incyte_)
 * Aihua Li, MS (_PhD Statistical Science, Duke University_)
+* Achal Awasthi, PhD Biostatistics (_Incyte_)
 * Haoyu Jiang, MS (_PhD Statistics, University of Illinois Urbana-Champaign_)
 * Jenny Huang, undergraduate (_PhD EECS, Massachusetts Institute of Technology_)
 * Adithya Vellal, undergraduate (_Machine learning engineer, Abnormal Security_)

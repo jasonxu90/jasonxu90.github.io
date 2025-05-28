@@ -45,11 +45,11 @@ Publications
 
   * Bu, F., Galiwango, R., Grabowski, K., Ratmann, O. and __Xu, J__. (2024). Inferring HIV Transmission Patterns from Viral Deep-Sequence Data via Latent Typed Point Processes. _Biometrics_. (**ISBA BBP Best Paper Award**). [Link](https://arxiv.org/abs/2302.11567)
 
-  * Huang, J., Morsomme, R., Dunson, D. and __Xu, J__. (2024). Detecting Changes in the Transmission Rate of a Stochastic Epidemic Model. _Statistics in Medicine_. [Link](https://arxiv.org/abs/2211.14691)
-
-  * Awasthi, A., Minin, V., Huang, J., Chow, D. and __Xu, J.__ (2023). Fitting a Stochastic Model of Intensive Care Occupancy to Noisy Hospitalization Time Series. _Statistics in Medicine_. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.9907) 
+ * Huang, J., Morsomme, R., Dunson, D. and __Xu, J__. (2024). Detecting Changes in the Transmission Rate of a Stochastic Epidemic Model. _Statistics in Medicine_. [Link](https://arxiv.org/abs/2211.14691)
  
  * Landeros, A.,  __Xu, J.__ and Lange, K. (2023). MM Optimization Algorithms: Proximal Distance Algorithms, Path Following, and Trust Regions. _Proceedings of the National Academy of Sciences (PNAS)_. [Link](https://www.pnas.org/doi/10.1073/pnas.2303168120)
+ 
+  * Awasthi, A., Minin, V., Huang, J., Chow, D. and __Xu, J.__ (2023). Fitting a Stochastic Model of Intensive Care Occupancy to Noisy Hospitalization Time Series. _Statistics in Medicine_. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.9907) 
 
 * Presman, R. and __Xu, J.__  (2023). Distance-to-Set Priors and Constrained Bayesian Inference. _Artificial Intelligence and Statistics_. **(Oral)** [Link](https://arxiv.org/abs/2210.12258)
  
