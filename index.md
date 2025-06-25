@@ -7,13 +7,13 @@ Before joining the faculty at UCLA, I was primary faculty in the [Department of 
 
 Some recent and upcoming:
 
-* Together with Prof. Leo Duan, I will be teaching a short course on “Harnessing Optimization in Bayesian Inference” at JSM 2025
+* Together with Prof. Leo Duan, I will be teaching a short course on “Harnessing Optimization in Bayesian Inference” at JSM 2025. Registration deadline is June 30
+
+* Our foray into typed point processes received the ISBA BBP Best Paper Award. Group alum Fan Bu will present at the [BBP conference](https://bnp14.org/bbp2025/) in LA June 27
 
 * Congratulations to group alum Raphael Morsomme on receiving the Student Paper Award in the 2025 ASA LiDS Paper Competition
 
 * Congratulations to group alum Saptarshi Chakraborty who will join the Statistics faculty at University of Michigan
-
-* I am moving from Duke to UCLA effective January!
 
 &nbsp;
 
