@@ -9,7 +9,7 @@ Some recent and upcoming:
 
 * Together with Prof. Leo Duan, I will be teaching a short course on “Harnessing Optimization in Bayesian Inference” at JSM 2025
 
-* Our foray into [typed point processes](https://academic.oup.com/biometrics/article/80/1/ujad015/7610191) received the [ISBA BBP Best Paper Award[(https://bnp14.org/bbp2025/) 
+* Our foray into [typed point processes](https://academic.oup.com/biometrics/article/80/1/ujad015/7610191) received the ISBA BBP [Best Paper Award](https://bnp14.org/bbp2025/) 
 
 * Congratulations to group alum Raphael Morsomme on receiving the Student Paper Award in the 2025 ASA LiDS Paper Competition
 
