@@ -1,6 +1,10 @@
 ---
 # [](#header-1)Teaching and Mentoring
 
+* BIOSTAT 216: Mathematical Methods for Biostatistics, Fall 2025. 
+
+* BIOSTAT 236: Longitudinal Data, Fall 2025.
+
 * STAT 642: Time Series and Dynamic Models, Fall 2024.
 
 * STAT 863: Advanced Computational Statistics, Spring 2020, Spring 2024.
@@ -15,7 +19,7 @@
 
 * STAT 250: Statistics, Fall 2018, Spring 2019, Fall 2019.
 
-* Lecturer, [2018 Rice University q-bio Summer School](http://q-bio.org/wp/qbss/2018lecturers/) 
+* Lecturer, 2018 Rice University q-bio Summer School.
 
 * Academic Mentor, RIPS undergraduate research program, UCLA Institute of Pure and Applied Mathematics, Summer 2017
 	
