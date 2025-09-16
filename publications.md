@@ -34,8 +34,7 @@ Publications
   
    * Chandra, N., Dunson, D. and __Xu, J.__ (2025). Inferring Covariance Structure from Multiple Data Sources via Subspace Factor Analysis. _Journal of the American Statistical Association_. [Link](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2408777)
 
-* Ryser, M., Holloway, S., Morsomme, R., Ryan, A., Apostolidou, S., Gentry-Maharaj, A., Gogebakan, K., Lange, J., __Xu, J.__, Menon, U. and Etzioni, R. (2025). Estimating the Opportunity for Early Detection of Ovarian Cancer Using Individual-Patient Data from a Large Randomized Controlled Trial. _Cancer Epidemiology, Biomarkers and Prevention_. [Link](https://aacrjournals.org/cebp/article-abstract/doi/10.1158/1055-9965.EPI-25-0498/764588/Estimating-the-Opportunity-for-Early-Detection-of)
-
+   * Ryser, M., Holloway, S., Morsomme, R., Ryan, A., Apostolidou, S., Gentry-Maharaj, A., Gogebakan, K., Lange, J., __Xu, J.__, Menon, U. and Etzioni, R. (2025). Estimating the Opportunity for Early Detection of Ovarian Cancer Using Individual-Patient Data from a Large Randomized Controlled Trial. _Cancer Epidemiology, Biomarkers and Prevention_. [Link](https://aacrjournals.org/cebp/article-abstract/doi/10.1158/1055-9965.EPI-25-0498/764588/Estimating-the-Opportunity-for-Early-Detection-of)
 
   * Bu, F., Aiello, A., Volfovsky, A.\* and __Xu, J.\*__ (2025). Stochastic EM algorithm for partially observed stochastic epidemics with individual heterogeneity.  _Biostatistics_. [Link](https://arxiv.org/abs/2112.07892)
 
