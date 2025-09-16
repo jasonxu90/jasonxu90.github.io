@@ -18,7 +18,6 @@ Preprints
 * Zheng, C., Dilma, E., __Xu, J.__ and Duan, L. The bridged posterior: optimization, profile
 likelihood and a new approach to generalized Bayes. [Link](https://arxiv.org/abs/2403.00968)
  
-
 * He, M., Lu, D., __Xu, J.\*__ and Xavier, R\*. Community Detection in Weighted Multilayer Networks with Ambient Noise.  [Link](https://arxiv.org/abs/2103.00486)
 
 * Gustafson, A., Hirn, M., Mohammed, K., Narayanan, H. and __Xu, J.__  Structural Risk Minimization for _C_<sup>1,1</sup>(R<sup>d</sup>) Regression.  [Link](https://arxiv.org/abs/1803.10884)
@@ -31,9 +30,12 @@ Publications
 -------
  (__\*__ _denotes equal contribution_)
  
-  * Morsomme, R. and __Xu, J.__  (2025). Exact Bayesian inference for fitting stochastic epidemic models to partially observed incidence data. _Annals of Applied Statistics (to appear)_.  (**ASA Statistics in Epidemiology Young Investigator Paper Award**).  [Link](https://arxiv.org/abs/2201.09722)
+  * Morsomme, R. and __Xu, J.__  (2025). Exact Bayesian inference for fitting stochastic epidemic models to partially observed incidence data. _Annals of Applied Statistics_.  (**ASA Statistics in Epidemiology Young Investigator Paper Award**).  [Link](https://arxiv.org/abs/2201.09722)
   
    * Chandra, N., Dunson, D. and __Xu, J.__ (2025). Inferring Covariance Structure from Multiple Data Sources via Subspace Factor Analysis. _Journal of the American Statistical Association_. [Link](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2408777)
+
+* Ryser, M., Holloway, S., Morsomme, R., Ryan, A., Apostolidou, S., Gentry-Maharaj, A., Gogebakan, K., Lange, J., __Xu, J.__, Menon, U. and Etzioni, R. (2025). Estimating the Opportunity for Early Detection of Ovarian Cancer Using Individual-Patient Data from a Large Randomized Controlled Trial. _Cancer Epidemiology, Biomarkers and Prevention_. [Link](https://aacrjournals.org/cebp/article-abstract/doi/10.1158/1055-9965.EPI-25-0498/764588/Estimating-the-Opportunity-for-Early-Detection-of)
+
 
   * Bu, F., Aiello, A., Volfovsky, A.\* and __Xu, J.\*__ (2025). Stochastic EM algorithm for partially observed stochastic epidemics with individual heterogeneity.  _Biostatistics_. [Link](https://arxiv.org/abs/2112.07892)
 
