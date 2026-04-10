@@ -1,6 +1,8 @@
 ---
 # [](#header-1)Teaching and Mentoring
 
+* BIOSTAT 285: Advanced Topics: Machine Learning and Deep Learning, Winter 2026.
+
 * BIOSTAT 216: Mathematical Methods for Biostatistics, Fall 2025. 
 
 * BIOSTAT 236: Longitudinal Data, Fall 2025.
@@ -30,10 +32,12 @@
 
 Student Mentoring
 -------
+* Daisy Wang, PhD student
+* Anela Wang, PhD student
 * Sylvia Vincent, PhD student
-* Sam Rosen, PhD candidate
 * Suchismita Roy, PhD candidate
-* Rick Presman, PhD candidate
+* Sam Rosen, PhD Statistical Science
+* Rick Presman, PhD Statistical Science (_Quant, Belvedere Trading_)
 * Min Chen, MS (_PhD Statistics, University of Texas Austin_)
 * Raphael Morsomme, PhD (_Mathematical Statistician, FDA_)
 * Aihua Li, MS (_PhD Statistical Science, Duke University_)
