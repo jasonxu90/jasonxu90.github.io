@@ -9,13 +9,13 @@ Preprints
 -------
  (__\*__ _denotes equal contribution_)
  
-  * Duan, L., Wang, Y. and __Xu, J.__. Bayesian Distance-to-Set Models.
+  * Duan, L., Wang, Y. and __Xu, J.__ Bayesian Distance-to-Set Models. [Link](https://arxiv.org/abs/2604.10178)
  
- * Rosen, S. Chi, E. C. and __Xu, J.__. Biconvex Biclustering. [Link](https://arxiv.org/abs/2604.03936)
+ * Rosen, S. Chi, E. C. and __Xu, J.__ Biconvex Biclustering. [Link](https://arxiv.org/abs/2604.03936)
  
- * Roy, S., Fisher, A., and __Xu, J__. Marginal Likelihood Inference for Fitting Dynamical Survival Analysis Models to Epidemic Count Data. [Link](https://arxiv.org/abs/2602.04855)
+ * Roy, S., Fisher, A. and __Xu, J.__ Marginal Likelihood Inference for Fitting Dynamical Survival Analysis Models to Epidemic Count Data. [Link](https://arxiv.org/abs/2602.04855)
  
- * Rosen, S. and __Xu, J.__. Constrained Weighted Bayesian Bootstrap. 
+ * Rosen, S. and __Xu, J.__ Constrained Weighted Bayesian Bootstrap. 
  
  * Zheng, C., Yang, Y., __Xu, J.__ and Duan, L.  Gradient-bridged posterior: Bayesian inference for models with implicit functions. [Link](https://arxiv.org/abs/2503.11637)
 
