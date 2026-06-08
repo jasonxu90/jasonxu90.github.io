@@ -41,7 +41,7 @@ Publications
  
   * Rosen, S. and __Xu, J.__ (2026). Constrained Weighted Bayesian Bootstrap. _Uncertainty in Artificial Intelligence (UAI)_. [Link](https://arxiv.org/pdf/2606.04237)
  
-  * Suder, P.,  __Xu, J__ and Dunson, D. (2025). Bayesian transfer learning. _Statistical Science_. [Link](https://projecteuclid.org/journals/statistical-science/volume-40/issue-3/Bayesian-Transfer-Learning/10.1214/25-STS987.short)
+  * Suder, P.,  __Xu, J.__ and Dunson, D. (2025). Bayesian transfer learning. _Statistical Science_. [Link](https://projecteuclid.org/journals/statistical-science/volume-40/issue-3/Bayesian-Transfer-Learning/10.1214/25-STS987.short)
  
   * Morsomme, R. and __Xu, J.__  (2025). Exact Bayesian inference for fitting stochastic epidemic models to partially observed incidence data. _Annals of Applied Statistics_.  (**ASA Statistics in Epidemiology Young Investigator Paper Award**).  [Link](https://arxiv.org/abs/2201.09722)
   
@@ -55,7 +55,7 @@ Publications
   
  * Agarwal, M. and __Xu, J.__ (2024). Quasi-Newton Acceleration of EM and MM Algorithms via Broyden's Method with Extrapolation. _Journal of Computational and Graphical Statistics_. [Link](https://www.tandfonline.com/doi/abs/10.1080/10618600.2023.2257261)
 
-  * Bu, F., Galiwango, R., Grabowski, K., Ratmann, O. and __Xu, J__. (2024). Inferring HIV Transmission Patterns from Viral Deep-Sequence Data via Latent Typed Point Processes. _Biometrics_. (**ISBA BBP Best Paper Award**). [Link](https://arxiv.org/abs/2302.11567)
+  * Bu, F., Galiwango, R., Grabowski, K., Ratmann, O. and __Xu, J__. (2024). Inferring HIV Transmission Patterns from Viral Deep-Sequence Data via Latent Typed Point Processes. _Biometrics_. (**Best Paper Published in Biometrics 2024 Award**). [Link](https://arxiv.org/abs/2302.11567)
 
  * Huang, J., Morsomme, R., Dunson, D. and __Xu, J__. (2024). Detecting Changes in the Transmission Rate of a Stochastic Epidemic Model. _Statistics in Medicine_. [Link](https://arxiv.org/abs/2211.14691)
  
