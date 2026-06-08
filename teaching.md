@@ -1,11 +1,11 @@
 ---
 # [](#header-1)Teaching and Mentoring
 
+* BIOSTAT 216: Mathematical Methods for Biostatistics, Fall 2025, Fall 2026. 
+
+* BIOSTAT 236: Longitudinal Data, Fall 2025, Fall 2026.
+
 * BIOSTAT 285: Advanced Topics: Machine Learning and Deep Learning, Winter 2026.
-
-* BIOSTAT 216: Mathematical Methods for Biostatistics, Fall 2025. 
-
-* BIOSTAT 236: Longitudinal Data, Fall 2025.
 
 * STAT 642: Time Series and Dynamic Models, Fall 2024.
 

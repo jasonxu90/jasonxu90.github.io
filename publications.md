@@ -9,13 +9,15 @@ Preprints
 -------
  (__\*__ _denotes equal contribution_)
  
-  * Duan, L., Wang, Y. and __Xu, J.__ Bayesian Distance-to-Set Models. [Link](https://arxiv.org/abs/2604.10178)
+ * Rosen, S. and __Xu, J.__ Affinity Graph Connectivity in Convex Clustering. [Link](https://arxiv.org/pdf/2605.24673)
  
- * Rosen, S. Chi, E. C. and __Xu, J.__ Biconvex Biclustering. [Link](https://arxiv.org/abs/2604.03936)
+ * Holloway, S. T., Morsomme, R., Germann, S., __Xu, J.__ , Etzioni, R. B., Bulliard, J-L., Ryser, M. D. Estimation of Breast Cancer Overdiagnosis in a Swiss Breast Screening Cohort.
+ 
+ * Duan, L., Wang, Y. and __Xu, J.__ Bayesian Distance-to-Set Models. [Link](https://arxiv.org/abs/2604.10178)
  
  * Roy, S., Fisher, A. and __Xu, J.__ Marginal Likelihood Inference for Fitting Dynamical Survival Analysis Models to Epidemic Count Data. [Link](https://arxiv.org/abs/2602.04855)
  
- * Rosen, S. and __Xu, J.__ Constrained Weighted Bayesian Bootstrap. 
+ * Rosen, S. Chi, E. C. and __Xu, J.__ Biconvex Biclustering. [Link](https://arxiv.org/abs/2604.03936)
  
  * Zheng, C., Yang, Y., __Xu, J.__ and Duan, L.  Gradient-bridged posterior: Bayesian inference for models with implicit functions. [Link](https://arxiv.org/abs/2503.11637)
 
@@ -23,8 +25,7 @@ Preprints
 
  * Morsomme, R., Halloway, S., Ryser, M.\* and __Xu, J__\*. A Bayesian approach for fitting semi-Markov mixture models of cancer latency to individual-level screens. [Link](https://arxiv.org/abs/2408.14625)
 
-* Zheng, C., Dilma, E., __Xu, J.__ and Duan, L. The bridged posterior: optimization, profile
-likelihood and a new approach to generalized Bayes. [Link](https://arxiv.org/abs/2403.00968)
+* Zheng, C., Dilma, E., __Xu, J.__ and Duan, L. The bridged posterior: optimization, profile likelihood and a new approach to generalized Bayes. [Link](https://arxiv.org/abs/2403.00968)
  
 * He, M., Lu, D., __Xu, J.\*__ and Xavier, R\*. Community Detection in Weighted Multilayer Networks with Ambient Noise.  [Link](https://arxiv.org/abs/2103.00486)
 
@@ -37,6 +38,8 @@ Thesis
 Publications 
 -------
  (__\*__ _denotes equal contribution_)
+ 
+  * Rosen, S. and __Xu, J.__ (2026). Constrained Weighted Bayesian Bootstrap. _Uncertainty in Artificial intellieince_. [Link](https://arxiv.org/pdf/2606.04237)
  
   * Suder, P.,  __Xu, J__ and Dunson, D. (2025). Bayesian transfer learning. _Statistical Science_. [Link](https://projecteuclid.org/journals/statistical-science/volume-40/issue-3/Bayesian-Transfer-Learning/10.1214/25-STS987.short)
  
