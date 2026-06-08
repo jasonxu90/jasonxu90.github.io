@@ -39,7 +39,7 @@ Publications
 -------
  (__\*__ _denotes equal contribution_)
  
-  * Rosen, S. and __Xu, J.__ (2026). Constrained Weighted Bayesian Bootstrap. _Uncertainty in Artificial intellieince_. [Link](https://arxiv.org/pdf/2606.04237)
+  * Rosen, S. and __Xu, J.__ (2026). Constrained Weighted Bayesian Bootstrap. _Uncertainty in Artificial Intelligence (UAI)_. [Link](https://arxiv.org/pdf/2606.04237)
  
   * Suder, P.,  __Xu, J__ and Dunson, D. (2025). Bayesian transfer learning. _Statistical Science_. [Link](https://projecteuclid.org/journals/statistical-science/volume-40/issue-3/Bayesian-Transfer-Learning/10.1214/25-STS987.short)
  
